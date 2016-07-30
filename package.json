@@ -1,0 +1,22 @@
+{
+  "name": "poc-projeto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lsauwen/poc-projeto.git"
+  },
+  "author": "Leandro Sauwen de Assis <leandroassis@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lsauwen/poc-projeto/issues"
+  },
+  "homepage": "https://github.com/lsauwen/poc-projeto#readme",
+  "dependencies": {
+    "xml2js": "^0.4.17"
+  }
+}

@@ -1,0 +1,3248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sports file_date="2016-07-20T02:07:48.940">
+	<sport id="1" name="Football">
+		<event id="3" name="Eng. Premier League">
+			<match id="1174441" live_id="" name="Hull - Leicester" start_date="2016-08-13T12:30:00" streaming="0">
+				<bets>
+					<bet code="Ftb_23" id="26874026" name="Handicap">
+						<choice id="195418823" name="%1% -2" odd="16.00"/>
+						<choice id="195418828" name="Draw (%1% -2)" odd="8.75"/>
+						<choice id="195418833" name="%2% +2" odd="1.07"/>
+						<choice id="195418838" name="%1% -1" odd="7.00"/>
+						<choice id="195418843" name="Draw (%1% -1)" odd="4.50"/>
+						<choice id="195418848" name="%2% +1" odd="1.35"/>
+						<choice id="195418853" name="%1% +1" odd="1.58"/>
+						<choice id="195418858" name="Draw (%1% +1)" odd="3.70"/>
+						<choice id="195418863" name="%2% -1" odd="4.60"/>
+						<choice id="195418868" name="%1% +2" odd="1.16"/>
+						<choice id="195418873" name="Draw (%1% +2)" odd="6.50"/>
+						<choice id="195418878" name="%2% -2" odd="10.50"/>
+						<choice id="195418883" name="%1% +3" odd="1.02"/>
+						<choice id="195418888" name="Draw (%1% +3)" odd="12.50"/>
+						<choice id="195418893" name="%2% -3" odd="23.00"/>
+					</bet>
+					<bet code="Ftb_Tgl" id="26874040" name="Total Goals">
+						<choice id="195419043" name="0 - 1" odd="2.65"/>
+						<choice id="195419048" name="2 - 3" odd="1.95"/>
+						<choice id="195419053" name="4+" odd="4.50"/>
+					</bet>
+					<bet code="Ftb_Htr" id="26874055" name="Half-Time Result">
+						<choice id="195418988" name="%1%" odd="3.60"/>
+						<choice id="195418993" name="%2%" odd="2.90"/>
+						<choice id="195418998" name="Draw" odd="2.00"/>
+					</bet>
+					<bet code="Ftb_Csc" id="26874107" name="Correct Score">
+						<choice id="195419430" name="1 - 0" odd="7.50"/>
+						<choice id="195419434" name="2 - 0" odd="12.50"/>
+						<choice id="195419438" name="2 - 1" odd="10.50"/>
+						<choice id="195419442" name="3 - 0" odd="30.00"/>
+						<choice id="195419446" name="3 - 1" odd="26.00"/>
+						<choice id="195419450" name="3 - 2" odd="34.00"/>
+						<choice id="195419454" name="4 - 0" odd="70.00"/>
+						<choice id="195419458" name="4 - 1" odd="56.00"/>
+						<choice id="195419462" name="4 - 2" odd="81.00"/>
+						<choice id="195419466" name="4 - 3" odd="101.00"/>
+						<choice id="195419470" name="5 - 0" odd="126.00"/>
+						<choice id="195419474" name="5 - 1" odd="125.00"/>
+						<choice id="195419478" name="5 - 2" odd="151.00"/>
+						<choice id="195419482" name="5 - 3" odd="250.00"/>
+						<choice id="195419486" name="5 - 4" odd="250.00"/>
+						<choice id="195419490" name="6 - 0" odd="250.00"/>
+						<choice id="195419494" name="6 - 1" odd="250.00"/>
+						<choice id="195419498" name="6 - 2" odd="250.00"/>
+						<choice id="195419502" name="6 - 3" odd="250.00"/>
+						<choice id="195419506" name="7 - 0" odd="250.00"/>
+						<choice id="195419510" name="7 - 1" odd="250.00"/>
+						<choice id="195419514" name="8 - 0" odd="250.00"/>
+						<choice id="195419518" name="8 - 1" odd="250.00"/>
+						<choice id="195419522" name="9 - 0" odd="250.00"/>
+						<choice id="195419530" name="0 - 0" odd="7.50"/>
+						<choice id="195419534" name="1 - 1" odd="6.25"/>
+						<choice id="195419538" name="2 - 2" odd="15.00"/>
+						<choice id="195419542" name="3 - 3" odd="55.00"/>
+						<choice id="195419546" name="4 - 4" odd="200.00"/>
+						<choice id="195419550" name="5 - 5" odd="250.00"/>
+						<choice id="195419554" name="0 - 1" odd="6.50"/>
+						<choice id="195419558" name="0 - 2" odd="9.50"/>
+						<choice id="195419562" name="1 - 2" odd="9.00"/>
+						<choice id="195419566" name="0 - 3" odd="20.00"/>
+						<choice id="195419570" name="1 - 3" odd="19.00"/>
+						<choice id="195419574" name="2 - 3" odd="30.00"/>
+						<choice id="195419578" name="0 - 4" odd="40.00"/>
+						<choice id="195419582" name="1 - 4" odd="40.00"/>
+						<choice id="195419586" name="2 - 4" odd="60.00"/>
+						<choice id="195419590" name="3 - 4" odd="101.00"/>
+						<choice id="195419594" name="0 - 5" odd="96.00"/>
+						<choice id="195419598" name="1 - 5" odd="96.00"/>
+						<choice id="195419602" name="2 - 5" odd="125.00"/>
+						<choice id="195419606" name="3 - 5" odd="200.00"/>
+						<choice id="195419610" name="4 - 5" odd="250.00"/>
+						<choice id="195419614" name="0 - 6" odd="200.00"/>
+						<choice id="195419618" name="1 - 6" odd="200.00"/>
+						<choice id="195419622" name="2 - 6" odd="250.00"/>
+						<choice id="195419626" name="3 - 6" odd="250.00"/>
+						<choice id="195419630" name="0 - 7" odd="250.00"/>
+						<choice id="195419634" name="1 - 7" odd="250.00"/>
+						<choice id="195419638" name="0 - 8" odd="250.00"/>
+						<choice id="195419642" name="1 - 8" odd="250.00"/>
+						<choice id="195419646" name="0 - 9" odd="250.00"/>
+						<choice id="195419650" name="0 - 10" odd="250.00"/>
+					</bet>
+					<bet code="Ftb_Tgl2" id="26874111" name="Number of Goals">
+						<choice id="195419264" name="0" odd="7.75"/>
+						<choice id="195419269" name="1" odd="3.80"/>
+						<choice id="195419274" name="2" odd="3.30"/>
+						<choice id="195419279" name="3" odd="4.30"/>
+						<choice id="195419284" name="4" odd="7.25"/>
+						<choice id="195419289" name="5+" odd="10.00"/>
+					</bet>
+					<bet code="Ftb_Hcs" id="26874121" name="Half-Time Correct Score">
+						<choice id="195419354" name="1 - 0" odd="5.25"/>
+						<choice id="195419358" name="2 - 0" odd="17.00"/>
+						<choice id="195419362" name="2 - 1" odd="26.00"/>
+						<choice id="195419366" name="3 - 0" odd="56.00"/>
+						<choice id="195419370" name="3 - 1" odd="90.00"/>
+						<choice id="195419374" name="3 - 2" odd="125.00"/>
+						<choice id="195419378" name="4 - 0" odd="175.00"/>
+						<choice id="195419382" name="4 - 1" odd="201.00"/>
+						<choice id="195419386" name="0 - 0" odd="2.65"/>
+						<choice id="195419390" name="1 - 1" odd="8.00"/>
+						<choice id="195419394" name="2 - 2" odd="55.00"/>
+						<choice id="195419398" name="0 - 1" odd="4.40"/>
+						<choice id="195419402" name="0 - 2" odd="12.00"/>
+						<choice id="195419406" name="1 - 2" odd="23.00"/>
+						<choice id="195419410" name="0 - 3" odd="40.00"/>
+						<choice id="195419414" name="1 - 3" odd="60.00"/>
+						<choice id="195419418" name="2 - 3" odd="125.00"/>
+						<choice id="195419422" name="0 - 4" odd="101.00"/>
+						<choice id="195419426" name="1 - 4" odd="175.00"/>
+					</bet>
+					<bet code="Ftb_10" id="26874125" name="Over/Under">
+						<choice id="195419294" name="Over 0.5" odd="1.09"/>
+						<choice id="195419299" name="Under 0.5" odd="7.00"/>
+						<choice id="195419304" name="Over 1.5" odd="1.45"/>
+						<choice id="195419309" name="Under 1.5" odd="2.70"/>
+						<choice id="195419314" name="Over 2.5" odd="2.35"/>
+						<choice id="195419319" name="Under 2.5" odd="1.55"/>
+						<choice id="195419324" name="Over 3.5" odd="4.30"/>
+						<choice id="195419329" name="Under 3.5" odd="1.20"/>
+						<choice id="195419334" name="Over 4.5" odd="8.50"/>
+						<choice id="195419339" name="Under 4.5" odd="1.06"/>
+					</bet>
+					<bet code="Ftb_Dbc" id="26874147" name="Double Chance">
+						<choice id="195420188" name="%1% or Draw" odd="1.60"/>
+						<choice id="195420193" name="%1% or %2%" odd="1.35"/>
+						<choice id="195420198" name="Draw or %2%" odd="1.35"/>
+					</bet>
+					<bet code="Ftb_Mr3" id="26874176" name="Match Result">
+						<choice id="195419950" name="%1%" odd="3.10"/>
+						<choice id="195419955" name="Draw" odd="3.25"/>
+						<choice id="195419960" name="%2%" odd="2.30"/>
+					</bet>
+					<bet code="Ftb_Htf" id="26874190" name="Half-Time / Full-Time">
+						<choice id="195419983" name="%1% / %1%" odd="5.10"/>
+						<choice id="195419988" name="%1% / Draw" odd="12.50"/>
+						<choice id="195419993" name="%1% / %2%" odd="20.00"/>
+						<choice id="195419998" name="Draw / %1%" odd="6.75"/>
+						<choice id="195420003" name="Draw / Draw" odd="4.50"/>
+						<choice id="195420008" name="Draw / %2%" odd="5.50"/>
+						<choice id="195420013" name="%2% / %1%" odd="22.00"/>
+						<choice id="195420018" name="%2% / Draw" odd="12.50"/>
+						<choice id="195420023" name="%2% / %2%" odd="3.70"/>
+					</bet>
+					<bet code="Ftb_Fts" id="26874214" name="First Team To Score">
+						<choice id="195420028" name="%1%" odd="2.25"/>
+						<choice id="195420033" name="%2%" odd="1.88"/>
+						<choice id="195420038" name="No Goal" odd="7.25"/>
+					</bet>
+				</bets>
+			</match>
+			<match id="1174439" live_id="" name="Crystal Palace - West Bromwich Albion" start_date="2016-08-13T15:00:00" streaming="0">
+				<bets>
+					<bet code="Ftb_23" id="26873630" name="Handicap">
+						<choice id="195415818" name="%1% -3" odd="19.00"/>
+						<choice id="195415823" name="Draw (%1% -3)" odd="11.00"/>
+						<choice id="195415828" name="%2% +3" odd="1.04"/>
+						<choice id="195415833" name="%1% -2" odd="8.75"/>
+						<choice id="195415838" name="Draw (%1% -2)" odd="5.75"/>
+						<choice id="195415843" name="%2% +2" odd="1.20"/>
+						<choice id="195415848" name="%1% -1" odd="3.90"/>
+						<choice id="195415853" name="Draw (%1% -1)" odd="3.50"/>
+						<choice id="195415858" name="%2% +1" odd="1.72"/>
+						<choice id="195415863" name="%1% +1" odd="1.25"/>
+						<choice id="195415868" name="Draw (%1% +1)" odd="5.00"/>
+						<choice id="195415873" name="%2% -1" odd="8.50"/>
+						<choice id="195415878" name="%1% +2" odd="1.04"/>
+						<choice id="195415883" name="Draw (%1% +2)" odd="10.50"/>
+						<choice id="195415888" name="%2% -2" odd="20.00"/>
+					</bet>
+					<bet code="Ftb_Tgl" id="26873644" name="Total Goals">
+						<choice id="195416053" name="0 - 1" odd="2.65"/>
+						<choice id="195416058" name="2 - 3" odd="1.95"/>
+						<choice id="195416063" name="4+" odd="4.50"/>
+					</bet>
+					<bet code="Ftb_Htr" id="26873659" name="Half-Time Result">
+						<choice id="195415998" name="%1%" odd="2.65"/>
+						<choice id="195416003" name="%2%" odd="4.00"/>
+						<choice id="195416008" name="Draw" odd="2.05"/>
+					</bet>
+					<bet code="Ftb_Csc" id="26873703" name="Correct Score">
+						<choice id="195416440" name="1 - 0" odd="6.00"/>
+						<choice id="195416444" name="2 - 0" odd="8.25"/>
+						<choice id="195416448" name="2 - 1" odd="8.75"/>
+						<choice id="195416452" name="3 - 0" odd="16.00"/>
+						<choice id="195416456" name="3 - 1" odd="17.00"/>
+						<choice id="195416460" name="3 - 2" odd="30.00"/>
+						<choice id="195416464" name="4 - 0" odd="35.00"/>
+						<choice id="195416468" name="4 - 1" odd="36.00"/>
+						<choice id="195416472" name="4 - 2" odd="56.00"/>
+						<choice id="195416476" name="4 - 3" odd="101.00"/>
+						<choice id="195416480" name="5 - 0" odd="81.00"/>
+						<choice id="195416484" name="5 - 1" odd="90.00"/>
+						<choice id="195416488" name="5 - 2" odd="101.00"/>
+						<choice id="195416492" name="5 - 3" odd="200.00"/>
+						<choice id="195416496" name="5 - 4" odd="250.00"/>
+						<choice id="195416500" name="6 - 0" odd="150.00"/>
+						<choice id="195416504" name="6 - 1" odd="151.00"/>
+						<choice id="195416508" name="6 - 2" odd="201.00"/>
+						<choice id="195416512" name="6 - 3" odd="250.00"/>
+						<choice id="195416516" name="7 - 0" odd="250.00"/>
+						<choice id="195416520" name="7 - 1" odd="250.00"/>
+						<choice id="195416524" name="8 - 0" odd="250.00"/>
+						<choice id="195416528" name="8 - 1" odd="250.00"/>
+						<choice id="195416532" name="9 - 0" odd="250.00"/>
+						<choice id="195416536" name="10 - 0" odd="250.00"/>
+						<choice id="195416540" name="0 - 0" odd="7.50"/>
+						<choice id="195416544" name="1 - 1" odd="6.25"/>
+						<choice id="195416548" name="2 - 2" odd="16.00"/>
+						<choice id="195416552" name="3 - 3" odd="56.00"/>
+						<choice id="195416556" name="4 - 4" odd="201.00"/>
+						<choice id="195416560" name="5 - 5" odd="250.00"/>
+						<choice id="195416564" name="0 - 1" odd="8.25"/>
+						<choice id="195416568" name="0 - 2" odd="16.00"/>
+						<choice id="195416572" name="1 - 2" odd="11.50"/>
+						<choice id="195416576" name="0 - 3" odd="36.00"/>
+						<choice id="195416580" name="1 - 3" odd="30.00"/>
+						<choice id="195416584" name="2 - 3" odd="36.00"/>
+						<choice id="195416588" name="0 - 4" odd="91.00"/>
+						<choice id="195416592" name="1 - 4" odd="80.00"/>
+						<choice id="195416596" name="2 - 4" odd="95.00"/>
+						<choice id="195416600" name="3 - 4" odd="125.00"/>
+						<choice id="195416604" name="0 - 5" odd="200.00"/>
+						<choice id="195416608" name="1 - 5" odd="151.00"/>
+						<choice id="195416612" name="2 - 5" odd="200.00"/>
+						<choice id="195416616" name="3 - 5" odd="250.00"/>
+						<choice id="195416620" name="4 - 5" odd="250.00"/>
+						<choice id="195416624" name="0 - 6" odd="250.00"/>
+						<choice id="195416628" name="1 - 6" odd="250.00"/>
+						<choice id="195416632" name="2 - 6" odd="250.00"/>
+						<choice id="195416636" name="3 - 6" odd="250.00"/>
+						<choice id="195416640" name="0 - 7" odd="250.00"/>
+						<choice id="195416644" name="1 - 7" odd="250.00"/>
+						<choice id="195416648" name="0 - 8" odd="250.00"/>
+						<choice id="195416652" name="1 - 8" odd="250.00"/>
+						<choice id="195416656" name="0 - 9" odd="250.00"/>
+					</bet>
+					<bet code="Ftb_Tgl2" id="26873707" name="Number of Goals">
+						<choice id="195416274" name="0" odd="7.75"/>
+						<choice id="195416279" name="1" odd="3.80"/>
+						<choice id="195416284" name="2" odd="3.30"/>
+						<choice id="195416289" name="3" odd="4.40"/>
+						<choice id="195416294" name="4" odd="7.25"/>
+						<choice id="195416299" name="5+" odd="10.00"/>
+					</bet>
+					<bet code="Ftb_Hcs" id="26873725" name="Half-Time Correct Score">
+						<choice id="195416364" name="1 - 0" odd="4.10"/>
+						<choice id="195416368" name="2 - 0" odd="10.50"/>
+						<choice id="195416372" name="2 - 1" odd="21.00"/>
+						<choice id="195416376" name="3 - 0" odd="35.00"/>
+						<choice id="195416380" name="3 - 1" odd="55.00"/>
+						<choice id="195416384" name="3 - 2" odd="125.00"/>
+						<choice id="195416388" name="4 - 0" odd="101.00"/>
+						<choice id="195416392" name="4 - 1" odd="126.00"/>
+						<choice id="195416396" name="0 - 0" odd="2.65"/>
+						<choice id="195416400" name="1 - 1" odd="8.00"/>
+						<choice id="195416404" name="2 - 2" odd="55.00"/>
+						<choice id="195416408" name="0 - 1" odd="5.75"/>
+						<choice id="195416412" name="0 - 2" odd="21.00"/>
+						<choice id="195416416" name="1 - 2" odd="28.00"/>
+						<choice id="195416420" name="0 - 3" odd="71.00"/>
+						<choice id="195416424" name="1 - 3" odd="91.00"/>
+						<choice id="195416428" name="2 - 3" odd="126.00"/>
+						<choice id="195416432" name="0 - 4" odd="200.00"/>
+						<choice id="195416436" name="1 - 4" odd="250.00"/>
+					</bet>
+					<bet code="Ftb_10" id="26873729" name="Over/Under">
+						<choice id="195416304" name="Over 0.5" odd="1.09"/>
+						<choice id="195416309" name="Under 0.5" odd="7.00"/>
+						<choice id="195416314" name="Over 1.5" odd="1.45"/>
+						<choice id="195416319" name="Under 1.5" odd="2.70"/>
+						<choice id="195416324" name="Over 2.5" odd="2.35"/>
+						<choice id="195416329" name="Under 2.5" odd="1.55"/>
+						<choice id="195416334" name="Over 3.5" odd="4.30"/>
+						<choice id="195416339" name="Under 3.5" odd="1.20"/>
+						<choice id="195416344" name="Over 4.5" odd="8.50"/>
+						<choice id="195416349" name="Under 4.5" odd="1.06"/>
+					</bet>
+					<bet code="Ftb_Dbc" id="26873746" name="Double Chance">
+						<choice id="195417198" name="%1% or Draw" odd="1.28"/>
+						<choice id="195417203" name="%1% or %2%" odd="1.35"/>
+						<choice id="195417208" name="Draw or %2%" odd="1.75"/>
+					</bet>
+					<bet code="Ftb_Mr3" id="26873780" name="Match Result">
+						<choice id="195416960" name="%1%" odd="2.05"/>
+						<choice id="195416965" name="Draw" odd="3.30"/>
+						<choice id="195416970" name="%2%" odd="3.70"/>
+					</bet>
+					<bet code="Ftb_Htf" id="26873799" name="Half-Time / Full-Time">
+						<choice id="195416993" name="%1% / %1%" odd="3.20"/>
+						<choice id="195416998" name="%1% / Draw" odd="13.00"/>
+						<choice id="195417003" name="%1% / %2%" odd="24.00"/>
+						<choice id="195417008" name="Draw / %1%" odd="5.10"/>
+						<choice id="195417013" name="Draw / Draw" odd="4.50"/>
+						<choice id="195417018" name="Draw / %2%" odd="7.75"/>
+						<choice id="195417023" name="%2% / %1%" odd="20.00"/>
+						<choice id="195417028" name="%2% / Draw" odd="13.00"/>
+						<choice id="195417033" name="%2% / %2%" odd="6.00"/>
+					</bet>
+					<bet code="Ftb_Fts" id="26873818" name="First Team To Score">
+						<choice id="195417038" name="%1%" odd="1.72"/>
+						<choice id="195417043" name="%2%" odd="2.50"/>
+						<choice id="195417048" name="No Goal" odd="7.25"/>
+					</bet>
+				</bets>
+			</match>
+			<match id="1174440" live_id="" name="Everton - Tottenham" start_date="2016-08-13T15:00:00" streaming="0">
+				<bets>
+					<bet code="Ftb_23" id="26873828" name="Handicap">
+						<choice id="195417328" name="%1% -2" odd="12.50"/>
+						<choice id="195417333" name="Draw (%1% -2)" odd="8.00"/>
+						<choice id="195417338" name="%2% +2" odd="1.10"/>
+						<choice id="195417343" name="%1% -1" odd="6.00"/>
+						<choice id="195417348" name="Draw (%1% -1)" odd="4.40"/>
+						<choice id="195417353" name="%2% +1" odd="1.40"/>
+						<choice id="195417358" name="%1% +1" odd="1.52"/>
+						<choice id="195417363" name="Draw (%1% +1)" odd="3.90"/>
+						<choice id="195417368" name="%2% -1" odd="4.75"/>
+						<choice id="195417373" name="%1% +2" odd="1.15"/>
+						<choice id="195417378" name="Draw (%1% +2)" odd="6.75"/>
+						<choice id="195417383" name="%2% -2" odd="10.50"/>
+						<choice id="195417388" name="%1% +3" odd="1.02"/>
+						<choice id="195417393" name="Draw (%1% +3)" odd="12.50"/>
+						<choice id="195417398" name="%2% -3" odd="22.00"/>
+					</bet>
+					<bet code="Ftb_Tgl" id="26873842" name="Total Goals">
+						<choice id="195417548" name="0 - 1" odd="3.30"/>
+						<choice id="195417553" name="2 - 3" odd="1.95"/>
+						<choice id="195417558" name="4+" odd="3.40"/>
+					</bet>
+					<bet code="Ftb_Htr" id="26873857" name="Half-Time Result">
+						<choice id="195417493" name="%1%" odd="3.40"/>
+						<choice id="195417498" name="%2%" odd="3.00"/>
+						<choice id="195417503" name="Draw" odd="2.05"/>
+					</bet>
+					<bet code="Ftb_Tgl2" id="26873905" name="Number of Goals">
+						<choice id="195417769" name="0" odd="10.00"/>
+						<choice id="195417774" name="1" odd="4.60"/>
+						<choice id="195417779" name="2" odd="3.50"/>
+						<choice id="195417784" name="3" odd="4.10"/>
+						<choice id="195417789" name="4" odd="6.00"/>
+						<choice id="195417794" name="5+" odd="6.75"/>
+					</bet>
+					<bet code="Ftb_Csc" id="26873914" name="Correct Score">
+						<choice id="195417935" name="1 - 0" odd="8.50"/>
+						<choice id="195417939" name="2 - 0" odd="12.50"/>
+						<choice id="195417943" name="2 - 1" odd="9.50"/>
+						<choice id="195417947" name="3 - 0" odd="27.00"/>
+						<choice id="195417951" name="3 - 1" odd="21.00"/>
+						<choice id="195417955" name="3 - 2" odd="26.00"/>
+						<choice id="195417959" name="4 - 0" odd="55.00"/>
+						<choice id="195417963" name="4 - 1" odd="46.00"/>
+						<choice id="195417967" name="4 - 2" odd="55.00"/>
+						<choice id="195417971" name="4 - 3" odd="90.00"/>
+						<choice id="195417975" name="5 - 0" odd="101.00"/>
+						<choice id="195417979" name="5 - 1" odd="101.00"/>
+						<choice id="195417983" name="5 - 2" odd="101.00"/>
+						<choice id="195417987" name="5 - 3" odd="151.00"/>
+						<choice id="195417991" name="5 - 4" odd="250.00"/>
+						<choice id="195417995" name="6 - 0" odd="250.00"/>
+						<choice id="195417999" name="6 - 1" odd="201.00"/>
+						<choice id="195418003" name="6 - 2" odd="250.00"/>
+						<choice id="195418007" name="6 - 3" odd="250.00"/>
+						<choice id="195418011" name="7 - 0" odd="250.00"/>
+						<choice id="195418015" name="7 - 1" odd="250.00"/>
+						<choice id="195418019" name="8 - 0" odd="250.00"/>
+						<choice id="195418023" name="8 - 1" odd="250.00"/>
+						<choice id="195418027" name="9 - 0" odd="250.00"/>
+						<choice id="195418031" name="10 - 0" odd="250.00"/>
+						<choice id="195418035" name="0 - 0" odd="9.50"/>
+						<choice id="195418039" name="1 - 1" odd="6.25"/>
+						<choice id="195418043" name="2 - 2" odd="12.00"/>
+						<choice id="195418047" name="3 - 3" odd="40.00"/>
+						<choice id="195418051" name="4 - 4" odd="125.00"/>
+						<choice id="195418055" name="5 - 5" odd="250.00"/>
+						<choice id="195418059" name="0 - 1" odd="7.75"/>
+						<choice id="195418063" name="0 - 2" odd="11.00"/>
+						<choice id="195418067" name="1 - 2" odd="8.75"/>
+						<choice id="195418071" name="0 - 3" odd="21.00"/>
+						<choice id="195418075" name="1 - 3" odd="17.00"/>
+						<choice id="195418079" name="2 - 3" odd="24.00"/>
+						<choice id="195418083" name="0 - 4" odd="41.00"/>
+						<choice id="195418087" name="1 - 4" odd="36.00"/>
+						<choice id="195418091" name="2 - 4" odd="51.00"/>
+						<choice id="195418095" name="3 - 4" odd="81.00"/>
+						<choice id="195418099" name="0 - 5" odd="96.00"/>
+						<choice id="195418103" name="1 - 5" odd="90.00"/>
+						<choice id="195418107" name="2 - 5" odd="101.00"/>
+						<choice id="195418111" name="3 - 5" odd="126.00"/>
+						<choice id="195418115" name="4 - 5" odd="250.00"/>
+						<choice id="195418119" name="0 - 6" odd="175.00"/>
+						<choice id="195418123" name="1 - 6" odd="151.00"/>
+						<choice id="195418127" name="2 - 6" odd="200.00"/>
+						<choice id="195418131" name="3 - 6" odd="250.00"/>
+						<choice id="195418135" name="0 - 7" odd="250.00"/>
+						<choice id="195418139" name="1 - 7" odd="250.00"/>
+						<choice id="195418143" name="0 - 8" odd="250.00"/>
+						<choice id="195418147" name="1 - 8" odd="250.00"/>
+						<choice id="195418151" name="0 - 9" odd="250.00"/>
+						<choice id="195418155" name="0 - 10" odd="250.00"/>
+					</bet>
+					<bet code="Ftb_Hcs" id="26873923" name="Half-Time Correct Score">
+						<choice id="195417859" name="1 - 0" odd="5.10"/>
+						<choice id="195417863" name="2 - 0" odd="15.00"/>
+						<choice id="195417867" name="2 - 1" odd="23.00"/>
+						<choice id="195417871" name="3 - 0" odd="51.00"/>
+						<choice id="195417875" name="3 - 1" odd="67.00"/>
+						<choice id="195417879" name="3 - 2" odd="125.00"/>
+						<choice id="195417883" name="4 - 0" odd="126.00"/>
+						<choice id="195417887" name="4 - 1" odd="175.00"/>
+						<choice id="195417891" name="0 - 0" odd="2.75"/>
+						<choice id="195417895" name="1 - 1" odd="7.50"/>
+						<choice id="195417899" name="2 - 2" odd="51.00"/>
+						<choice id="195417903" name="0 - 1" odd="4.60"/>
+						<choice id="195417907" name="0 - 2" odd="12.50"/>
+						<choice id="195417911" name="1 - 2" odd="21.00"/>
+						<choice id="195417915" name="0 - 3" odd="40.00"/>
+						<choice id="195417919" name="1 - 3" odd="56.00"/>
+						<choice id="195417923" name="2 - 3" odd="101.00"/>
+						<choice id="195417927" name="0 - 4" odd="125.00"/>
+						<choice id="195417931" name="1 - 4" odd="150.00"/>
+					</bet>
+					<bet code="Ftb_10" id="26873927" name="Over/Under">
+						<choice id="195417799" name="Over 0.5" odd="1.06"/>
+						<choice id="195417804" name="Under 0.5" odd="8.50"/>
+						<choice id="195417809" name="Over 1.5" odd="1.30"/>
+						<choice id="195417814" name="Under 1.5" odd="3.20"/>
+						<choice id="195417819" name="Over 2.5" odd="1.90"/>
+						<choice id="195417824" name="Under 2.5" odd="1.80"/>
+						<choice id="195417829" name="Over 3.5" odd="3.20"/>
+						<choice id="195417834" name="Under 3.5" odd="1.30"/>
+						<choice id="195417839" name="Over 4.5" odd="6.00"/>
+						<choice id="195417844" name="Under 4.5" odd="1.11"/>
+						<choice id="195417849" name="Over 5.5" odd="11.00"/>
+						<choice id="195417854" name="Under 5.5" odd="1.02"/>
+					</bet>
+					<bet code="Ftb_Dbc" id="26873949" name="Double Chance">
+						<choice id="195418693" name="%1% or Draw" odd="1.55"/>
+						<choice id="195418698" name="%1% or %2%" odd="1.33"/>
+						<choice id="195418703" name="Draw or %2%" odd="1.42"/>
+					</bet>
+					<bet code="Ftb_Mr3" id="26873978" name="Match Result">
+						<choice id="195418455" name="%1%" odd="2.90"/>
+						<choice id="195418460" name="Draw" odd="3.30"/>
+						<choice id="195418465" name="%2%" odd="2.40"/>
+					</bet>
+					<bet code="Ftb_Htf" id="26873997" name="Half-Time / Full-Time">
+						<choice id="195418488" name="%1% / %1%" odd="4.80"/>
+						<choice id="195418493" name="%1% / Draw" odd="12.00"/>
+						<choice id="195418498" name="%1% / %2%" odd="19.00"/>
+						<choice id="195418503" name="Draw / %1%" odd="6.25"/>
+						<choice id="195418508" name="Draw / Draw" odd="4.90"/>
+						<choice id="195418513" name="Draw / %2%" odd="5.50"/>
+						<choice id="195418518" name="%2% / %1%" odd="20.00"/>
+						<choice id="195418523" name="%2% / Draw" odd="12.00"/>
+						<choice id="195418528" name="%2% / %2%" odd="4.00"/>
+					</bet>
+					<bet code="Ftb_Fts" id="26874016" name="First Team To Score">
+						<choice id="195418533" name="%1%" odd="2.10"/>
+						<choice id="195418538" name="%2%" odd="1.90"/>
+						<choice id="195418543" name="No Goal" odd="9.00"/>
+					</bet>
+				</bets>
+			</match>
+			<match id="1174424" live_id="" name="Burnley - Swansea" start_date="2016-08-13T15:00:00" streaming="0">
+				<bets>
+					<bet code="Ftb_23" id="26873196" name="Handicap">
+						<choice id="195412683" name="%1% -3" odd="23.00"/>
+						<choice id="195412688" name="Draw (%1% -3)" odd="13.00"/>
+						<choice id="195412693" name="%2% +3" odd="1.02"/>
+						<choice id="195412698" name="%1% -2" odd="11.00"/>
+						<choice id="195412703" name="Draw (%1% -2)" odd="6.75"/>
+						<choice id="195412708" name="%2% +2" odd="1.14"/>
+						<choice id="195412713" name="%1% -1" odd="4.90"/>
+						<choice id="195412718" name="Draw (%1% -1)" odd="3.80"/>
+						<choice id="195412723" name="%2% +1" odd="1.52"/>
+						<choice id="195412728" name="%1% +1" odd="1.40"/>
+						<choice id="195412733" name="Draw (%1% +1)" odd="4.30"/>
+						<choice id="195412738" name="%2% -1" odd="6.25"/>
+						<choice id="195412743" name="%1% +2" odd="1.09"/>
+						<choice id="195412748" name="Draw (%1% +2)" odd="8.00"/>
+						<choice id="195412753" name="%2% -2" odd="13.50"/>
+					</bet>
+					<bet code="Ftb_Tgl" id="26873210" name="Total Goals">
+						<choice id="195412918" name="0 - 1" odd="2.85"/>
+						<choice id="195412923" name="2 - 3" odd="1.95"/>
+						<choice id="195412928" name="4+" odd="4.10"/>
+					</bet>
+					<bet code="Ftb_Htr" id="26873225" name="Half-Time Result">
+						<choice id="195412863" name="%1%" odd="3.00"/>
+						<choice id="195412868" name="%2%" odd="3.40"/>
+						<choice id="195412873" name="Draw" odd="2.05"/>
+					</bet>
+					<bet code="Ftb_Csc" id="26873277" name="Correct Score">
+						<choice id="195413305" name="1 - 0" odd="7.00"/>
+						<choice id="195413309" name="2 - 0" odd="10.00"/>
+						<choice id="195413313" name="2 - 1" odd="9.00"/>
+						<choice id="195413317" name="3 - 0" odd="21.00"/>
+						<choice id="195413321" name="3 - 1" odd="19.00"/>
+						<choice id="195413325" name="3 - 2" odd="29.00"/>
+						<choice id="195413329" name="4 - 0" odd="50.00"/>
+						<choice id="195413333" name="4 - 1" odd="40.00"/>
+						<choice id="195413337" name="4 - 2" odd="56.00"/>
+						<choice id="195413341" name="4 - 3" odd="101.00"/>
+						<choice id="195413345" name="5 - 0" odd="101.00"/>
+						<choice id="195413349" name="5 - 1" odd="96.00"/>
+						<choice id="195413353" name="5 - 2" odd="125.00"/>
+						<choice id="195413357" name="5 - 3" odd="200.00"/>
+						<choice id="195413361" name="5 - 4" odd="250.00"/>
+						<choice id="195413365" name="6 - 0" odd="200.00"/>
+						<choice id="195413369" name="6 - 1" odd="200.00"/>
+						<choice id="195413373" name="6 - 2" odd="250.00"/>
+						<choice id="195413377" name="6 - 3" odd="250.00"/>
+						<choice id="195413381" name="7 - 0" odd="250.00"/>
+						<choice id="195413385" name="7 - 1" odd="250.00"/>
+						<choice id="195413389" name="8 - 0" odd="250.00"/>
+						<choice id="195413393" name="8 - 1" odd="250.00"/>
+						<choice id="195413397" name="9 - 0" odd="250.00"/>
+						<choice id="195413401" name="10 - 0" odd="250.00"/>
+						<choice id="195413405" name="0 - 0" odd="8.00"/>
+						<choice id="195413409" name="1 - 1" odd="6.25"/>
+						<choice id="195413413" name="2 - 2" odd="14.00"/>
+						<choice id="195413417" name="3 - 3" odd="51.00"/>
+						<choice id="195413421" name="4 - 4" odd="175.00"/>
+						<choice id="195413425" name="5 - 5" odd="250.00"/>
+						<choice id="195413429" name="0 - 1" odd="7.50"/>
+						<choice id="195413433" name="0 - 2" odd="12.00"/>
+						<choice id="195413437" name="1 - 2" odd="10.00"/>
+						<choice id="195413441" name="0 - 3" odd="27.00"/>
+						<choice id="195413445" name="1 - 3" odd="23.00"/>
+						<choice id="195413449" name="2 - 3" odd="31.00"/>
+						<choice id="195413453" name="0 - 4" odd="56.00"/>
+						<choice id="195413457" name="1 - 4" odd="51.00"/>
+						<choice id="195413461" name="2 - 4" odd="65.00"/>
+						<choice id="195413465" name="3 - 4" odd="101.00"/>
+						<choice id="195413469" name="0 - 5" odd="125.00"/>
+						<choice id="195413473" name="1 - 5" odd="101.00"/>
+						<choice id="195413477" name="2 - 5" odd="125.00"/>
+						<choice id="195413481" name="3 - 5" odd="200.00"/>
+						<choice id="195413485" name="4 - 5" odd="250.00"/>
+						<choice id="195413489" name="0 - 6" odd="250.00"/>
+						<choice id="195413493" name="1 - 6" odd="250.00"/>
+						<choice id="195413497" name="2 - 6" odd="250.00"/>
+						<choice id="195413501" name="3 - 6" odd="250.00"/>
+						<choice id="195413505" name="0 - 7" odd="250.00"/>
+						<choice id="195413509" name="1 - 7" odd="250.00"/>
+						<choice id="195413513" name="0 - 8" odd="250.00"/>
+						<choice id="195413517" name="1 - 8" odd="250.00"/>
+						<choice id="195413521" name="0 - 9" odd="250.00"/>
+					</bet>
+					<bet code="Ftb_Tgl2" id="26873281" name="Number of Goals">
+						<choice id="195413139" name="0" odd="8.50"/>
+						<choice id="195413144" name="1" odd="4.00"/>
+						<choice id="195413149" name="2" odd="3.40"/>
+						<choice id="195413154" name="3" odd="4.25"/>
+						<choice id="195413159" name="4" odd="6.75"/>
+						<choice id="195413164" name="5+" odd="8.75"/>
+					</bet>
+					<bet code="Ftb_Hcs" id="26873291" name="Half-Time Correct Score">
+						<choice id="195413229" name="1 - 0" odd="4.50"/>
+						<choice id="195413233" name="2 - 0" odd="12.50"/>
+						<choice id="195413237" name="2 - 1" odd="22.00"/>
+						<choice id="195413241" name="3 - 0" odd="40.00"/>
+						<choice id="195413245" name="3 - 1" odd="60.00"/>
+						<choice id="195413249" name="3 - 2" odd="125.00"/>
+						<choice id="195413253" name="4 - 0" odd="125.00"/>
+						<choice id="195413257" name="4 - 1" odd="151.00"/>
+						<choice id="195413261" name="0 - 0" odd="2.75"/>
+						<choice id="195413265" name="1 - 1" odd="7.75"/>
+						<choice id="195413269" name="2 - 2" odd="51.00"/>
+						<choice id="195413273" name="0 - 1" odd="5.00"/>
+						<choice id="195413277" name="0 - 2" odd="15.00"/>
+						<choice id="195413281" name="1 - 2" odd="24.00"/>
+						<choice id="195413285" name="0 - 3" odd="51.00"/>
+						<choice id="195413289" name="1 - 3" odd="71.00"/>
+						<choice id="195413293" name="2 - 3" odd="125.00"/>
+						<choice id="195413297" name="0 - 4" odd="126.00"/>
+						<choice id="195413301" name="1 - 4" odd="175.00"/>
+					</bet>
+					<bet code="Ftb_10" id="26873295" name="Over/Under">
+						<choice id="195413169" name="Over 0.5" odd="1.08"/>
+						<choice id="195413174" name="Under 0.5" odd="7.50"/>
+						<choice id="195413179" name="Over 1.5" odd="1.40"/>
+						<choice id="195413184" name="Under 1.5" odd="2.90"/>
+						<choice id="195413189" name="Over 2.5" odd="2.20"/>
+						<choice id="195413194" name="Under 2.5" odd="1.62"/>
+						<choice id="195413199" name="Over 3.5" odd="3.80"/>
+						<choice id="195413204" name="Under 3.5" odd="1.22"/>
+						<choice id="195413209" name="Over 4.5" odd="8.00"/>
+						<choice id="195413214" name="Under 4.5" odd="1.07"/>
+						<choice id="195413219" name="Over 5.5" odd="12.50"/>
+						<choice id="195413224" name="Under 5.5" odd="1.01"/>
+					</bet>
+					<bet code="Ftb_Dbc" id="26873317" name="Double Chance">
+						<choice id="195414063" name="%1% or Draw" odd="1.40"/>
+						<choice id="195414068" name="%1% or %2%" odd="1.35"/>
+						<choice id="195414073" name="Draw or %2%" odd="1.55"/>
+					</bet>
+					<bet code="Ftb_Mr3" id="26873346" name="Match Result">
+						<choice id="195413825" name="%1%" odd="2.40"/>
+						<choice id="195413830" name="Draw" odd="3.25"/>
+						<choice id="195413835" name="%2%" odd="2.90"/>
+					</bet>
+					<bet code="Ftb_Htf" id="26873360" name="Half-Time / Full-Time">
+						<choice id="195413858" name="%1% / %1%" odd="3.90"/>
+						<choice id="195413863" name="%1% / Draw" odd="12.50"/>
+						<choice id="195413868" name="%1% / %2%" odd="21.00"/>
+						<choice id="195413873" name="Draw / %1%" odd="5.75"/>
+						<choice id="195413878" name="Draw / Draw" odd="4.60"/>
+						<choice id="195413883" name="Draw / %2%" odd="6.50"/>
+						<choice id="195413888" name="%2% / %1%" odd="20.00"/>
+						<choice id="195413893" name="%2% / Draw" odd="12.50"/>
+						<choice id="195413898" name="%2% / %2%" odd="4.60"/>
+					</bet>
+					<bet code="Ftb_Fts" id="26873384" name="First Team To Score">
+						<choice id="195413903" name="%1%" odd="1.95"/>
+						<choice id="195413908" name="%2%" odd="2.15"/>
+						<choice id="195413913" name="No Goal" odd="7.75"/>
+					</bet>
+				</bets>
+			</match>
+			<match id="1174443" live_id="" name="Middlesbrough - Stoke" start_date="2016-08-13T15:00:00" streaming="0">
+				<bets>
+					<bet code="Ftb_23" id="26874422" name="Handicap">
+						<choice id="195421802" name="%1% -3" odd="22.00"/>
+						<choice id="195421807" name="Draw (%1% -3)" odd="12.00"/>
+						<choice id="195421812" name="%2% +3" odd="1.02"/>
+						<choice id="195421817" name="%1% -2" odd="10.50"/>
+						<choice id="195421822" name="Draw (%1% -2)" odd="6.50"/>
+						<choice id="195421827" name="%2% +2" odd="1.16"/>
+						<choice id="195421832" name="%1% -1" odd="4.50"/>
+						<choice id="195421837" name="Draw (%1% -1)" odd="3.60"/>
+						<choice id="195421842" name="%2% +1" odd="1.60"/>
+						<choice id="195421847" name="%1% +1" odd="1.33"/>
+						<choice id="195421852" name="Draw (%1% +1)" odd="4.50"/>
+						<choice id="195421857" name="%2% -1" odd="7.00"/>
+						<choice id="195421862" name="%1% +2" odd="1.07"/>
+						<choice id="195421867" name="Draw (%1% +2)" odd="9.00"/>
+						<choice id="195421872" name="%2% -2" odd="17.00"/>
+					</bet>
+					<bet code="Ftb_Tgl" id="26874436" name="Total Goals">
+						<choice id="195422037" name="0 - 1" odd="2.60"/>
+						<choice id="195422042" name="2 - 3" odd="1.95"/>
+						<choice id="195422047" name="4+" odd="4.60"/>
+					</bet>
+					<bet code="Ftb_Htr" id="26874451" name="Half-Time Result">
+						<choice id="195421982" name="%1%" odd="2.85"/>
+						<choice id="195421987" name="%2%" odd="3.70"/>
+						<choice id="195421992" name="Draw" odd="2.00"/>
+					</bet>
+					<bet code="Ftb_Csc" id="26874495" name="Correct Score">
+						<choice id="195422424" name="1 - 0" odd="6.25"/>
+						<choice id="195422428" name="2 - 0" odd="9.00"/>
+						<choice id="195422432" name="2 - 1" odd="9.00"/>
+						<choice id="195422436" name="3 - 0" odd="19.00"/>
+						<choice id="195422440" name="3 - 1" odd="19.00"/>
+						<choice id="195422444" name="3 - 2" odd="31.00"/>
+						<choice id="195422448" name="4 - 0" odd="40.00"/>
+						<choice id="195422452" name="4 - 1" odd="40.00"/>
+						<choice id="195422456" name="4 - 2" odd="60.00"/>
+						<choice id="195422460" name="4 - 3" odd="101.00"/>
+						<choice id="195422464" name="5 - 0" odd="96.00"/>
+						<choice id="195422468" name="5 - 1" odd="96.00"/>
+						<choice id="195422472" name="5 - 2" odd="125.00"/>
+						<choice id="195422476" name="5 - 3" odd="201.00"/>
+						<choice id="195422480" name="5 - 4" odd="250.00"/>
+						<choice id="195422484" name="6 - 0" odd="200.00"/>
+						<choice id="195422488" name="6 - 1" odd="200.00"/>
+						<choice id="195422492" name="6 - 2" odd="250.00"/>
+						<choice id="195422496" name="6 - 3" odd="250.00"/>
+						<choice id="195422500" name="7 - 0" odd="250.00"/>
+						<choice id="195422504" name="7 - 1" odd="250.00"/>
+						<choice id="195422508" name="8 - 0" odd="250.00"/>
+						<choice id="195422512" name="8 - 1" odd="250.00"/>
+						<choice id="195422516" name="9 - 0" odd="250.00"/>
+						<choice id="195422520" name="10 - 0" odd="250.00"/>
+						<choice id="195422524" name="0 - 0" odd="7.50"/>
+						<choice id="195422528" name="1 - 1" odd="6.25"/>
+						<choice id="195422532" name="2 - 2" odd="16.00"/>
+						<choice id="195422536" name="3 - 3" odd="56.00"/>
+						<choice id="195422540" name="4 - 4" odd="201.00"/>
+						<choice id="195422544" name="5 - 5" odd="250.00"/>
+						<choice id="195422548" name="0 - 1" odd="7.50"/>
+						<choice id="195422552" name="0 - 2" odd="13.00"/>
+						<choice id="195422556" name="1 - 2" odd="11.00"/>
+						<choice id="195422560" name="0 - 3" odd="31.00"/>
+						<choice id="195422564" name="1 - 3" odd="27.00"/>
+						<choice id="195422568" name="2 - 3" odd="35.00"/>
+						<choice id="195422572" name="0 - 4" odd="75.00"/>
+						<choice id="195422576" name="1 - 4" odd="60.00"/>
+						<choice id="195422580" name="2 - 4" odd="90.00"/>
+						<choice id="195422584" name="3 - 4" odd="125.00"/>
+						<choice id="195422588" name="0 - 5" odd="150.00"/>
+						<choice id="195422592" name="1 - 5" odd="125.00"/>
+						<choice id="195422596" name="2 - 5" odd="175.00"/>
+						<choice id="195422600" name="3 - 5" odd="250.00"/>
+						<choice id="195422604" name="4 - 5" odd="250.00"/>
+						<choice id="195422608" name="0 - 6" odd="250.00"/>
+						<choice id="195422612" name="1 - 6" odd="250.00"/>
+						<choice id="195422616" name="2 - 6" odd="250.00"/>
+						<choice id="195422620" name="3 - 6" odd="250.00"/>
+						<choice id="195422624" name="0 - 7" odd="250.00"/>
+						<choice id="195422628" name="1 - 7" odd="250.00"/>
+						<choice id="195422632" name="0 - 8" odd="250.00"/>
+						<choice id="195422636" name="1 - 8" odd="250.00"/>
+						<choice id="195422640" name="0 - 9" odd="250.00"/>
+					</bet>
+					<bet code="Ftb_Tgl2" id="26874499" name="Number of Goals">
+						<choice id="195422258" name="0" odd="7.75"/>
+						<choice id="195422263" name="1" odd="3.70"/>
+						<choice id="195422268" name="2" odd="3.30"/>
+						<choice id="195422273" name="3" odd="4.40"/>
+						<choice id="195422278" name="4" odd="7.50"/>
+						<choice id="195422283" name="5+" odd="10.00"/>
+					</bet>
+					<bet code="Ftb_Hcs" id="26874517" name="Half-Time Correct Score">
+						<choice id="195422348" name="1 - 0" odd="4.30"/>
+						<choice id="195422352" name="2 - 0" odd="12.00"/>
+						<choice id="195422356" name="2 - 1" odd="23.00"/>
+						<choice id="195422360" name="3 - 0" odd="40.00"/>
+						<choice id="195422364" name="3 - 1" odd="60.00"/>
+						<choice id="195422368" name="3 - 2" odd="125.00"/>
+						<choice id="195422372" name="4 - 0" odd="101.00"/>
+						<choice id="195422376" name="4 - 1" odd="151.00"/>
+						<choice id="195422380" name="0 - 0" odd="2.65"/>
+						<choice id="195422384" name="1 - 1" odd="8.00"/>
+						<choice id="195422388" name="2 - 2" odd="55.00"/>
+						<choice id="195422392" name="0 - 1" odd="5.25"/>
+						<choice id="195422396" name="0 - 2" odd="17.00"/>
+						<choice id="195422400" name="1 - 2" odd="27.00"/>
+						<choice id="195422404" name="0 - 3" odd="56.00"/>
+						<choice id="195422408" name="1 - 3" odd="90.00"/>
+						<choice id="195422412" name="2 - 3" odd="126.00"/>
+						<choice id="195422416" name="0 - 4" odd="175.00"/>
+						<choice id="195422420" name="1 - 4" odd="201.00"/>
+					</bet>
+					<bet code="Ftb_10" id="26874521" name="Over/Under">
+						<choice id="195422288" name="Over 0.5" odd="1.09"/>
+						<choice id="195422293" name="Under 0.5" odd="6.75"/>
+						<choice id="195422298" name="Over 1.5" odd="1.45"/>
+						<choice id="195422303" name="Under 1.5" odd="2.70"/>
+						<choice id="195422308" name="Over 2.5" odd="2.40"/>
+						<choice id="195422313" name="Under 2.5" odd="1.55"/>
+						<choice id="195422318" name="Over 3.5" odd="4.30"/>
+						<choice id="195422323" name="Under 3.5" odd="1.18"/>
+						<choice id="195422328" name="Over 4.5" odd="8.50"/>
+						<choice id="195422333" name="Under 4.5" odd="1.05"/>
+					</bet>
+					<bet code="Ftb_Dbc" id="26874538" name="Double Chance">
+						<choice id="195423182" name="%1% or Draw" odd="1.35"/>
+						<choice id="195423187" name="%1% or %2%" odd="1.35"/>
+						<choice id="195423192" name="Draw or %2%" odd="1.62"/>
+					</bet>
+					<bet code="Ftb_Mr3" id="26874572" name="Match Result">
+						<choice id="195422944" name="%1%" odd="2.25"/>
+						<choice id="195422949" name="Draw" odd="3.25"/>
+						<choice id="195422954" name="%2%" odd="3.25"/>
+					</bet>
+					<bet code="Ftb_Htf" id="26874586" name="Half-Time / Full-Time">
+						<choice id="195422977" name="%1% / %1%" odd="3.60"/>
+						<choice id="195422982" name="%1% / Draw" odd="13.00"/>
+						<choice id="195422987" name="%1% / %2%" odd="23.00"/>
+						<choice id="195422992" name="Draw / %1%" odd="5.50"/>
+						<choice id="195422997" name="Draw / Draw" odd="4.50"/>
+						<choice id="195423002" name="Draw / %2%" odd="7.00"/>
+						<choice id="195423007" name="%2% / %1%" odd="21.00"/>
+						<choice id="195423012" name="%2% / Draw" odd="13.00"/>
+						<choice id="195423017" name="%2% / %2%" odd="5.10"/>
+					</bet>
+					<bet code="Ftb_Fts" id="26874610" name="First Team To Score">
+						<choice id="195423022" name="%1%" odd="1.85"/>
+						<choice id="195423027" name="%2%" odd="2.30"/>
+						<choice id="195423032" name="No Goal" odd="7.00"/>
+					</bet>
+				</bets>
+			</match>
+			<match id="1174444" live_id="" name="Southampton - Watford" start_date="2016-08-13T15:00:00" streaming="0">
+				<bets>
+					<bet code="Ftb_23" id="26874620" name="Handicap">
+						<choice id="195423301" name="%1% -3" odd="14.50"/>
+						<choice id="195423306" name="Draw (%1% -3)" odd="9.00"/>
+						<choice id="195423311" name="%2% +3" odd="1.08"/>
+						<choice id="195423316" name="%1% -2" odd="6.75"/>
+						<choice id="195423321" name="Draw (%1% -2)" odd="5.10"/>
+						<choice id="195423326" name="%2% +2" odd="1.30"/>
+						<choice id="195423331" name="%1% -1" odd="3.20"/>
+						<choice id="195423336" name="Draw (%1% -1)" odd="3.40"/>
+						<choice id="195423341" name="%2% +1" odd="1.95"/>
+						<choice id="195423346" name="%1% +1" odd="1.18"/>
+						<choice id="195423351" name="Draw (%1% +1)" odd="5.75"/>
+						<choice id="195423356" name="%2% -1" odd="10.50"/>
+						<choice id="195423361" name="%1% +2" odd="1.02"/>
+						<choice id="195423366" name="Draw (%1% +2)" odd="11.50"/>
+						<choice id="195423371" name="%2% -2" odd="23.00"/>
+					</bet>
+					<bet code="Ftb_Tgl" id="26874634" name="Total Goals">
+						<choice id="195423536" name="0 - 1" odd="3.00"/>
+						<choice id="195423541" name="2 - 3" odd="1.95"/>
+						<choice id="195423546" name="4+" odd="3.75"/>
+					</bet>
+					<bet code="Ftb_Htr" id="26874649" name="Half-Time Result">
+						<choice id="195423481" name="%1%" odd="2.40"/>
+						<choice id="195423486" name="%2%" odd="4.75"/>
+						<choice id="195423491" name="Draw" odd="2.05"/>
+					</bet>
+					<bet code="Ftb_Tgl2" id="26874693" name="Number of Goals">
+						<choice id="195423757" name="0" odd="9.00"/>
+						<choice id="195423762" name="1" odd="4.25"/>
+						<choice id="195423767" name="2" odd="3.40"/>
+						<choice id="195423772" name="3" odd="4.15"/>
+						<choice id="195423777" name="4" odd="6.50"/>
+						<choice id="195423782" name="5+" odd="8.00"/>
+					</bet>
+					<bet code="Ftb_Csc" id="26874706" name="Correct Score">
+						<choice id="195423923" name="1 - 0" odd="6.00"/>
+						<choice id="195423927" name="2 - 0" odd="7.50"/>
+						<choice id="195423931" name="2 - 1" odd="8.00"/>
+						<choice id="195423935" name="3 - 0" odd="12.50"/>
+						<choice id="195423939" name="3 - 1" odd="13.50"/>
+						<choice id="195423943" name="3 - 2" odd="26.00"/>
+						<choice id="195423947" name="4 - 0" odd="28.00"/>
+						<choice id="195423951" name="4 - 1" odd="30.00"/>
+						<choice id="195423955" name="4 - 2" odd="51.00"/>
+						<choice id="195423959" name="4 - 3" odd="95.00"/>
+						<choice id="195423963" name="5 - 0" odd="55.00"/>
+						<choice id="195423967" name="5 - 1" odd="56.00"/>
+						<choice id="195423971" name="5 - 2" odd="96.00"/>
+						<choice id="195423975" name="5 - 3" odd="150.00"/>
+						<choice id="195423979" name="5 - 4" odd="250.00"/>
+						<choice id="195423983" name="6 - 0" odd="101.00"/>
+						<choice id="195423987" name="6 - 1" odd="125.00"/>
+						<choice id="195423991" name="6 - 2" odd="175.00"/>
+						<choice id="195423995" name="6 - 3" odd="250.00"/>
+						<choice id="195423999" name="7 - 0" odd="201.00"/>
+						<choice id="195424003" name="7 - 1" odd="250.00"/>
+						<choice id="195424007" name="8 - 0" odd="250.00"/>
+						<choice id="195424011" name="8 - 1" odd="250.00"/>
+						<choice id="195424015" name="9 - 0" odd="250.00"/>
+						<choice id="195424019" name="10 - 0" odd="250.00"/>
+						<choice id="195424023" name="0 - 0" odd="8.50"/>
+						<choice id="195424027" name="1 - 1" odd="6.50"/>
+						<choice id="195424031" name="2 - 2" odd="14.50"/>
+						<choice id="195424035" name="3 - 3" odd="51.00"/>
+						<choice id="195424039" name="4 - 4" odd="175.00"/>
+						<choice id="195424043" name="5 - 5" odd="250.00"/>
+						<choice id="195424047" name="0 - 1" odd="10.50"/>
+						<choice id="195424051" name="0 - 2" odd="21.00"/>
+						<choice id="195424055" name="1 - 2" odd="12.50"/>
+						<choice id="195424059" name="0 - 3" odd="50.00"/>
+						<choice id="195424063" name="1 - 3" odd="33.00"/>
+						<choice id="195424067" name="2 - 3" odd="36.00"/>
+						<choice id="195424071" name="0 - 4" odd="101.00"/>
+						<choice id="195424075" name="1 - 4" odd="90.00"/>
+						<choice id="195424079" name="2 - 4" odd="95.00"/>
+						<choice id="195424083" name="3 - 4" odd="101.00"/>
+						<choice id="195424087" name="0 - 5" odd="250.00"/>
+						<choice id="195424091" name="1 - 5" odd="175.00"/>
+						<choice id="195424095" name="2 - 5" odd="200.00"/>
+						<choice id="195424099" name="3 - 5" odd="250.00"/>
+						<choice id="195424103" name="4 - 5" odd="250.00"/>
+						<choice id="195424107" name="0 - 6" odd="250.00"/>
+						<choice id="195424111" name="1 - 6" odd="250.00"/>
+						<choice id="195424115" name="2 - 6" odd="250.00"/>
+						<choice id="195424119" name="3 - 6" odd="250.00"/>
+						<choice id="195424123" name="0 - 7" odd="250.00"/>
+						<choice id="195424127" name="1 - 7" odd="250.00"/>
+						<choice id="195424131" name="0 - 8" odd="250.00"/>
+						<choice id="195424135" name="1 - 8" odd="250.00"/>
+					</bet>
+					<bet code="Ftb_Hcs" id="26874715" name="Half-Time Correct Score">
+						<choice id="195423847" name="1 - 0" odd="3.80"/>
+						<choice id="195423851" name="2 - 0" odd="9.50"/>
+						<choice id="195423855" name="2 - 1" odd="20.00"/>
+						<choice id="195423859" name="3 - 0" odd="31.00"/>
+						<choice id="195423863" name="3 - 1" odd="51.00"/>
+						<choice id="195423867" name="3 - 2" odd="125.00"/>
+						<choice id="195423871" name="4 - 0" odd="91.00"/>
+						<choice id="195423875" name="4 - 1" odd="125.00"/>
+						<choice id="195423879" name="0 - 0" odd="2.70"/>
+						<choice id="195423883" name="1 - 1" odd="8.00"/>
+						<choice id="195423887" name="2 - 2" odd="55.00"/>
+						<choice id="195423891" name="0 - 1" odd="6.50"/>
+						<choice id="195423895" name="0 - 2" odd="25.00"/>
+						<choice id="195423899" name="1 - 2" odd="30.00"/>
+						<choice id="195423903" name="0 - 3" odd="90.00"/>
+						<choice id="195423907" name="1 - 3" odd="100.00"/>
+						<choice id="195423911" name="2 - 3" odd="150.00"/>
+						<choice id="195423915" name="0 - 4" odd="250.00"/>
+						<choice id="195423919" name="1 - 4" odd="250.00"/>
+					</bet>
+					<bet code="Ftb_10" id="26874719" name="Over/Under">
+						<choice id="195423787" name="Over 0.5" odd="1.07"/>
+						<choice id="195423792" name="Under 0.5" odd="8.00"/>
+						<choice id="195423797" name="Over 1.5" odd="1.35"/>
+						<choice id="195423802" name="Under 1.5" odd="3.00"/>
+						<choice id="195423807" name="Over 2.5" odd="2.10"/>
+						<choice id="195423812" name="Under 2.5" odd="1.70"/>
+						<choice id="195423817" name="Over 3.5" odd="3.60"/>
+						<choice id="195423822" name="Under 3.5" odd="1.25"/>
+						<choice id="195423827" name="Over 4.5" odd="7.00"/>
+						<choice id="195423832" name="Under 4.5" odd="1.08"/>
+						<choice id="195423837" name="Over 5.5" odd="12.00"/>
+						<choice id="195423842" name="Under 5.5" odd="1.01"/>
+					</bet>
+					<bet code="Ftb_Dbc" id="26874736" name="Double Chance">
+						<choice id="195424681" name="%1% or Draw" odd="1.20"/>
+						<choice id="195424686" name="%1% or %2%" odd="1.30"/>
+						<choice id="195424691" name="Draw or %2%" odd="2.00"/>
+					</bet>
+					<bet code="Ftb_Mr3" id="26874770" name="Match Result">
+						<choice id="195424443" name="%1%" odd="1.82"/>
+						<choice id="195424448" name="Draw" odd="3.40"/>
+						<choice id="195424453" name="%2%" odd="4.50"/>
+					</bet>
+					<bet code="Ftb_Htf" id="26874789" name="Half-Time / Full-Time">
+						<choice id="195424476" name="%1% / %1%" odd="2.90"/>
+						<choice id="195424481" name="%1% / Draw" odd="13.00"/>
+						<choice id="195424486" name="%1% / %2%" odd="24.00"/>
+						<choice id="195424491" name="Draw / %1%" odd="4.50"/>
+						<choice id="195424496" name="Draw / Draw" odd="4.90"/>
+						<choice id="195424501" name="Draw / %2%" odd="8.75"/>
+						<choice id="195424506" name="%2% / %1%" odd="18.00"/>
+						<choice id="195424511" name="%2% / Draw" odd="13.00"/>
+						<choice id="195424516" name="%2% / %2%" odd="7.50"/>
+					</bet>
+					<bet code="Ftb_Fts" id="26874808" name="First Team To Score">
+						<choice id="195424521" name="%1%" odd="1.58"/>
+						<choice id="195424526" name="%2%" odd="2.75"/>
+						<choice id="195424531" name="No Goal" odd="8.25"/>
+					</bet>
+				</bets>
+			</match>
+			<match id="1174442" live_id="" name="Manchester City - Sunderland" start_date="2016-08-13T17:30:00" streaming="0">
+				<bets>
+					<bet code="Ftb_23" id="26874224" name="Handicap">
+						<choice id="195420277" name="%1% -5" odd="17.00"/>
+						<choice id="195420282" name="Draw (%1% -5)" odd="11.50"/>
+						<choice id="195420287" name="%2% +5" odd="1.04"/>
+						<choice id="195420292" name="%1% -4" odd="8.75"/>
+						<choice id="195420297" name="Draw (%1% -4)" odd="7.25"/>
+						<choice id="195420302" name="%2% +4" odd="1.16"/>
+						<choice id="195420307" name="%1% -3" odd="4.60"/>
+						<choice id="195420312" name="Draw (%1% -3)" odd="4.75"/>
+						<choice id="195420317" name="%2% +3" odd="1.45"/>
+						<choice id="195420322" name="%1% -2" odd="2.50"/>
+						<choice id="195420327" name="Draw (%1% -2)" odd="3.70"/>
+						<choice id="195420332" name="%2% +2" odd="2.25"/>
+						<choice id="195420337" name="%1% -1" odd="1.58"/>
+						<choice id="195420342" name="Draw (%1% -1)" odd="3.80"/>
+						<choice id="195420347" name="%2% +1" odd="4.50"/>
+						<choice id="195420352" name="%1% +1" odd="1.01"/>
+						<choice id="195420357" name="Draw (%1% +1)" odd="14.00"/>
+						<choice id="195420362" name="%2% -1" odd="29.00"/>
+					</bet>
+					<bet code="Ftb_Tgl" id="26874238" name="Total Goals">
+						<choice id="195420542" name="0 - 1" odd="5.00"/>
+						<choice id="195420547" name="2 - 3" odd="2.10"/>
+						<choice id="195420552" name="4+" odd="2.30"/>
+					</bet>
+					<bet code="Ftb_Htr" id="26874253" name="Half-Time Result">
+						<choice id="195420487" name="%1%" odd="1.58"/>
+						<choice id="195420492" name="%2%" odd="9.50"/>
+						<choice id="195420497" name="Draw" odd="2.65"/>
+					</bet>
+					<bet code="Ftb_Csc" id="26874301" name="Correct Score">
+						<choice id="195420929" name="1 - 0" odd="7.25"/>
+						<choice id="195420933" name="2 - 0" odd="5.75"/>
+						<choice id="195420937" name="2 - 1" odd="8.75"/>
+						<choice id="195420941" name="3 - 0" odd="6.75"/>
+						<choice id="195420945" name="3 - 1" odd="10.00"/>
+						<choice id="195420949" name="3 - 2" odd="26.00"/>
+						<choice id="195420953" name="4 - 0" odd="9.50"/>
+						<choice id="195420957" name="4 - 1" odd="14.50"/>
+						<choice id="195420961" name="4 - 2" odd="35.00"/>
+						<choice id="195420965" name="4 - 3" odd="90.00"/>
+						<choice id="195420969" name="5 - 0" odd="16.00"/>
+						<choice id="195420973" name="5 - 1" odd="26.00"/>
+						<choice id="195420977" name="5 - 2" odd="51.00"/>
+						<choice id="195420981" name="5 - 3" odd="125.00"/>
+						<choice id="195420985" name="5 - 4" odd="250.00"/>
+						<choice id="195420989" name="6 - 0" odd="32.00"/>
+						<choice id="195420993" name="6 - 1" odd="45.00"/>
+						<choice id="195420997" name="6 - 2" odd="95.00"/>
+						<choice id="195421001" name="6 - 3" odd="175.00"/>
+						<choice id="195421005" name="7 - 0" odd="56.00"/>
+						<choice id="195421009" name="7 - 1" odd="90.00"/>
+						<choice id="195421013" name="8 - 0" odd="101.00"/>
+						<choice id="195421017" name="8 - 1" odd="125.00"/>
+						<choice id="195421021" name="9 - 0" odd="200.00"/>
+						<choice id="195421025" name="10 - 0" odd="250.00"/>
+						<choice id="195421029" name="0 - 0" odd="15.00"/>
+						<choice id="195421033" name="1 - 1" odd="11.00"/>
+						<choice id="195421037" name="2 - 2" odd="23.00"/>
+						<choice id="195421041" name="3 - 3" odd="60.00"/>
+						<choice id="195421045" name="4 - 4" odd="175.00"/>
+						<choice id="195421049" name="5 - 5" odd="250.00"/>
+						<choice id="195421053" name="0 - 1" odd="32.00"/>
+						<choice id="195421057" name="0 - 2" odd="75.00"/>
+						<choice id="195421061" name="1 - 2" odd="32.00"/>
+						<choice id="195421065" name="0 - 3" odd="150.00"/>
+						<choice id="195421069" name="1 - 3" odd="91.00"/>
+						<choice id="195421073" name="2 - 3" odd="65.00"/>
+						<choice id="195421077" name="0 - 4" odd="250.00"/>
+						<choice id="195421081" name="1 - 4" odd="201.00"/>
+						<choice id="195421085" name="2 - 4" odd="175.00"/>
+						<choice id="195421089" name="3 - 4" odd="151.00"/>
+						<choice id="195421093" name="0 - 5" odd="250.00"/>
+						<choice id="195421097" name="1 - 5" odd="250.00"/>
+						<choice id="195421101" name="2 - 5" odd="250.00"/>
+						<choice id="195421105" name="3 - 5" odd="250.00"/>
+						<choice id="195421109" name="4 - 5" odd="250.00"/>
+						<choice id="195421113" name="0 - 6" odd="250.00"/>
+						<choice id="195421117" name="1 - 6" odd="250.00"/>
+						<choice id="195421121" name="2 - 6" odd="250.00"/>
+						<choice id="195421125" name="3 - 6" odd="250.00"/>
+						<choice id="195421129" name="0 - 7" odd="250.00"/>
+						<choice id="195421133" name="1 - 7" odd="250.00"/>
+					</bet>
+					<bet code="Ftb_Tgl2" id="26874305" name="Number of Goals">
+						<choice id="195420763" name="0" odd="16.00"/>
+						<choice id="195420768" name="1" odd="6.50"/>
+						<choice id="195420773" name="2" odd="4.10"/>
+						<choice id="195420778" name="3" odd="3.90"/>
+						<choice id="195420783" name="4" odd="4.80"/>
+						<choice id="195420788" name="5+" odd="4.15"/>
+					</bet>
+					<bet code="Ftb_Hcs" id="26874319" name="Half-Time Correct Score">
+						<choice id="195420853" name="1 - 0" odd="3.20"/>
+						<choice id="195420857" name="2 - 0" odd="5.40"/>
+						<choice id="195420861" name="2 - 1" odd="15.00"/>
+						<choice id="195420865" name="3 - 0" odd="12.00"/>
+						<choice id="195420869" name="3 - 1" odd="33.00"/>
+						<choice id="195420873" name="3 - 2" odd="101.00"/>
+						<choice id="195420877" name="4 - 0" odd="32.00"/>
+						<choice id="195420881" name="4 - 1" odd="80.00"/>
+						<choice id="195420885" name="0 - 0" odd="3.60"/>
+						<choice id="195420889" name="1 - 1" odd="9.50"/>
+						<choice id="195420893" name="2 - 2" odd="55.00"/>
+						<choice id="195420897" name="0 - 1" odd="12.50"/>
+						<choice id="195420901" name="0 - 2" odd="51.00"/>
+						<choice id="195420905" name="1 - 2" odd="40.00"/>
+						<choice id="195420909" name="0 - 3" odd="175.00"/>
+						<choice id="195420913" name="1 - 3" odd="126.00"/>
+						<choice id="195420917" name="2 - 3" odd="175.00"/>
+						<choice id="195420921" name="0 - 4" odd="250.00"/>
+						<choice id="195420925" name="1 - 4" odd="250.00"/>
+					</bet>
+					<bet code="Ftb_10" id="26874323" name="Over/Under">
+						<choice id="195420793" name="Over 0.5" odd="1.02"/>
+						<choice id="195420798" name="Under 0.5" odd="11.50"/>
+						<choice id="195420803" name="Over 1.5" odd="1.16"/>
+						<choice id="195420808" name="Under 1.5" odd="4.75"/>
+						<choice id="195420813" name="Over 2.5" odd="1.55"/>
+						<choice id="195420818" name="Under 2.5" odd="2.40"/>
+						<choice id="195420823" name="Over 3.5" odd="2.35"/>
+						<choice id="195420828" name="Under 3.5" odd="1.55"/>
+						<choice id="195420833" name="Over 4.5" odd="3.90"/>
+						<choice id="195420838" name="Under 4.5" odd="1.22"/>
+						<choice id="195420843" name="Over 5.5" odd="7.00"/>
+						<choice id="195420848" name="Under 5.5" odd="1.08"/>
+						<choice id="195421657" name="Over 6.5" odd="12.00"/>
+						<choice id="195421662" name="Under 6.5" odd="1.02"/>
+					</bet>
+					<bet code="Ftb_Dbc" id="26874345" name="Double Chance">
+						<choice id="195421687" name="%1% or Draw" odd="1.02"/>
+						<choice id="195421692" name="%1% or %2%" odd="1.13"/>
+						<choice id="195421697" name="Draw or %2%" odd="4.30"/>
+					</bet>
+					<bet code="Ftb_Mr3" id="26874374" name="Match Result">
+						<choice id="195421449" name="%1%" odd="1.18"/>
+						<choice id="195421454" name="Draw" odd="6.25"/>
+						<choice id="195421459" name="%2%" odd="15.00"/>
+					</bet>
+					<bet code="Ftb_Htf" id="26874393" name="Half-Time / Full-Time">
+						<choice id="195421482" name="%1% / %1%" odd="1.55"/>
+						<choice id="195421487" name="%1% / Draw" odd="18.00"/>
+						<choice id="195421492" name="%1% / %2%" odd="41.00"/>
+						<choice id="195421497" name="Draw / %1%" odd="3.90"/>
+						<choice id="195421502" name="Draw / Draw" odd="8.25"/>
+						<choice id="195421507" name="Draw / %2%" odd="19.00"/>
+						<choice id="195421512" name="%2% / %1%" odd="17.00"/>
+						<choice id="195421517" name="%2% / Draw" odd="18.00"/>
+						<choice id="195421522" name="%2% / %2%" odd="21.00"/>
+					</bet>
+					<bet code="Ftb_Fts" id="26874412" name="First Team To Score">
+						<choice id="195421527" name="%1%" odd="1.20"/>
+						<choice id="195421532" name="%2%" odd="5.00"/>
+						<choice id="195421537" name="No Goal" odd="13.00"/>
+					</bet>
+				</bets>
+			</match>
+			<match id="1174423" live_id="" name="Bournemouth - Manchester United" start_date="2016-08-14T13:30:00" streaming="0">
+				<bets>
+					<bet code="Ftb_23" id="26872998" name="Handicap">
+						<choice id="195411203" name="%1% -2" odd="26.00"/>
+						<choice id="195411208" name="Draw (%1% -2)" odd="13.50"/>
+						<choice id="195411213" name="%2% +2" odd="1.01"/>
+						<choice id="195411218" name="%1% -1" odd="11.50"/>
+						<choice id="195411223" name="Draw (%1% -1)" odd="6.25"/>
+						<choice id="195411228" name="%2% +1" odd="1.15"/>
+						<choice id="195411233" name="%1% +1" odd="2.05"/>
+						<choice id="195411238" name="Draw (%1% +1)" odd="3.30"/>
+						<choice id="195411243" name="%2% -1" odd="3.00"/>
+						<choice id="195411248" name="%1% +2" odd="1.33"/>
+						<choice id="195411253" name="Draw (%1% +2)" odd="4.90"/>
+						<choice id="195411258" name="%2% -2" odd="6.50"/>
+						<choice id="195411263" name="%1% +3" odd="1.08"/>
+						<choice id="195411268" name="Draw (%1% +3)" odd="8.75"/>
+						<choice id="195411273" name="%2% -3" odd="13.50"/>
+					</bet>
+					<bet code="Ftb_Tgl" id="26873012" name="Total Goals">
+						<choice id="195411423" name="0 - 1" odd="2.90"/>
+						<choice id="195411428" name="2 - 3" odd="1.95"/>
+						<choice id="195411433" name="4+" odd="3.90"/>
+					</bet>
+					<bet code="Ftb_Htr" id="26873027" name="Half-Time Result">
+						<choice id="195411368" name="%1%" odd="5.10"/>
+						<choice id="195411373" name="%2%" odd="2.30"/>
+						<choice id="195411378" name="Draw" odd="2.10"/>
+					</bet>
+					<bet code="Ftb_Tgl2" id="26873071" name="Number of Goals">
+						<choice id="195411644" name="0" odd="8.50"/>
+						<choice id="195411649" name="1" odd="4.10"/>
+						<choice id="195411654" name="2" odd="3.40"/>
+						<choice id="195411659" name="3" odd="4.20"/>
+						<choice id="195411664" name="4" odd="6.50"/>
+						<choice id="195411669" name="5+" odd="8.50"/>
+					</bet>
+					<bet code="Ftb_Csc" id="26873080" name="Correct Score">
+						<choice id="195411810" name="1 - 0" odd="10.50"/>
+						<choice id="195411814" name="2 - 0" odd="24.00"/>
+						<choice id="195411818" name="2 - 1" odd="14.00"/>
+						<choice id="195411822" name="3 - 0" odd="51.00"/>
+						<choice id="195411826" name="3 - 1" odd="40.00"/>
+						<choice id="195411830" name="3 - 2" odd="40.00"/>
+						<choice id="195411834" name="4 - 0" odd="125.00"/>
+						<choice id="195411838" name="4 - 1" odd="100.00"/>
+						<choice id="195411842" name="4 - 2" odd="101.00"/>
+						<choice id="195411846" name="4 - 3" odd="125.00"/>
+						<choice id="195411850" name="5 - 0" odd="250.00"/>
+						<choice id="195411854" name="5 - 1" odd="201.00"/>
+						<choice id="195411858" name="5 - 2" odd="250.00"/>
+						<choice id="195411862" name="5 - 3" odd="250.00"/>
+						<choice id="195411866" name="5 - 4" odd="250.00"/>
+						<choice id="195411870" name="6 - 0" odd="250.00"/>
+						<choice id="195411874" name="6 - 1" odd="250.00"/>
+						<choice id="195411878" name="6 - 2" odd="250.00"/>
+						<choice id="195411882" name="6 - 3" odd="250.00"/>
+						<choice id="195411886" name="7 - 0" odd="250.00"/>
+						<choice id="195411890" name="7 - 1" odd="250.00"/>
+						<choice id="195411894" name="8 - 0" odd="250.00"/>
+						<choice id="195411898" name="8 - 1" odd="250.00"/>
+						<choice id="195411910" name="0 - 0" odd="8.00"/>
+						<choice id="195411914" name="1 - 1" odd="6.50"/>
+						<choice id="195411918" name="2 - 2" odd="16.00"/>
+						<choice id="195411922" name="3 - 3" odd="55.00"/>
+						<choice id="195411926" name="4 - 4" odd="200.00"/>
+						<choice id="195411930" name="5 - 5" odd="250.00"/>
+						<choice id="195411934" name="0 - 1" odd="5.75"/>
+						<choice id="195411938" name="0 - 2" odd="7.25"/>
+						<choice id="195411942" name="1 - 2" odd="8.00"/>
+						<choice id="195411946" name="0 - 3" odd="12.00"/>
+						<choice id="195411950" name="1 - 3" odd="13.50"/>
+						<choice id="195411954" name="2 - 3" odd="27.00"/>
+						<choice id="195411958" name="0 - 4" odd="26.00"/>
+						<choice id="195411962" name="1 - 4" odd="29.00"/>
+						<choice id="195411966" name="2 - 4" odd="51.00"/>
+						<choice id="195411970" name="3 - 4" odd="100.00"/>
+						<choice id="195411974" name="0 - 5" odd="51.00"/>
+						<choice id="195411978" name="1 - 5" odd="56.00"/>
+						<choice id="195411982" name="2 - 5" odd="96.00"/>
+						<choice id="195411986" name="3 - 5" odd="175.00"/>
+						<choice id="195411990" name="4 - 5" odd="250.00"/>
+						<choice id="195411994" name="0 - 6" odd="101.00"/>
+						<choice id="195411998" name="1 - 6" odd="101.00"/>
+						<choice id="195412002" name="2 - 6" odd="175.00"/>
+						<choice id="195412006" name="3 - 6" odd="250.00"/>
+						<choice id="195412010" name="0 - 7" odd="201.00"/>
+						<choice id="195412014" name="1 - 7" odd="250.00"/>
+						<choice id="195412018" name="0 - 8" odd="250.00"/>
+						<choice id="195412022" name="1 - 8" odd="250.00"/>
+						<choice id="195412026" name="0 - 9" odd="250.00"/>
+						<choice id="195412030" name="0 - 10" odd="250.00"/>
+					</bet>
+					<bet code="Ftb_Hcs" id="26873093" name="Half-Time Correct Score">
+						<choice id="195411734" name="1 - 0" odd="6.75"/>
+						<choice id="195411738" name="2 - 0" odd="27.00"/>
+						<choice id="195411742" name="2 - 1" odd="31.00"/>
+						<choice id="195411746" name="3 - 0" odd="96.00"/>
+						<choice id="195411750" name="3 - 1" odd="101.00"/>
+						<choice id="195411754" name="3 - 2" odd="150.00"/>
+						<choice id="195411758" name="4 - 0" odd="250.00"/>
+						<choice id="195411762" name="4 - 1" odd="250.00"/>
+						<choice id="195411766" name="0 - 0" odd="2.75"/>
+						<choice id="195411770" name="1 - 1" odd="8.00"/>
+						<choice id="195411774" name="2 - 2" odd="51.00"/>
+						<choice id="195411778" name="0 - 1" odd="3.70"/>
+						<choice id="195411782" name="0 - 2" odd="8.75"/>
+						<choice id="195411786" name="1 - 2" odd="19.00"/>
+						<choice id="195411790" name="0 - 3" odd="28.00"/>
+						<choice id="195411794" name="1 - 3" odd="55.00"/>
+						<choice id="195411798" name="2 - 3" odd="101.00"/>
+						<choice id="195411802" name="0 - 4" odd="81.00"/>
+						<choice id="195411806" name="1 - 4" odd="125.00"/>
+					</bet>
+					<bet code="Ftb_10" id="26873097" name="Over/Under">
+						<choice id="195411674" name="Over 0.5" odd="1.08"/>
+						<choice id="195411679" name="Under 0.5" odd="7.50"/>
+						<choice id="195411684" name="Over 1.5" odd="1.38"/>
+						<choice id="195411689" name="Under 1.5" odd="3.00"/>
+						<choice id="195411694" name="Over 2.5" odd="2.15"/>
+						<choice id="195411699" name="Under 2.5" odd="1.65"/>
+						<choice id="195411704" name="Over 3.5" odd="3.75"/>
+						<choice id="195411709" name="Under 3.5" odd="1.25"/>
+						<choice id="195411714" name="Over 4.5" odd="7.50"/>
+						<choice id="195411719" name="Under 4.5" odd="1.08"/>
+						<choice id="195411724" name="Over 5.5" odd="12.00"/>
+						<choice id="195411729" name="Under 5.5" odd="1.01"/>
+					</bet>
+					<bet code="Ftb_Dbc" id="26873119" name="Double Chance">
+						<choice id="195412568" name="%1% or Draw" odd="2.10"/>
+						<choice id="195412573" name="%1% or %2%" odd="1.30"/>
+						<choice id="195412578" name="Draw or %2%" odd="1.17"/>
+					</bet>
+					<bet code="Ftb_Mr3" id="26873148" name="Match Result">
+						<choice id="195412330" name="%1%" odd="5.00"/>
+						<choice id="195412335" name="Draw" odd="3.40"/>
+						<choice id="195412340" name="%2%" odd="1.75"/>
+					</bet>
+					<bet code="Ftb_Htf" id="26873162" name="Half-Time / Full-Time">
+						<choice id="195412363" name="%1% / %1%" odd="8.25"/>
+						<choice id="195412368" name="%1% / Draw" odd="13.50"/>
+						<choice id="195412373" name="%1% / %2%" odd="19.00"/>
+						<choice id="195412378" name="Draw / %1%" odd="9.50"/>
+						<choice id="195412383" name="Draw / Draw" odd="4.80"/>
+						<choice id="195412388" name="Draw / %2%" odd="4.50"/>
+						<choice id="195412393" name="%2% / %1%" odd="25.00"/>
+						<choice id="195412398" name="%2% / Draw" odd="13.50"/>
+						<choice id="195412403" name="%2% / %2%" odd="2.65"/>
+					</bet>
+					<bet code="Ftb_Fts" id="26873186" name="First Team To Score">
+						<choice id="195412408" name="%1%" odd="2.90"/>
+						<choice id="195412413" name="%2%" odd="1.55"/>
+						<choice id="195412418" name="No Goal" odd="7.75"/>
+					</bet>
+				</bets>
+			</match>
+			<match id="1174413" live_id="" name="Arsenal - Liverpool" start_date="2016-08-14T16:00:00" streaming="0">
+				<bets>
+					<bet code="Ftb_23" id="26872333" name="Handicap">
+						<choice id="195404627" name="%1% -3" odd="18.00"/>
+						<choice id="195404632" name="Draw (%1% -3)" odd="11.00"/>
+						<choice id="195404637" name="%2% +3" odd="1.04"/>
+						<choice id="195404642" name="%1% -2" odd="8.50"/>
+						<choice id="195404647" name="Draw (%1% -2)" odd="6.00"/>
+						<choice id="195404652" name="%2% +2" odd="1.20"/>
+						<choice id="195404657" name="%1% -1" odd="3.90"/>
+						<choice id="195404662" name="Draw (%1% -1)" odd="3.70"/>
+						<choice id="195404667" name="%2% +1" odd="1.68"/>
+						<choice id="195404672" name="%1% +1" odd="1.30"/>
+						<choice id="195404677" name="Draw (%1% +1)" odd="4.80"/>
+						<choice id="195404682" name="%2% -1" odd="7.25"/>
+						<choice id="195404687" name="%1% +2" odd="1.07"/>
+						<choice id="195404692" name="Draw (%1% +2)" odd="9.50"/>
+						<choice id="195404697" name="%2% -2" odd="16.00"/>
+					</bet>
+					<bet code="Ftb_Tgl" id="26872347" name="Total Goals">
+						<choice id="195404862" name="0 - 1" odd="3.30"/>
+						<choice id="195404867" name="2 - 3" odd="1.95"/>
+						<choice id="195404872" name="4+" odd="3.40"/>
+					</bet>
+					<bet code="Ftb_Htr" id="26872362" name="Half-Time Result">
+						<choice id="195404807" name="%1%" odd="2.75"/>
+						<choice id="195404812" name="%2%" odd="3.75"/>
+						<choice id="195404817" name="Draw" odd="2.05"/>
+					</bet>
+					<bet code="Ftb_Csc" id="26872406" name="Correct Score">
+						<choice id="195405249" name="1 - 0" odd="7.25"/>
+						<choice id="195405253" name="2 - 0" odd="9.50"/>
+						<choice id="195405257" name="2 - 1" odd="8.25"/>
+						<choice id="195405261" name="3 - 0" odd="17.00"/>
+						<choice id="195405265" name="3 - 1" odd="14.50"/>
+						<choice id="195405269" name="3 - 2" odd="24.00"/>
+						<choice id="195405273" name="4 - 0" odd="35.00"/>
+						<choice id="195405277" name="4 - 1" odd="32.00"/>
+						<choice id="195405281" name="4 - 2" odd="45.00"/>
+						<choice id="195405285" name="4 - 3" odd="81.00"/>
+						<choice id="195405289" name="5 - 0" odd="80.00"/>
+						<choice id="195405293" name="5 - 1" odd="67.00"/>
+						<choice id="195405297" name="5 - 2" odd="95.00"/>
+						<choice id="195405301" name="5 - 3" odd="125.00"/>
+						<choice id="195405305" name="5 - 4" odd="250.00"/>
+						<choice id="195405309" name="6 - 0" odd="125.00"/>
+						<choice id="195405313" name="6 - 1" odd="125.00"/>
+						<choice id="195405317" name="6 - 2" odd="175.00"/>
+						<choice id="195405321" name="6 - 3" odd="250.00"/>
+						<choice id="195405325" name="7 - 0" odd="250.00"/>
+						<choice id="195405329" name="7 - 1" odd="250.00"/>
+						<choice id="195405333" name="8 - 0" odd="250.00"/>
+						<choice id="195405337" name="8 - 1" odd="250.00"/>
+						<choice id="195405341" name="9 - 0" odd="250.00"/>
+						<choice id="195405345" name="10 - 0" odd="250.00"/>
+						<choice id="195405349" name="0 - 0" odd="9.50"/>
+						<choice id="195405353" name="1 - 1" odd="6.25"/>
+						<choice id="195405357" name="2 - 2" odd="12.50"/>
+						<choice id="195405361" name="3 - 3" odd="40.00"/>
+						<choice id="195405365" name="4 - 4" odd="125.00"/>
+						<choice id="195405369" name="5 - 5" odd="250.00"/>
+						<choice id="195405373" name="0 - 1" odd="9.50"/>
+						<choice id="195405377" name="0 - 2" odd="15.00"/>
+						<choice id="195405381" name="1 - 2" odd="10.50"/>
+						<choice id="195405385" name="0 - 3" odd="32.00"/>
+						<choice id="195405389" name="1 - 3" odd="24.00"/>
+						<choice id="195405393" name="2 - 3" odd="29.00"/>
+						<choice id="195405397" name="0 - 4" odd="75.00"/>
+						<choice id="195405401" name="1 - 4" odd="51.00"/>
+						<choice id="195405405" name="2 - 4" odd="60.00"/>
+						<choice id="195405409" name="3 - 4" odd="95.00"/>
+						<choice id="195405413" name="0 - 5" odd="126.00"/>
+						<choice id="195405417" name="1 - 5" odd="101.00"/>
+						<choice id="195405421" name="2 - 5" odd="125.00"/>
+						<choice id="195405425" name="3 - 5" odd="175.00"/>
+						<choice id="195405429" name="4 - 5" odd="250.00"/>
+						<choice id="195405433" name="0 - 6" odd="250.00"/>
+						<choice id="195405437" name="1 - 6" odd="250.00"/>
+						<choice id="195405441" name="2 - 6" odd="250.00"/>
+						<choice id="195405445" name="3 - 6" odd="250.00"/>
+						<choice id="195405449" name="0 - 7" odd="250.00"/>
+						<choice id="195405453" name="1 - 7" odd="250.00"/>
+						<choice id="195405457" name="0 - 8" odd="250.00"/>
+						<choice id="195405461" name="1 - 8" odd="250.00"/>
+						<choice id="195405465" name="0 - 9" odd="250.00"/>
+					</bet>
+					<bet code="Ftb_Tgl2" id="26872414" name="Number of Goals">
+						<choice id="195405083" name="0" odd="10.00"/>
+						<choice id="195405088" name="1" odd="4.60"/>
+						<choice id="195405093" name="2" odd="3.50"/>
+						<choice id="195405098" name="3" odd="4.10"/>
+						<choice id="195405103" name="4" odd="6.00"/>
+						<choice id="195405108" name="5+" odd="6.75"/>
+					</bet>
+					<bet code="Ftb_Hcs" id="26872428" name="Half-Time Correct Score">
+						<choice id="195405173" name="1 - 0" odd="4.25"/>
+						<choice id="195405177" name="2 - 0" odd="11.00"/>
+						<choice id="195405181" name="2 - 1" odd="20.00"/>
+						<choice id="195405185" name="3 - 0" odd="36.00"/>
+						<choice id="195405189" name="3 - 1" odd="55.00"/>
+						<choice id="195405193" name="3 - 2" odd="101.00"/>
+						<choice id="195405197" name="4 - 0" odd="101.00"/>
+						<choice id="195405201" name="4 - 1" odd="125.00"/>
+						<choice id="195405205" name="0 - 0" odd="2.80"/>
+						<choice id="195405209" name="1 - 1" odd="7.50"/>
+						<choice id="195405213" name="2 - 2" odd="55.00"/>
+						<choice id="195405217" name="0 - 1" odd="5.50"/>
+						<choice id="195405221" name="0 - 2" odd="18.00"/>
+						<choice id="195405225" name="1 - 2" odd="25.00"/>
+						<choice id="195405229" name="0 - 3" odd="56.00"/>
+						<choice id="195405233" name="1 - 3" odd="81.00"/>
+						<choice id="195405237" name="2 - 3" odd="125.00"/>
+						<choice id="195405241" name="0 - 4" odd="175.00"/>
+						<choice id="195405245" name="1 - 4" odd="201.00"/>
+					</bet>
+					<bet code="Ftb_10" id="26872432" name="Over/Under">
+						<choice id="195405113" name="Over 0.5" odd="1.06"/>
+						<choice id="195405118" name="Under 0.5" odd="8.50"/>
+						<choice id="195405123" name="Over 1.5" odd="1.30"/>
+						<choice id="195405128" name="Under 1.5" odd="3.20"/>
+						<choice id="195405133" name="Over 2.5" odd="1.90"/>
+						<choice id="195405138" name="Under 2.5" odd="1.80"/>
+						<choice id="195405143" name="Over 3.5" odd="3.25"/>
+						<choice id="195405148" name="Under 3.5" odd="1.30"/>
+						<choice id="195405153" name="Over 4.5" odd="6.00"/>
+						<choice id="195405158" name="Under 4.5" odd="1.11"/>
+						<choice id="195405163" name="Over 5.5" odd="11.00"/>
+						<choice id="195405168" name="Under 5.5" odd="1.02"/>
+					</bet>
+					<bet code="Ftb_Dbc" id="26872449" name="Double Chance">
+						<choice id="195406007" name="%1% or Draw" odd="1.33"/>
+						<choice id="195406012" name="%1% or %2%" odd="1.33"/>
+						<choice id="195406017" name="Draw or %2%" odd="1.72"/>
+					</bet>
+					<bet code="Ftb_Mr3" id="26872483" name="Match Result">
+						<choice id="195405769" name="%1%" odd="2.10"/>
+						<choice id="195405774" name="Draw" odd="3.40"/>
+						<choice id="195405779" name="%2%" odd="3.40"/>
+					</bet>
+					<bet code="Ftb_Htf" id="26872502" name="Half-Time / Full-Time">
+						<choice id="195405802" name="%1% / %1%" odd="3.50"/>
+						<choice id="195405807" name="%1% / Draw" odd="12.00"/>
+						<choice id="195405812" name="%1% / %2%" odd="21.00"/>
+						<choice id="195405817" name="Draw / %1%" odd="5.10"/>
+						<choice id="195405822" name="Draw / Draw" odd="5.00"/>
+						<choice id="195405827" name="Draw / %2%" odd="7.00"/>
+						<choice id="195405832" name="%2% / %1%" odd="18.00"/>
+						<choice id="195405837" name="%2% / Draw" odd="12.00"/>
+						<choice id="195405842" name="%2% / %2%" odd="5.60"/>
+					</bet>
+					<bet code="Ftb_Fts" id="26872521" name="First Team To Score">
+						<choice id="195405847" name="%1%" odd="1.75"/>
+						<choice id="195405852" name="%2%" odd="2.30"/>
+						<choice id="195405857" name="No Goal" odd="9.00"/>
+					</bet>
+				</bets>
+			</match>
+			<match id="1174438" live_id="" name="Chelsea - West Ham" start_date="2016-08-15T20:00:00" streaming="0">
+				<bets>
+					<bet code="Ftb_23" id="26873432" name="Handicap">
+						<choice id="195414308" name="%1% -4" odd="21.00"/>
+						<choice id="195414313" name="Draw (%1% -4)" odd="13.00"/>
+						<choice id="195414318" name="%2% +4" odd="1.02"/>
+						<choice id="195414323" name="%1% -3" odd="11.00"/>
+						<choice id="195414328" name="Draw (%1% -3)" odd="7.50"/>
+						<choice id="195414333" name="%2% +3" odd="1.13"/>
+						<choice id="195414338" name="%1% -2" odd="5.10"/>
+						<choice id="195414343" name="Draw (%1% -2)" odd="4.50"/>
+						<choice id="195414348" name="%2% +2" odd="1.42"/>
+						<choice id="195414353" name="%1% -1" odd="2.60"/>
+						<choice id="195414358" name="Draw (%1% -1)" odd="3.30"/>
+						<choice id="195414363" name="%2% +1" odd="2.30"/>
+						<choice id="195414368" name="%1% +1" odd="1.13"/>
+						<choice id="195414373" name="Draw (%1% +1)" odd="7.00"/>
+						<choice id="195414378" name="%2% -1" odd="12.00"/>
+						<choice id="195414383" name="%1% +2" odd="1.01"/>
+						<choice id="195414388" name="Draw (%1% +2)" odd="14.50"/>
+						<choice id="195414393" name="%2% -2" odd="26.00"/>
+					</bet>
+					<bet code="Ftb_Tgl" id="26873446" name="Total Goals">
+						<choice id="195414558" name="0 - 1" odd="3.40"/>
+						<choice id="195414563" name="2 - 3" odd="1.95"/>
+						<choice id="195414568" name="4+" odd="3.25"/>
+					</bet>
+					<bet code="Ftb_Htr" id="26873456" name="Half-Time Result">
+						<choice id="195414503" name="%1%" odd="2.15"/>
+						<choice id="195414508" name="%2%" odd="5.40"/>
+						<choice id="195414513" name="Draw" odd="2.20"/>
+					</bet>
+					<bet code="Ftb_Csc" id="26873509" name="Correct Score">
+						<choice id="195414945" name="1 - 0" odd="6.25"/>
+						<choice id="195414949" name="2 - 0" odd="7.00"/>
+						<choice id="195414953" name="2 - 1" odd="7.75"/>
+						<choice id="195414957" name="3 - 0" odd="10.50"/>
+						<choice id="195414961" name="3 - 1" odd="12.00"/>
+						<choice id="195414965" name="3 - 2" odd="24.00"/>
+						<choice id="195414969" name="4 - 0" odd="21.00"/>
+						<choice id="195414973" name="4 - 1" odd="24.00"/>
+						<choice id="195414977" name="4 - 2" odd="40.00"/>
+						<choice id="195414981" name="4 - 3" odd="90.00"/>
+						<choice id="195414985" name="5 - 0" odd="40.00"/>
+						<choice id="195414989" name="5 - 1" odd="46.00"/>
+						<choice id="195414993" name="5 - 2" odd="81.00"/>
+						<choice id="195414997" name="5 - 3" odd="125.00"/>
+						<choice id="195415001" name="5 - 4" odd="250.00"/>
+						<choice id="195415005" name="6 - 0" odd="90.00"/>
+						<choice id="195415009" name="6 - 1" odd="95.00"/>
+						<choice id="195415013" name="6 - 2" odd="125.00"/>
+						<choice id="195415017" name="6 - 3" odd="250.00"/>
+						<choice id="195415021" name="7 - 0" odd="150.00"/>
+						<choice id="195415025" name="7 - 1" odd="175.00"/>
+						<choice id="195415029" name="8 - 0" odd="250.00"/>
+						<choice id="195415033" name="8 - 1" odd="250.00"/>
+						<choice id="195415037" name="9 - 0" odd="250.00"/>
+						<choice id="195415041" name="10 - 0" odd="250.00"/>
+						<choice id="195415045" name="0 - 0" odd="10.00"/>
+						<choice id="195415049" name="1 - 1" odd="7.25"/>
+						<choice id="195415053" name="2 - 2" odd="15.00"/>
+						<choice id="195415057" name="3 - 3" odd="51.00"/>
+						<choice id="195415061" name="4 - 4" odd="151.00"/>
+						<choice id="195415065" name="5 - 5" odd="250.00"/>
+						<choice id="195415069" name="0 - 1" odd="12.50"/>
+						<choice id="195415073" name="0 - 2" odd="27.00"/>
+						<choice id="195415077" name="1 - 2" odd="15.00"/>
+						<choice id="195415081" name="0 - 3" odd="56.00"/>
+						<choice id="195415085" name="1 - 3" odd="40.00"/>
+						<choice id="195415089" name="2 - 3" odd="40.00"/>
+						<choice id="195415093" name="0 - 4" odd="125.00"/>
+						<choice id="195415097" name="1 - 4" odd="100.00"/>
+						<choice id="195415101" name="2 - 4" odd="100.00"/>
+						<choice id="195415105" name="3 - 4" odd="101.00"/>
+						<choice id="195415109" name="0 - 5" odd="250.00"/>
+						<choice id="195415113" name="1 - 5" odd="201.00"/>
+						<choice id="195415117" name="2 - 5" odd="201.00"/>
+						<choice id="195415121" name="3 - 5" odd="250.00"/>
+						<choice id="195415125" name="4 - 5" odd="250.00"/>
+						<choice id="195415129" name="0 - 6" odd="250.00"/>
+						<choice id="195415133" name="1 - 6" odd="250.00"/>
+						<choice id="195415137" name="2 - 6" odd="250.00"/>
+						<choice id="195415141" name="3 - 6" odd="250.00"/>
+						<choice id="195415145" name="0 - 7" odd="250.00"/>
+						<choice id="195415149" name="1 - 7" odd="250.00"/>
+						<choice id="195415153" name="0 - 8" odd="250.00"/>
+						<choice id="195415157" name="1 - 8" odd="250.00"/>
+					</bet>
+					<bet code="Ftb_Tgl2" id="26873513" name="Number of Goals">
+						<choice id="195414779" name="0" odd="10.50"/>
+						<choice id="195414784" name="1" odd="4.75"/>
+						<choice id="195414789" name="2" odd="3.50"/>
+						<choice id="195414794" name="3" odd="4.00"/>
+						<choice id="195414799" name="4" odd="5.75"/>
+						<choice id="195414804" name="5+" odd="6.50"/>
+					</bet>
+					<bet code="Ftb_Hcs" id="26873527" name="Half-Time Correct Score">
+						<choice id="195414869" name="1 - 0" odd="3.60"/>
+						<choice id="195414873" name="2 - 0" odd="8.00"/>
+						<choice id="195414877" name="2 - 1" odd="17.00"/>
+						<choice id="195414881" name="3 - 0" odd="24.00"/>
+						<choice id="195414885" name="3 - 1" odd="45.00"/>
+						<choice id="195414889" name="3 - 2" odd="101.00"/>
+						<choice id="195414893" name="4 - 0" odd="65.00"/>
+						<choice id="195414897" name="4 - 1" odd="101.00"/>
+						<choice id="195414901" name="0 - 0" odd="2.90"/>
+						<choice id="195414905" name="1 - 1" odd="8.00"/>
+						<choice id="195414909" name="2 - 2" odd="51.00"/>
+						<choice id="195414913" name="0 - 1" odd="7.25"/>
+						<choice id="195414917" name="0 - 2" odd="29.00"/>
+						<choice id="195414921" name="1 - 2" odd="31.00"/>
+						<choice id="195414925" name="0 - 3" odd="100.00"/>
+						<choice id="195414929" name="1 - 3" odd="101.00"/>
+						<choice id="195414933" name="2 - 3" odd="126.00"/>
+						<choice id="195414937" name="0 - 4" odd="250.00"/>
+						<choice id="195414941" name="1 - 4" odd="250.00"/>
+					</bet>
+					<bet code="Ftb_10" id="26873531" name="Over/Under">
+						<choice id="195414809" name="Over 0.5" odd="1.05"/>
+						<choice id="195414814" name="Under 0.5" odd="8.75"/>
+						<choice id="195414819" name="Over 1.5" odd="1.30"/>
+						<choice id="195414824" name="Under 1.5" odd="3.40"/>
+						<choice id="195414829" name="Over 2.5" odd="1.90"/>
+						<choice id="195414834" name="Under 2.5" odd="1.85"/>
+						<choice id="195414839" name="Over 3.5" odd="3.20"/>
+						<choice id="195414844" name="Under 3.5" odd="1.33"/>
+						<choice id="195414849" name="Over 4.5" odd="5.75"/>
+						<choice id="195414854" name="Under 4.5" odd="1.11"/>
+						<choice id="195414859" name="Over 5.5" odd="10.50"/>
+						<choice id="195414864" name="Under 5.5" odd="1.03"/>
+					</bet>
+					<bet code="Ftb_Dbc" id="26873553" name="Double Chance">
+						<choice id="195415703" name="%1% or Draw" odd="1.15"/>
+						<choice id="195415708" name="%1% or %2%" odd="1.25"/>
+						<choice id="195415713" name="Draw or %2%" odd="2.35"/>
+					</bet>
+					<bet code="Ftb_Mr3" id="26873582" name="Match Result">
+						<choice id="195415465" name="%1%" odd="1.60"/>
+						<choice id="195415470" name="Draw" odd="3.80"/>
+						<choice id="195415475" name="%2%" odd="5.60"/>
+					</bet>
+					<bet code="Ftb_Htf" id="26873596" name="Half-Time / Full-Time">
+						<choice id="195415498" name="%1% / %1%" odd="2.30"/>
+						<choice id="195415503" name="%1% / Draw" odd="14.00"/>
+						<choice id="195415508" name="%1% / %2%" odd="25.00"/>
+						<choice id="195415513" name="Draw / %1%" odd="4.30"/>
+						<choice id="195415518" name="Draw / Draw" odd="5.50"/>
+						<choice id="195415523" name="Draw / %2%" odd="10.50"/>
+						<choice id="195415528" name="%2% / %1%" odd="17.00"/>
+						<choice id="195415533" name="%2% / Draw" odd="13.50"/>
+						<choice id="195415538" name="%2% / %2%" odd="9.00"/>
+					</bet>
+					<bet code="Ftb_Fts" id="26873620" name="First Team To Score">
+						<choice id="195415543" name="%1%" odd="1.45"/>
+						<choice id="195415548" name="%2%" odd="3.10"/>
+						<choice id="195415553" name="No Goal" odd="9.50"/>
+					</bet>
+				</bets>
+			</match>
+			<match id="1144225" live_id="" name="Premier League 2016/17" start_date="2017-05-21T15:00:00" streaming="0">
+				<bets>
+					<bet code="Ftb_Rel" id="25954319" name="Relegation">
+						<choice id="187359794" name="Arsenal" odd="1000.00"/>
+						<choice id="187359799" name="Chelsea" odd="500.00"/>
+						<choice id="187359804" name="Leicester" odd="20.00"/>
+						<choice id="187359809" name="Liverpool" odd="250.00"/>
+						<choice id="187359814" name="Manchester City" odd="1000.00"/>
+						<choice id="187359935" name="Manchester United" odd="500.00"/>
+						<choice id="187359940" name="Southampton" odd="22.00"/>
+						<choice id="187359945" name="Stoke" odd="10.00"/>
+						<choice id="187359950" name="Tottenham" odd="500.00"/>
+						<choice id="187359955" name="West Ham" odd="35.00"/>
+						<choice id="193860114" name="Bournemouth" odd="4.00"/>
+						<choice id="193860119" name="Burnley" odd="1.85"/>
+						<choice id="193860124" name="Crystal Palace" odd="6.00"/>
+						<choice id="193860129" name="Everton" odd="25.00"/>
+						<choice id="193860134" name="Hull" odd="1.90"/>
+						<choice id="193860139" name="Middlesbrough" odd="2.30"/>
+						<choice id="193860144" name="Sunderland" odd="4.00"/>
+						<choice id="193860149" name="Swansea" odd="5.00"/>
+						<choice id="193860154" name="Watford" odd="3.25"/>
+						<choice id="193860159" name="West Bromwich Albion" odd="3.00"/>
+					</bet>
+					<bet code="Ftb_Pl4" id="25954324" name="Place 1-4">
+						<choice id="187359832" name="Arsenal" odd="1.60"/>
+						<choice id="187359837" name="Chelsea" odd="1.60"/>
+						<choice id="187359842" name="Leicester" odd="6.50"/>
+						<choice id="187359847" name="Liverpool" odd="2.60"/>
+						<choice id="187359852" name="Manchester City" odd="1.20"/>
+						<choice id="187359857" name="Manchester United" odd="1.40"/>
+						<choice id="187359862" name="Southampton" odd="13.00"/>
+						<choice id="187359867" name="Stoke" odd="40.00"/>
+						<choice id="187359872" name="Tottenham" odd="2.00"/>
+						<choice id="187359877" name="West Ham" odd="9.00"/>
+						<choice id="193860310" name="Bournemouth" odd="100.00"/>
+						<choice id="193860315" name="Burnley" odd="200.00"/>
+						<choice id="193860320" name="Crystal Palace" odd="65.00"/>
+						<choice id="193860325" name="Everton" odd="12.00"/>
+						<choice id="193860330" name="Hull" odd="200.00"/>
+						<choice id="193860335" name="Middlesbrough" odd="150.00"/>
+						<choice id="193860340" name="Sunderland" odd="100.00"/>
+						<choice id="193860345" name="Swansea" odd="80.00"/>
+						<choice id="193860350" name="Watford" odd="150.00"/>
+						<choice id="193860355" name="West Bromwich Albion" odd="150.00"/>
+					</bet>
+					<bet code="Ftb_Win" id="25954344" name="Outright Winner">
+						<choice id="187359960" name="Arsenal" odd="7.00"/>
+						<choice id="187359965" name="Chelsea" odd="7.00"/>
+						<choice id="187359970" name="Leicester" odd="25.00"/>
+						<choice id="187359975" name="Liverpool" odd="9.00"/>
+						<choice id="187359980" name="Manchester City" odd="3.50"/>
+						<choice id="187359985" name="Manchester United" odd="4.50"/>
+						<choice id="187359990" name="Southampton" odd="150.00"/>
+						<choice id="187359995" name="Stoke" odd="500.00"/>
+						<choice id="187360000" name="Tottenham" odd="9.00"/>
+						<choice id="187360005" name="West Ham" odd="80.00"/>
+						<choice id="190499835" name="Bournemouth" odd="1000.00"/>
+						<choice id="190499840" name="Burnley" odd="1000.00"/>
+						<choice id="190499845" name="Crystal Palace" odd="1000.00"/>
+						<choice id="190499850" name="Everton" odd="100.00"/>
+						<choice id="190499855" name="Sunderland" odd="1000.00"/>
+						<choice id="190499860" name="Watford" odd="1000.00"/>
+						<choice id="190499865" name="West Bromwich Albion" odd="1000.00"/>
+						<choice id="190500041" name="Swansea" odd="1000.00"/>
+						<choice id="191295331" name="Middlesbrough" odd="1000.00"/>
+						<choice id="193859931" name="Hull" odd="1000.00"/>
+					</bet>
+				</bets>
+			</match>
+		</event>
+		<event id="4" name="French Ligue 1">
+			<match id="1169904" live_id="" name="Bastia - Paris Saint-Germain" start_date="2016-08-12T19:00:00" streaming="0">
+				<bets>
+					<bet code="Ftb_23" id="26752048" name="Handicap">
+						<choice id="194568315" name="%1% -1" odd="14.00"/>
+						<choice id="194568320" name="Draw (%1% -1)" odd="7.50"/>
+						<choice id="194568325" name="%2% +1" odd="1.10"/>
+						<choice id="194568331" name="%1% +1" odd="2.50"/>
+						<choice id="194568335" name="Draw (%1% +1)" odd="3.30"/>
+						<choice id="194568340" name="%2% -1" odd="2.45"/>
+						<choice id="194568345" name="%1% +2" odd="1.48"/>
+						<choice id="194568350" name="Draw (%1% +2)" odd="4.30"/>
+						<choice id="194568355" name="%2% -2" odd="4.75"/>
+						<choice id="194568360" name="%1% +3" odd="1.15"/>
+						<choice id="194568365" name="Draw (%1% +3)" odd="7.00"/>
+						<choice id="194568370" name="%2% -3" odd="10.00"/>
+						<choice id="194568375" name="%1% +4" odd="1.03"/>
+						<choice id="194568380" name="Draw (%1% +4)" odd="12.00"/>
+						<choice id="194568385" name="%2% -4" odd="20.00"/>
+					</bet>
+					<bet code="Ftb_Tgl" id="26752062" name="Total Goals">
+						<choice id="194568520" name="0 - 1" odd="3.50"/>
+						<choice id="194568525" name="2 - 3" odd="1.95"/>
+						<choice id="194568530" name="4+" odd="3.25"/>
+					</bet>
+					<bet code="Ftb_Htr" id="26752077" name="Half-Time Result">
+						<choice id="194568465" name="%1%" odd="5.75"/>
+						<choice id="194568470" name="%2%" odd="2.05"/>
+						<choice id="194568475" name="Draw" odd="2.20"/>
+					</bet>
+					<bet code="Ftb_Tgl2" id="26752125" name="Number of Goals">
+						<choice id="194568741" name="0" odd="10.50"/>
+						<choice id="194568746" name="1" odd="4.75"/>
+						<choice id="194568751" name="2" odd="3.50"/>
+						<choice id="194568756" name="3" odd="4.00"/>
+						<choice id="194568761" name="4" odd="5.75"/>
+						<choice id="194568766" name="5+" odd="6.50"/>
+					</bet>
+					<bet code="Ftb_Csc" id="26752133" name="Correct Score">
+						<choice id="194568907" name="1 - 0" odd="13.50"/>
+						<choice id="194568911" name="2 - 0" odd="30.00"/>
+						<choice id="194568915" name="2 - 1" odd="17.00"/>
+						<choice id="194568919" name="3 - 0" odd="71.00"/>
+						<choice id="194568923" name="3 - 1" odd="45.00"/>
+						<choice id="194568927" name="3 - 2" odd="40.00"/>
+						<choice id="194568931" name="4 - 0" odd="150.00"/>
+						<choice id="194568935" name="4 - 1" odd="101.00"/>
+						<choice id="194568939" name="4 - 2" odd="101.00"/>
+						<choice id="194568943" name="4 - 3" odd="125.00"/>
+						<choice id="194568947" name="5 - 0" odd="250.00"/>
+						<choice id="194568951" name="5 - 1" odd="250.00"/>
+						<choice id="194568955" name="5 - 2" odd="250.00"/>
+						<choice id="194568959" name="5 - 3" odd="250.00"/>
+						<choice id="194568963" name="5 - 4" odd="250.00"/>
+						<choice id="194568967" name="6 - 0" odd="250.00"/>
+						<choice id="194568971" name="6 - 1" odd="250.00"/>
+						<choice id="194568975" name="6 - 2" odd="250.00"/>
+						<choice id="194568979" name="6 - 3" odd="250.00"/>
+						<choice id="194568983" name="7 - 0" odd="250.00"/>
+						<choice id="194568987" name="7 - 1" odd="250.00"/>
+						<choice id="194568991" name="8 - 0" odd="250.00"/>
+						<choice id="194568995" name="8 - 1" odd="250.00"/>
+						<choice id="194569007" name="0 - 0" odd="10.00"/>
+						<choice id="194569011" name="1 - 1" odd="7.25"/>
+						<choice id="194569015" name="2 - 2" odd="16.00"/>
+						<choice id="194569019" name="3 - 3" odd="51.00"/>
+						<choice id="194569023" name="4 - 4" odd="175.00"/>
+						<choice id="194569027" name="5 - 5" odd="250.00"/>
+						<choice id="194569031" name="0 - 1" odd="6.25"/>
+						<choice id="194569035" name="0 - 2" odd="6.50"/>
+						<choice id="194569039" name="1 - 2" odd="7.75"/>
+						<choice id="194569043" name="0 - 3" odd="9.50"/>
+						<choice id="194569047" name="1 - 3" odd="11.50"/>
+						<choice id="194569051" name="2 - 3" odd="25.00"/>
+						<choice id="194569055" name="0 - 4" odd="18.00"/>
+						<choice id="194569059" name="1 - 4" odd="22.00"/>
+						<choice id="194569063" name="2 - 4" odd="40.00"/>
+						<choice id="194569067" name="3 - 4" odd="90.00"/>
+						<choice id="194569071" name="0 - 5" odd="36.00"/>
+						<choice id="194569075" name="1 - 5" odd="40.00"/>
+						<choice id="194569079" name="2 - 5" odd="80.00"/>
+						<choice id="194569083" name="3 - 5" odd="125.00"/>
+						<choice id="194569087" name="4 - 5" odd="250.00"/>
+						<choice id="194569091" name="0 - 6" odd="81.00"/>
+						<choice id="194569095" name="1 - 6" odd="90.00"/>
+						<choice id="194569099" name="2 - 6" odd="125.00"/>
+						<choice id="194569103" name="3 - 6" odd="250.00"/>
+						<choice id="194569107" name="0 - 7" odd="125.00"/>
+						<choice id="194569111" name="1 - 7" odd="150.00"/>
+						<choice id="194569115" name="0 - 8" odd="250.00"/>
+						<choice id="194569119" name="1 - 8" odd="250.00"/>
+						<choice id="194569123" name="0 - 9" odd="250.00"/>
+						<choice id="194569127" name="0 - 10" odd="250.00"/>
+					</bet>
+					<bet code="Ftb_Hcs" id="26752142" name="Half-Time Correct Score">
+						<choice id="194568831" name="1 - 0" odd="7.75"/>
+						<choice id="194568835" name="2 - 0" odd="31.00"/>
+						<choice id="194568839" name="2 - 1" odd="32.00"/>
+						<choice id="194568843" name="3 - 0" odd="101.00"/>
+						<choice id="194568847" name="3 - 1" odd="101.00"/>
+						<choice id="194568851" name="3 - 2" odd="150.00"/>
+						<choice id="194568855" name="4 - 0" odd="250.00"/>
+						<choice id="194568859" name="4 - 1" odd="250.00"/>
+						<choice id="194568863" name="0 - 0" odd="3.00"/>
+						<choice id="194568867" name="1 - 1" odd="8.25"/>
+						<choice id="194568871" name="2 - 2" odd="51.00"/>
+						<choice id="194568875" name="0 - 1" odd="3.50"/>
+						<choice id="194568879" name="0 - 2" odd="7.50"/>
+						<choice id="194568883" name="1 - 2" odd="17.00"/>
+						<choice id="194568887" name="0 - 3" odd="22.00"/>
+						<choice id="194568891" name="1 - 3" odd="40.00"/>
+						<choice id="194568895" name="2 - 3" odd="101.00"/>
+						<choice id="194568899" name="0 - 4" odd="56.00"/>
+						<choice id="194568903" name="1 - 4" odd="101.00"/>
+					</bet>
+					<bet code="Ftb_10" id="26752147" name="Over/Under">
+						<choice id="194568771" name="Over 0.5" odd="1.05"/>
+						<choice id="194568776" name="Under 0.5" odd="8.75"/>
+						<choice id="194568781" name="Over 1.5" odd="1.30"/>
+						<choice id="194568786" name="Under 1.5" odd="3.40"/>
+						<choice id="194568791" name="Over 2.5" odd="1.88"/>
+						<choice id="194568796" name="Under 2.5" odd="1.85"/>
+						<choice id="194568801" name="Over 3.5" odd="3.20"/>
+						<choice id="194568806" name="Under 3.5" odd="1.33"/>
+						<choice id="194568811" name="Over 4.5" odd="5.75"/>
+						<choice id="194568816" name="Under 4.5" odd="1.12"/>
+						<choice id="194568821" name="Over 5.5" odd="10.50"/>
+						<choice id="194568826" name="Under 5.5" odd="1.03"/>
+					</bet>
+					<bet code="Ftb_Dbc" id="26752169" name="Double Chance">
+						<choice id="194569665" name="%1% or Draw" odd="2.50"/>
+						<choice id="194569670" name="%1% or %2%" odd="1.25"/>
+						<choice id="194569675" name="Draw or %2%" odd="1.12"/>
+					</bet>
+					<bet code="Ftb_Mr3" id="26752198" name="Match Result">
+						<choice id="194569427" name="%1%" odd="6.25"/>
+						<choice id="194569432" name="Draw" odd="3.90"/>
+						<choice id="194569437" name="%2%" odd="1.48"/>
+					</bet>
+					<bet code="Ftb_Htf" id="26752217" name="Half-Time / Full-Time">
+						<choice id="194569460" name="%1% / %1%" odd="10.50"/>
+						<choice id="194569465" name="%1% / Draw" odd="14.00"/>
+						<choice id="194569470" name="%1% / %2%" odd="17.00"/>
+						<choice id="194569475" name="Draw / %1%" odd="11.50"/>
+						<choice id="194569480" name="Draw / Draw" odd="5.60"/>
+						<choice id="194569485" name="Draw / %2%" odd="4.20"/>
+						<choice id="194569490" name="%2% / %1%" odd="35.00"/>
+						<choice id="194569495" name="%2% / Draw" odd="14.00"/>
+						<choice id="194569500" name="%2% / %2%" odd="2.10"/>
+					</bet>
+					<bet code="Ftb_Fts" id="26752236" name="First Team To Score">
+						<choice id="194569505" name="%1%" odd="3.30"/>
+						<choice id="194569510" name="%2%" odd="1.42"/>
+						<choice id="194569515" name="No Goal" odd="9.50"/>
+					</bet>
+				</bets>
+			</match>
+			<match id="1169896" live_id="" name="Monaco - Guingamp" start_date="2016-08-12T19:30:00" streaming="0">
+				<bets>
+					<bet code="Ftb_23" id="26750464" name="Handicap">
+						<choice id="194556302" name="%1% -4" odd="23.00"/>
+						<choice id="194556307" name="Draw (%1% -4)" odd="14.50"/>
+						<choice id="194556312" name="%2% +4" odd="1.01"/>
+						<choice id="194556317" name="%1% -3" odd="11.50"/>
+						<choice id="194556322" name="Draw (%1% -3)" odd="8.00"/>
+						<choice id="194556327" name="%2% +3" odd="1.11"/>
+						<choice id="194556332" name="%1% -2" odd="5.60"/>
+						<choice id="194556337" name="Draw (%1% -2)" odd="4.50"/>
+						<choice id="194556342" name="%2% +2" odd="1.40"/>
+						<choice id="194556347" name="%1% -1" odd="2.75"/>
+						<choice id="194556352" name="Draw (%1% -1)" odd="3.25"/>
+						<choice id="194556357" name="%2% +1" odd="2.25"/>
+						<choice id="194556363" name="%1% +1" odd="1.13"/>
+						<choice id="194556367" name="Draw (%1% +1)" odd="6.75"/>
+						<choice id="194556372" name="%2% -1" odd="12.50"/>
+					</bet>
+					<bet code="Ftb_Tgl" id="26750478" name="Total Goals">
+						<choice id="194556552" name="0 - 1" odd="3.00"/>
+						<choice id="194556557" name="2 - 3" odd="1.92"/>
+						<choice id="194556562" name="4+" odd="3.90"/>
+					</bet>
+					<bet code="Ftb_Htr" id="26750493" name="Half-Time Result">
+						<choice id="194556497" name="%1%" odd="2.20"/>
+						<choice id="194556502" name="%2%" odd="5.50"/>
+						<choice id="194556507" name="Draw" odd="2.10"/>
+					</bet>
+					<bet code="Ftb_Csc" id="26750536" name="Correct Score">
+						<choice id="194556939" name="1 - 0" odd="5.60"/>
+						<choice id="194556943" name="2 - 0" odd="6.50"/>
+						<choice id="194556947" name="2 - 1" odd="8.00"/>
+						<choice id="194556951" name="3 - 0" odd="10.50"/>
+						<choice id="194556955" name="3 - 1" odd="12.50"/>
+						<choice id="194556959" name="3 - 2" odd="28.00"/>
+						<choice id="194556963" name="4 - 0" odd="22.00"/>
+						<choice id="194556967" name="4 - 1" odd="27.00"/>
+						<choice id="194556971" name="4 - 2" odd="51.00"/>
+						<choice id="194556975" name="4 - 3" odd="101.00"/>
+						<choice id="194556979" name="5 - 0" odd="45.00"/>
+						<choice id="194556983" name="5 - 1" odd="51.00"/>
+						<choice id="194556987" name="5 - 2" odd="95.00"/>
+						<choice id="194556991" name="5 - 3" odd="175.00"/>
+						<choice id="194556995" name="5 - 4" odd="250.00"/>
+						<choice id="194556999" name="6 - 0" odd="96.00"/>
+						<choice id="194557003" name="6 - 1" odd="101.00"/>
+						<choice id="194557007" name="6 - 2" odd="151.00"/>
+						<choice id="194557011" name="6 - 3" odd="250.00"/>
+						<choice id="194557015" name="7 - 0" odd="175.00"/>
+						<choice id="194557019" name="7 - 1" odd="200.00"/>
+						<choice id="194557023" name="8 - 0" odd="250.00"/>
+						<choice id="194557027" name="8 - 1" odd="250.00"/>
+						<choice id="194557031" name="9 - 0" odd="250.00"/>
+						<choice id="194557035" name="10 - 0" odd="250.00"/>
+						<choice id="194557039" name="0 - 0" odd="8.50"/>
+						<choice id="194557043" name="1 - 1" odd="7.00"/>
+						<choice id="194557047" name="2 - 2" odd="17.00"/>
+						<choice id="194557051" name="3 - 3" odd="60.00"/>
+						<choice id="194557055" name="4 - 4" odd="201.00"/>
+						<choice id="194557059" name="5 - 5" odd="250.00"/>
+						<choice id="194557063" name="0 - 1" odd="11.50"/>
+						<choice id="194557067" name="0 - 2" odd="26.00"/>
+						<choice id="194557071" name="1 - 2" odd="16.00"/>
+						<choice id="194557075" name="0 - 3" odd="56.00"/>
+						<choice id="194557079" name="1 - 3" odd="40.00"/>
+						<choice id="194557083" name="2 - 3" odd="46.00"/>
+						<choice id="194557087" name="0 - 4" odd="125.00"/>
+						<choice id="194557091" name="1 - 4" odd="101.00"/>
+						<choice id="194557095" name="2 - 4" odd="101.00"/>
+						<choice id="194557099" name="3 - 4" odd="125.00"/>
+						<choice id="194557103" name="0 - 5" odd="250.00"/>
+						<choice id="194557107" name="1 - 5" odd="250.00"/>
+						<choice id="194557111" name="2 - 5" odd="250.00"/>
+						<choice id="194557115" name="3 - 5" odd="250.00"/>
+						<choice id="194557119" name="4 - 5" odd="250.00"/>
+						<choice id="194557123" name="0 - 6" odd="250.00"/>
+						<choice id="194557127" name="1 - 6" odd="250.00"/>
+						<choice id="194557131" name="2 - 6" odd="250.00"/>
+						<choice id="194557135" name="3 - 6" odd="250.00"/>
+						<choice id="194557139" name="0 - 7" odd="250.00"/>
+						<choice id="194557143" name="1 - 7" odd="250.00"/>
+						<choice id="194557147" name="0 - 8" odd="250.00"/>
+						<choice id="194557151" name="1 - 8" odd="250.00"/>
+					</bet>
+					<bet code="Ftb_Tgl2" id="26750549" name="Number of Goals">
+						<choice id="194556773" name="0" odd="9.00"/>
+						<choice id="194556778" name="1" odd="4.15"/>
+						<choice id="194556783" name="2" odd="3.40"/>
+						<choice id="194556788" name="3" odd="4.15"/>
+						<choice id="194556793" name="4" odd="6.50"/>
+						<choice id="194556798" name="5+" odd="8.25"/>
+					</bet>
+					<bet code="Ftb_Hcs" id="26750558" name="Half-Time Correct Score">
+						<choice id="194556863" name="1 - 0" odd="3.60"/>
+						<choice id="194556867" name="2 - 0" odd="8.25"/>
+						<choice id="194556871" name="2 - 1" odd="20.00"/>
+						<choice id="194556875" name="3 - 0" odd="26.00"/>
+						<choice id="194556879" name="3 - 1" odd="55.00"/>
+						<choice id="194556883" name="3 - 2" odd="125.00"/>
+						<choice id="194556887" name="4 - 0" odd="75.00"/>
+						<choice id="194556891" name="4 - 1" odd="125.00"/>
+						<choice id="194556895" name="0 - 0" odd="2.75"/>
+						<choice id="194556899" name="1 - 1" odd="8.50"/>
+						<choice id="194556903" name="2 - 2" odd="56.00"/>
+						<choice id="194556907" name="0 - 1" odd="7.25"/>
+						<choice id="194556911" name="0 - 2" odd="30.00"/>
+						<choice id="194556915" name="1 - 2" odd="34.00"/>
+						<choice id="194556919" name="0 - 3" odd="101.00"/>
+						<choice id="194556923" name="1 - 3" odd="101.00"/>
+						<choice id="194556927" name="2 - 3" odd="175.00"/>
+						<choice id="194556931" name="0 - 4" odd="250.00"/>
+						<choice id="194556935" name="1 - 4" odd="250.00"/>
+					</bet>
+					<bet code="Ftb_10" id="26750563" name="Over/Under">
+						<choice id="194556803" name="Over 0.5" odd="1.07"/>
+						<choice id="194556808" name="Under 0.5" odd="8.00"/>
+						<choice id="194556813" name="Over 1.5" odd="1.35"/>
+						<choice id="194556818" name="Under 1.5" odd="3.00"/>
+						<choice id="194556823" name="Over 2.5" odd="2.10"/>
+						<choice id="194556828" name="Under 2.5" odd="1.68"/>
+						<choice id="194556833" name="Over 3.5" odd="3.75"/>
+						<choice id="194556838" name="Under 3.5" odd="1.25"/>
+						<choice id="194556843" name="Over 4.5" odd="7.00"/>
+						<choice id="194556848" name="Under 4.5" odd="1.08"/>
+						<choice id="194556853" name="Over 5.5" odd="12.00"/>
+						<choice id="194556858" name="Under 5.5" odd="1.01"/>
+					</bet>
+					<bet code="Ftb_Dbc" id="26750585" name="Double Chance">
+						<choice id="194557697" name="%1% or Draw" odd="1.15"/>
+						<choice id="194557702" name="%1% or %2%" odd="1.28"/>
+						<choice id="194557707" name="Draw or %2%" odd="2.30"/>
+					</bet>
+					<bet code="Ftb_Mr3" id="26750614" name="Match Result">
+						<choice id="194557459" name="%1%" odd="1.58"/>
+						<choice id="194557464" name="Draw" odd="3.60"/>
+						<choice id="194557469" name="%2%" odd="5.40"/>
+					</bet>
+					<bet code="Ftb_Htf" id="26750633" name="Half-Time / Full-Time">
+						<choice id="194557492" name="%1% / %1%" odd="2.35"/>
+						<choice id="194557497" name="%1% / Draw" odd="14.00"/>
+						<choice id="194557502" name="%1% / %2%" odd="35.00"/>
+						<choice id="194557507" name="Draw / %1%" odd="4.30"/>
+						<choice id="194557512" name="Draw / Draw" odd="5.10"/>
+						<choice id="194557517" name="Draw / %2%" odd="10.00"/>
+						<choice id="194557522" name="%2% / %1%" odd="18.00"/>
+						<choice id="194557527" name="%2% / Draw" odd="14.00"/>
+						<choice id="194557532" name="%2% / %2%" odd="9.00"/>
+					</bet>
+					<bet code="Ftb_Fts" id="26750652" name="First Team To Score">
+						<choice id="194557537" name="%1%" odd="1.48"/>
+						<choice id="194557542" name="%2%" odd="3.10"/>
+						<choice id="194557547" name="No Goal" odd="8.00"/>
+					</bet>
+				</bets>
+			</match>
+			<match id="1169899" live_id="" name="Bordeaux - Saint-Etienne" start_date="2016-08-13T16:00:00" streaming="0">
+				<bets>
+					<bet code="Ftb_23" id="26751058" name="Handicap">
+						<choice id="194560810" name="%1% -3" odd="25.00"/>
+						<choice id="194560815" name="Draw (%1% -3)" odd="14.00"/>
+						<choice id="194560820" name="%2% +3" odd="1.01"/>
+						<choice id="194560825" name="%1% -2" odd="11.50"/>
+						<choice id="194560830" name="Draw (%1% -2)" odd="7.00"/>
+						<choice id="194560835" name="%2% +2" odd="1.13"/>
+						<choice id="194560840" name="%1% -1" odd="5.10"/>
+						<choice id="194560845" name="Draw (%1% -1)" odd="3.75"/>
+						<choice id="194560850" name="%2% +1" odd="1.52"/>
+						<choice id="194560856" name="%1% +1" odd="1.35"/>
+						<choice id="194560860" name="Draw (%1% +1)" odd="4.30"/>
+						<choice id="194560865" name="%2% -1" odd="6.75"/>
+						<choice id="194560870" name="%1% +2" odd="1.08"/>
+						<choice id="194560875" name="Draw (%1% +2)" odd="8.50"/>
+						<choice id="194560880" name="%2% -2" odd="16.00"/>
+					</bet>
+					<bet code="Ftb_Tgl" id="26751072" name="Total Goals">
+						<choice id="194561045" name="0 - 1" odd="2.55"/>
+						<choice id="194561050" name="2 - 3" odd="1.95"/>
+						<choice id="194561055" name="4+" odd="4.75"/>
+					</bet>
+					<bet code="Ftb_Htr" id="26751082" name="Half-Time Result">
+						<choice id="194560990" name="%1%" odd="3.10"/>
+						<choice id="194560995" name="%2%" odd="3.50"/>
+						<choice id="194561000" name="Draw" odd="1.95"/>
+					</bet>
+					<bet code="Ftb_Csc" id="26751130" name="Correct Score">
+						<choice id="194561432" name="1 - 0" odd="6.50"/>
+						<choice id="194561436" name="2 - 0" odd="10.00"/>
+						<choice id="194561440" name="2 - 1" odd="9.50"/>
+						<choice id="194561444" name="3 - 0" odd="22.00"/>
+						<choice id="194561448" name="3 - 1" odd="21.00"/>
+						<choice id="194561452" name="3 - 2" odd="32.00"/>
+						<choice id="194561456" name="4 - 0" odd="51.00"/>
+						<choice id="194561460" name="4 - 1" odd="50.00"/>
+						<choice id="194561464" name="4 - 2" odd="67.00"/>
+						<choice id="194561468" name="4 - 3" odd="101.00"/>
+						<choice id="194561472" name="5 - 0" odd="101.00"/>
+						<choice id="194561476" name="5 - 1" odd="101.00"/>
+						<choice id="194561480" name="5 - 2" odd="125.00"/>
+						<choice id="194561484" name="5 - 3" odd="201.00"/>
+						<choice id="194561488" name="5 - 4" odd="250.00"/>
+						<choice id="194561492" name="6 - 0" odd="201.00"/>
+						<choice id="194561496" name="6 - 1" odd="201.00"/>
+						<choice id="194561500" name="6 - 2" odd="250.00"/>
+						<choice id="194561504" name="6 - 3" odd="250.00"/>
+						<choice id="194561508" name="7 - 0" odd="250.00"/>
+						<choice id="194561512" name="7 - 1" odd="250.00"/>
+						<choice id="194561516" name="8 - 0" odd="250.00"/>
+						<choice id="194561520" name="8 - 1" odd="250.00"/>
+						<choice id="194561524" name="9 - 0" odd="250.00"/>
+						<choice id="194561528" name="10 - 0" odd="250.00"/>
+						<choice id="194561532" name="0 - 0" odd="7.00"/>
+						<choice id="194561536" name="1 - 1" odd="6.00"/>
+						<choice id="194561540" name="2 - 2" odd="15.00"/>
+						<choice id="194561544" name="3 - 3" odd="56.00"/>
+						<choice id="194561548" name="4 - 4" odd="200.00"/>
+						<choice id="194561552" name="5 - 5" odd="250.00"/>
+						<choice id="194561556" name="0 - 1" odd="7.25"/>
+						<choice id="194561560" name="0 - 2" odd="12.00"/>
+						<choice id="194561564" name="1 - 2" odd="10.50"/>
+						<choice id="194561568" name="0 - 3" odd="29.00"/>
+						<choice id="194561572" name="1 - 3" odd="25.00"/>
+						<choice id="194561576" name="2 - 3" odd="34.00"/>
+						<choice id="194561580" name="0 - 4" odd="65.00"/>
+						<choice id="194561584" name="1 - 4" odd="55.00"/>
+						<choice id="194561588" name="2 - 4" odd="81.00"/>
+						<choice id="194561592" name="3 - 4" odd="101.00"/>
+						<choice id="194561596" name="0 - 5" odd="125.00"/>
+						<choice id="194561600" name="1 - 5" odd="125.00"/>
+						<choice id="194561604" name="2 - 5" odd="151.00"/>
+						<choice id="194561608" name="3 - 5" odd="250.00"/>
+						<choice id="194561612" name="4 - 5" odd="250.00"/>
+						<choice id="194561616" name="0 - 6" odd="250.00"/>
+						<choice id="194561620" name="1 - 6" odd="250.00"/>
+						<choice id="194561624" name="2 - 6" odd="250.00"/>
+						<choice id="194561628" name="3 - 6" odd="250.00"/>
+						<choice id="194561632" name="0 - 7" odd="250.00"/>
+						<choice id="194561636" name="1 - 7" odd="250.00"/>
+						<choice id="194561640" name="0 - 8" odd="250.00"/>
+						<choice id="194561644" name="1 - 8" odd="250.00"/>
+						<choice id="194561648" name="0 - 9" odd="250.00"/>
+					</bet>
+					<bet code="Ftb_Tgl2" id="26751139" name="Number of Goals">
+						<choice id="194561266" name="0" odd="7.25"/>
+						<choice id="194561271" name="1" odd="3.70"/>
+						<choice id="194561276" name="2" odd="3.30"/>
+						<choice id="194561281" name="3" odd="4.40"/>
+						<choice id="194561286" name="4" odd="7.50"/>
+						<choice id="194561291" name="5+" odd="10.50"/>
+					</bet>
+					<bet code="Ftb_Hcs" id="26751152" name="Half-Time Correct Score">
+						<choice id="194561356" name="1 - 0" odd="4.50"/>
+						<choice id="194561360" name="2 - 0" odd="13.00"/>
+						<choice id="194561364" name="2 - 1" odd="25.00"/>
+						<choice id="194561368" name="3 - 0" odd="50.00"/>
+						<choice id="194561372" name="3 - 1" odd="75.00"/>
+						<choice id="194561376" name="3 - 2" odd="125.00"/>
+						<choice id="194561380" name="4 - 0" odd="125.00"/>
+						<choice id="194561384" name="4 - 1" odd="175.00"/>
+						<choice id="194561388" name="0 - 0" odd="2.50"/>
+						<choice id="194561392" name="1 - 1" odd="8.25"/>
+						<choice id="194561396" name="2 - 2" odd="55.00"/>
+						<choice id="194561400" name="0 - 1" odd="5.10"/>
+						<choice id="194561404" name="0 - 2" odd="17.00"/>
+						<choice id="194561408" name="1 - 2" odd="27.00"/>
+						<choice id="194561412" name="0 - 3" odd="55.00"/>
+						<choice id="194561416" name="1 - 3" odd="90.00"/>
+						<choice id="194561420" name="2 - 3" odd="126.00"/>
+						<choice id="194561424" name="0 - 4" odd="175.00"/>
+						<choice id="194561428" name="1 - 4" odd="201.00"/>
+					</bet>
+					<bet code="Ftb_10" id="26751157" name="Over/Under">
+						<choice id="194561296" name="Over 0.5" odd="1.10"/>
+						<choice id="194561301" name="Under 0.5" odd="6.50"/>
+						<choice id="194561306" name="Over 1.5" odd="1.45"/>
+						<choice id="194561311" name="Under 1.5" odd="2.60"/>
+						<choice id="194561316" name="Over 2.5" odd="2.40"/>
+						<choice id="194561321" name="Under 2.5" odd="1.52"/>
+						<choice id="194561326" name="Over 3.5" odd="4.40"/>
+						<choice id="194561331" name="Under 3.5" odd="1.18"/>
+						<choice id="194561336" name="Over 4.5" odd="8.50"/>
+						<choice id="194561341" name="Under 4.5" odd="1.05"/>
+					</bet>
+					<bet code="Ftb_Dbc" id="26751179" name="Double Chance">
+						<choice id="194562190" name="%1% or Draw" odd="1.38"/>
+						<choice id="194562195" name="%1% or %2%" odd="1.35"/>
+						<choice id="194562200" name="Draw or %2%" odd="1.55"/>
+					</bet>
+					<bet code="Ftb_Mr3" id="26751208" name="Match Result">
+						<choice id="194561952" name="%1%" odd="2.40"/>
+						<choice id="194561957" name="Draw" odd="3.00"/>
+						<choice id="194561962" name="%2%" odd="2.90"/>
+					</bet>
+					<bet code="Ftb_Htf" id="26751222" name="Half-Time / Full-Time">
+						<choice id="194561985" name="%1% / %1%" odd="4.00"/>
+						<choice id="194561990" name="%1% / Draw" odd="12.50"/>
+						<choice id="194561995" name="%1% / %2%" odd="22.00"/>
+						<choice id="194562000" name="Draw / %1%" odd="5.60"/>
+						<choice id="194562005" name="Draw / Draw" odd="4.30"/>
+						<choice id="194562010" name="Draw / %2%" odd="6.50"/>
+						<choice id="194562015" name="%2% / %1%" odd="21.00"/>
+						<choice id="194562020" name="%2% / Draw" odd="12.50"/>
+						<choice id="194562025" name="%2% / %2%" odd="5.00"/>
+					</bet>
+					<bet code="Ftb_Fts" id="26751246" name="First Team To Score">
+						<choice id="194562030" name="%1%" odd="1.95"/>
+						<choice id="194562035" name="%2%" odd="2.20"/>
+						<choice id="194562040" name="No Goal" odd="6.75"/>
+					</bet>
+				</bets>
+			</match>
+			<match id="1169900" live_id="" name="Metz - Lille" start_date="2016-08-13T19:00:00" streaming="0">
+				<bets>
+					<bet code="Ftb_23" id="26751256" name="Handicap">
+						<choice id="194562320" name="%1% -2" odd="18.00"/>
+						<choice id="194562325" name="Draw (%1% -2)" odd="9.50"/>
+						<choice id="194562330" name="%2% +2" odd="1.06"/>
+						<choice id="194562335" name="%1% -1" odd="7.50"/>
+						<choice id="194562340" name="Draw (%1% -1)" odd="4.50"/>
+						<choice id="194562345" name="%2% +1" odd="1.33"/>
+						<choice id="194562351" name="%1% +1" odd="1.58"/>
+						<choice id="194562355" name="Draw (%1% +1)" odd="3.60"/>
+						<choice id="194562360" name="%2% -1" odd="4.75"/>
+						<choice id="194562365" name="%1% +2" odd="1.15"/>
+						<choice id="194562370" name="Draw (%1% +2)" odd="6.50"/>
+						<choice id="194562375" name="%2% -2" odd="11.00"/>
+						<choice id="194562380" name="%1% +3" odd="1.02"/>
+						<choice id="194562385" name="Draw (%1% +3)" odd="12.50"/>
+						<choice id="194562390" name="%2% -3" odd="23.00"/>
+					</bet>
+					<bet code="Ftb_Tgl" id="26751270" name="Total Goals">
+						<choice id="194562540" name="0 - 1" odd="2.45"/>
+						<choice id="194562545" name="2 - 3" odd="1.95"/>
+						<choice id="194562550" name="4+" odd="5.00"/>
+					</bet>
+					<bet code="Ftb_Htr" id="26751285" name="Half-Time Result">
+						<choice id="194562485" name="%1%" odd="3.75"/>
+						<choice id="194562490" name="%2%" odd="2.90"/>
+						<choice id="194562495" name="Draw" odd="1.95"/>
+					</bet>
+					<bet code="Ftb_Csc" id="26751332" name="Correct Score">
+						<choice id="194562927" name="1 - 0" odd="7.25"/>
+						<choice id="194562931" name="2 - 0" odd="13.00"/>
+						<choice id="194562935" name="2 - 1" odd="11.00"/>
+						<choice id="194562939" name="3 - 0" odd="32.00"/>
+						<choice id="194562943" name="3 - 1" odd="29.00"/>
+						<choice id="194562947" name="3 - 2" odd="36.00"/>
+						<choice id="194562951" name="4 - 0" odd="81.00"/>
+						<choice id="194562955" name="4 - 1" odd="67.00"/>
+						<choice id="194562959" name="4 - 2" odd="91.00"/>
+						<choice id="194562963" name="4 - 3" odd="125.00"/>
+						<choice id="194562967" name="5 - 0" odd="175.00"/>
+						<choice id="194562971" name="5 - 1" odd="126.00"/>
+						<choice id="194562975" name="5 - 2" odd="200.00"/>
+						<choice id="194562979" name="5 - 3" odd="250.00"/>
+						<choice id="194562983" name="5 - 4" odd="250.00"/>
+						<choice id="194562987" name="6 - 0" odd="250.00"/>
+						<choice id="194562991" name="6 - 1" odd="250.00"/>
+						<choice id="194562995" name="6 - 2" odd="250.00"/>
+						<choice id="194562999" name="6 - 3" odd="250.00"/>
+						<choice id="194563003" name="7 - 0" odd="250.00"/>
+						<choice id="194563007" name="7 - 1" odd="250.00"/>
+						<choice id="194563011" name="8 - 0" odd="250.00"/>
+						<choice id="194563015" name="8 - 1" odd="250.00"/>
+						<choice id="194563019" name="9 - 0" odd="250.00"/>
+						<choice id="194563027" name="0 - 0" odd="6.75"/>
+						<choice id="194563031" name="1 - 1" odd="6.00"/>
+						<choice id="194563035" name="2 - 2" odd="16.00"/>
+						<choice id="194563039" name="3 - 3" odd="61.00"/>
+						<choice id="194563043" name="4 - 4" odd="201.00"/>
+						<choice id="194563047" name="5 - 5" odd="250.00"/>
+						<choice id="194563051" name="0 - 1" odd="6.00"/>
+						<choice id="194563055" name="0 - 2" odd="9.00"/>
+						<choice id="194563059" name="1 - 2" odd="9.00"/>
+						<choice id="194563063" name="0 - 3" odd="20.00"/>
+						<choice id="194563067" name="1 - 3" odd="20.00"/>
+						<choice id="194563071" name="2 - 3" odd="33.00"/>
+						<choice id="194563075" name="0 - 4" odd="41.00"/>
+						<choice id="194563079" name="1 - 4" odd="45.00"/>
+						<choice id="194563083" name="2 - 4" odd="70.00"/>
+						<choice id="194563087" name="3 - 4" odd="125.00"/>
+						<choice id="194563091" name="0 - 5" odd="100.00"/>
+						<choice id="194563095" name="1 - 5" odd="101.00"/>
+						<choice id="194563099" name="2 - 5" odd="125.00"/>
+						<choice id="194563103" name="3 - 5" odd="201.00"/>
+						<choice id="194563107" name="4 - 5" odd="250.00"/>
+						<choice id="194563111" name="0 - 6" odd="200.00"/>
+						<choice id="194563115" name="1 - 6" odd="201.00"/>
+						<choice id="194563119" name="2 - 6" odd="250.00"/>
+						<choice id="194563123" name="3 - 6" odd="250.00"/>
+						<choice id="194563127" name="0 - 7" odd="250.00"/>
+						<choice id="194563131" name="1 - 7" odd="250.00"/>
+						<choice id="194563135" name="0 - 8" odd="250.00"/>
+						<choice id="194563139" name="1 - 8" odd="250.00"/>
+						<choice id="194563143" name="0 - 9" odd="250.00"/>
+						<choice id="194563147" name="0 - 10" odd="250.00"/>
+					</bet>
+					<bet code="Ftb_Tgl2" id="26751341" name="Number of Goals">
+						<choice id="194562761" name="0" odd="7.00"/>
+						<choice id="194562766" name="1" odd="3.60"/>
+						<choice id="194562771" name="2" odd="3.30"/>
+						<choice id="194562776" name="3" odd="4.50"/>
+						<choice id="194562781" name="4" odd="7.75"/>
+						<choice id="194562786" name="5+" odd="11.50"/>
+					</bet>
+					<bet code="Ftb_Hcs" id="26751350" name="Half-Time Correct Score">
+						<choice id="194562851" name="1 - 0" odd="5.25"/>
+						<choice id="194562855" name="2 - 0" odd="18.00"/>
+						<choice id="194562859" name="2 - 1" odd="29.00"/>
+						<choice id="194562863" name="3 - 0" odd="61.00"/>
+						<choice id="194562867" name="3 - 1" odd="95.00"/>
+						<choice id="194562871" name="3 - 2" odd="150.00"/>
+						<choice id="194562875" name="4 - 0" odd="200.00"/>
+						<choice id="194562879" name="4 - 1" odd="250.00"/>
+						<choice id="194562883" name="0 - 0" odd="2.50"/>
+						<choice id="194562887" name="1 - 1" odd="8.25"/>
+						<choice id="194562891" name="2 - 2" odd="60.00"/>
+						<choice id="194562895" name="0 - 1" odd="4.30"/>
+						<choice id="194562899" name="0 - 2" odd="12.00"/>
+						<choice id="194562903" name="1 - 2" odd="24.00"/>
+						<choice id="194562907" name="0 - 3" odd="40.00"/>
+						<choice id="194562911" name="1 - 3" odd="70.00"/>
+						<choice id="194562915" name="2 - 3" odd="125.00"/>
+						<choice id="194562919" name="0 - 4" odd="125.00"/>
+						<choice id="194562923" name="1 - 4" odd="175.00"/>
+					</bet>
+					<bet code="Ftb_10" id="26751355" name="Over/Under">
+						<choice id="194562791" name="Over 0.5" odd="1.10"/>
+						<choice id="194562796" name="Under 0.5" odd="6.25"/>
+						<choice id="194562801" name="Over 1.5" odd="1.50"/>
+						<choice id="194562806" name="Under 1.5" odd="2.50"/>
+						<choice id="194562811" name="Over 2.5" odd="2.50"/>
+						<choice id="194562816" name="Under 2.5" odd="1.48"/>
+						<choice id="194562821" name="Over 3.5" odd="4.75"/>
+						<choice id="194562826" name="Under 3.5" odd="1.16"/>
+						<choice id="194562831" name="Over 4.5" odd="9.00"/>
+						<choice id="194562836" name="Under 4.5" odd="1.04"/>
+					</bet>
+					<bet code="Ftb_Dbc" id="26751377" name="Double Chance">
+						<choice id="194563685" name="%1% or Draw" odd="1.60"/>
+						<choice id="194563690" name="%1% or %2%" odd="1.35"/>
+						<choice id="194563695" name="Draw or %2%" odd="1.35"/>
+					</bet>
+					<bet code="Ftb_Mr3" id="26751406" name="Match Result">
+						<choice id="194563447" name="%1%" odd="3.10"/>
+						<choice id="194563452" name="Draw" odd="3.00"/>
+						<choice id="194563457" name="%2%" odd="2.25"/>
+					</bet>
+					<bet code="Ftb_Htf" id="26751420" name="Half-Time / Full-Time">
+						<choice id="194563480" name="%1% / %1%" odd="5.25"/>
+						<choice id="194563485" name="%1% / Draw" odd="13.00"/>
+						<choice id="194563490" name="%1% / %2%" odd="21.00"/>
+						<choice id="194563495" name="Draw / %1%" odd="7.00"/>
+						<choice id="194563500" name="Draw / Draw" odd="4.30"/>
+						<choice id="194563505" name="Draw / %2%" odd="5.40"/>
+						<choice id="194563510" name="%2% / %1%" odd="23.00"/>
+						<choice id="194563515" name="%2% / Draw" odd="13.00"/>
+						<choice id="194563520" name="%2% / %2%" odd="3.70"/>
+					</bet>
+					<bet code="Ftb_Fts" id="26751444" name="First Team To Score">
+						<choice id="194563525" name="%1%" odd="2.35"/>
+						<choice id="194563530" name="%2%" odd="1.88"/>
+						<choice id="194563535" name="No Goal" odd="6.50"/>
+					</bet>
+				</bets>
+			</match>
+			<match id="1169901" live_id="" name="Montpellier - Angers" start_date="2016-08-13T19:00:00" streaming="0">
+				<bets>
+					<bet code="Ftb_23" id="26751454" name="Handicap">
+						<choice id="194563800" name="%1% -3" odd="20.00"/>
+						<choice id="194563805" name="Draw (%1% -3)" odd="11.50"/>
+						<choice id="194563810" name="%2% +3" odd="1.04"/>
+						<choice id="194563815" name="%1% -2" odd="9.00"/>
+						<choice id="194563820" name="Draw (%1% -2)" odd="5.75"/>
+						<choice id="194563825" name="%2% +2" odd="1.20"/>
+						<choice id="194563830" name="%1% -1" odd="3.90"/>
+						<choice id="194563835" name="Draw (%1% -1)" odd="3.40"/>
+						<choice id="194563840" name="%2% +1" odd="1.75"/>
+						<choice id="194563846" name="%1% +1" odd="1.22"/>
+						<choice id="194563850" name="Draw (%1% +1)" odd="5.10"/>
+						<choice id="194563855" name="%2% -1" odd="9.50"/>
+						<choice id="194563860" name="%1% +2" odd="1.03"/>
+						<choice id="194563865" name="Draw (%1% +2)" odd="11.00"/>
+						<choice id="194563870" name="%2% -2" odd="22.00"/>
+					</bet>
+					<bet code="Ftb_Tgl" id="26751468" name="Total Goals">
+						<choice id="194564035" name="0 - 1" odd="2.40"/>
+						<choice id="194564040" name="2 - 3" odd="2.00"/>
+						<choice id="194564045" name="4+" odd="5.25"/>
+					</bet>
+					<bet code="Ftb_Htr" id="26751483" name="Half-Time Result">
+						<choice id="194563980" name="%1%" odd="2.70"/>
+						<choice id="194563985" name="%2%" odd="4.40"/>
+						<choice id="194563990" name="Draw" odd="1.95"/>
+					</bet>
+					<bet code="Ftb_Tgl2" id="26751527" name="Number of Goals">
+						<choice id="194564256" name="0" odd="6.75"/>
+						<choice id="194564261" name="1" odd="3.50"/>
+						<choice id="194564266" name="2" odd="3.30"/>
+						<choice id="194564271" name="3" odd="4.60"/>
+						<choice id="194564276" name="4" odd="8.00"/>
+						<choice id="194564281" name="5+" odd="12.00"/>
+					</bet>
+					<bet code="Ftb_Csc" id="26751531" name="Correct Score">
+						<choice id="194564422" name="1 - 0" odd="5.40"/>
+						<choice id="194564426" name="2 - 0" odd="8.00"/>
+						<choice id="194564430" name="2 - 1" odd="9.00"/>
+						<choice id="194564434" name="3 - 0" odd="16.00"/>
+						<choice id="194564438" name="3 - 1" odd="18.00"/>
+						<choice id="194564442" name="3 - 2" odd="33.00"/>
+						<choice id="194564446" name="4 - 0" odd="36.00"/>
+						<choice id="194564450" name="4 - 1" odd="40.00"/>
+						<choice id="194564454" name="4 - 2" odd="67.00"/>
+						<choice id="194564458" name="4 - 3" odd="125.00"/>
+						<choice id="194564462" name="5 - 0" odd="90.00"/>
+						<choice id="194564466" name="5 - 1" odd="95.00"/>
+						<choice id="194564470" name="5 - 2" odd="125.00"/>
+						<choice id="194564474" name="5 - 3" odd="250.00"/>
+						<choice id="194564478" name="5 - 4" odd="250.00"/>
+						<choice id="194564482" name="6 - 0" odd="175.00"/>
+						<choice id="194564486" name="6 - 1" odd="175.00"/>
+						<choice id="194564490" name="6 - 2" odd="250.00"/>
+						<choice id="194564494" name="6 - 3" odd="250.00"/>
+						<choice id="194564498" name="7 - 0" odd="250.00"/>
+						<choice id="194564502" name="7 - 1" odd="250.00"/>
+						<choice id="194564506" name="8 - 0" odd="250.00"/>
+						<choice id="194564510" name="8 - 1" odd="250.00"/>
+						<choice id="194564514" name="9 - 0" odd="250.00"/>
+						<choice id="194564518" name="10 - 0" odd="250.00"/>
+						<choice id="194564522" name="0 - 0" odd="6.50"/>
+						<choice id="194564526" name="1 - 1" odd="6.25"/>
+						<choice id="194564530" name="2 - 2" odd="18.00"/>
+						<choice id="194564534" name="3 - 3" odd="75.00"/>
+						<choice id="194564538" name="4 - 4" odd="250.00"/>
+						<choice id="194564542" name="5 - 5" odd="250.00"/>
+						<choice id="194564546" name="0 - 1" odd="8.00"/>
+						<choice id="194564550" name="0 - 2" odd="16.00"/>
+						<choice id="194564554" name="1 - 2" odd="12.50"/>
+						<choice id="194564558" name="0 - 3" odd="40.00"/>
+						<choice id="194564562" name="1 - 3" odd="34.00"/>
+						<choice id="194564566" name="2 - 3" odd="41.00"/>
+						<choice id="194564570" name="0 - 4" odd="101.00"/>
+						<choice id="194564574" name="1 - 4" odd="91.00"/>
+						<choice id="194564578" name="2 - 4" odd="101.00"/>
+						<choice id="194564582" name="3 - 4" odd="126.00"/>
+						<choice id="194564586" name="0 - 5" odd="201.00"/>
+						<choice id="194564590" name="1 - 5" odd="200.00"/>
+						<choice id="194564594" name="2 - 5" odd="250.00"/>
+						<choice id="194564598" name="3 - 5" odd="250.00"/>
+						<choice id="194564602" name="4 - 5" odd="250.00"/>
+						<choice id="194564606" name="0 - 6" odd="250.00"/>
+						<choice id="194564610" name="1 - 6" odd="250.00"/>
+						<choice id="194564614" name="2 - 6" odd="250.00"/>
+						<choice id="194564618" name="3 - 6" odd="250.00"/>
+						<choice id="194564622" name="0 - 7" odd="250.00"/>
+						<choice id="194564626" name="1 - 7" odd="250.00"/>
+						<choice id="194564630" name="0 - 8" odd="250.00"/>
+						<choice id="194564634" name="1 - 8" odd="250.00"/>
+					</bet>
+					<bet code="Ftb_Hcs" id="26751548" name="Half-Time Correct Score">
+						<choice id="194564346" name="1 - 0" odd="4.00"/>
+						<choice id="194564350" name="2 - 0" odd="11.00"/>
+						<choice id="194564354" name="2 - 1" odd="24.00"/>
+						<choice id="194564358" name="3 - 0" odd="36.00"/>
+						<choice id="194564362" name="3 - 1" odd="65.00"/>
+						<choice id="194564366" name="3 - 2" odd="126.00"/>
+						<choice id="194564370" name="4 - 0" odd="101.00"/>
+						<choice id="194564374" name="4 - 1" odd="175.00"/>
+						<choice id="194564378" name="0 - 0" odd="2.45"/>
+						<choice id="194564382" name="1 - 1" odd="8.75"/>
+						<choice id="194564386" name="2 - 2" odd="61.00"/>
+						<choice id="194564390" name="0 - 1" odd="6.00"/>
+						<choice id="194564394" name="0 - 2" odd="23.00"/>
+						<choice id="194564398" name="1 - 2" odd="32.00"/>
+						<choice id="194564402" name="0 - 3" odd="90.00"/>
+						<choice id="194564406" name="1 - 3" odd="101.00"/>
+						<choice id="194564410" name="2 - 3" odd="175.00"/>
+						<choice id="194564414" name="0 - 4" odd="250.00"/>
+						<choice id="194564418" name="1 - 4" odd="250.00"/>
+					</bet>
+					<bet code="Ftb_10" id="26751553" name="Over/Under">
+						<choice id="194564286" name="Over 0.5" odd="1.11"/>
+						<choice id="194564291" name="Under 0.5" odd="5.75"/>
+						<choice id="194564296" name="Over 1.5" odd="1.52"/>
+						<choice id="194564301" name="Under 1.5" odd="2.45"/>
+						<choice id="194564306" name="Over 2.5" odd="2.60"/>
+						<choice id="194564311" name="Under 2.5" odd="1.45"/>
+						<choice id="194564316" name="Over 3.5" odd="5.00"/>
+						<choice id="194564321" name="Under 3.5" odd="1.16"/>
+						<choice id="194564326" name="Over 4.5" odd="9.50"/>
+						<choice id="194564331" name="Under 4.5" odd="1.04"/>
+					</bet>
+					<bet code="Ftb_Dbc" id="26751575" name="Double Chance">
+						<choice id="194565180" name="%1% or Draw" odd="1.25"/>
+						<choice id="194565185" name="%1% or %2%" odd="1.35"/>
+						<choice id="194565190" name="Draw or %2%" odd="1.75"/>
+					</bet>
+					<bet code="Ftb_Mr3" id="26751604" name="Match Result">
+						<choice id="194564942" name="%1%" odd="2.00"/>
+						<choice id="194564947" name="Draw" odd="3.10"/>
+						<choice id="194564952" name="%2%" odd="3.80"/>
+					</bet>
+					<bet code="Ftb_Htf" id="26751618" name="Half-Time / Full-Time">
+						<choice id="194564975" name="%1% / %1%" odd="3.25"/>
+						<choice id="194564980" name="%1% / Draw" odd="13.50"/>
+						<choice id="194564985" name="%1% / %2%" odd="25.00"/>
+						<choice id="194564990" name="Draw / %1%" odd="4.90"/>
+						<choice id="194564995" name="Draw / Draw" odd="4.25"/>
+						<choice id="194565000" name="Draw / %2%" odd="7.75"/>
+						<choice id="194565005" name="%2% / %1%" odd="21.00"/>
+						<choice id="194565010" name="%2% / Draw" odd="13.00"/>
+						<choice id="194565015" name="%2% / %2%" odd="6.50"/>
+					</bet>
+					<bet code="Ftb_Fts" id="26751642" name="First Team To Score">
+						<choice id="194565020" name="%1%" odd="1.72"/>
+						<choice id="194565025" name="%2%" odd="2.65"/>
+						<choice id="194565030" name="No Goal" odd="6.25"/>
+					</bet>
+				</bets>
+			</match>
+			<match id="1169898" live_id="" name="Dijon - Nantes" start_date="2016-08-13T19:00:00" streaming="0">
+				<bets>
+					<bet code="Ftb_23" id="26750860" name="Handicap">
+						<choice id="194559307" name="%1% -3" odd="26.00"/>
+						<choice id="194559312" name="Draw (%1% -3)" odd="14.50"/>
+						<choice id="194559317" name="%2% +3" odd="1.01"/>
+						<choice id="194559322" name="%1% -2" odd="11.50"/>
+						<choice id="194559327" name="Draw (%1% -2)" odd="7.00"/>
+						<choice id="194559332" name="%2% +2" odd="1.13"/>
+						<choice id="194559337" name="%1% -1" odd="5.25"/>
+						<choice id="194559342" name="Draw (%1% -1)" odd="3.70"/>
+						<choice id="194559347" name="%2% +1" odd="1.52"/>
+						<choice id="194559353" name="%1% +1" odd="1.33"/>
+						<choice id="194559357" name="Draw (%1% +1)" odd="4.40"/>
+						<choice id="194559362" name="%2% -1" odd="7.25"/>
+						<choice id="194559367" name="%1% +2" odd="1.07"/>
+						<choice id="194559372" name="Draw (%1% +2)" odd="9.00"/>
+						<choice id="194559377" name="%2% -2" odd="17.00"/>
+					</bet>
+					<bet code="Ftb_Tgl" id="26750874" name="Total Goals">
+						<choice id="194559542" name="0 - 1" odd="2.40"/>
+						<choice id="194559547" name="2 - 3" odd="2.00"/>
+						<choice id="194559552" name="4+" odd="5.25"/>
+					</bet>
+					<bet code="Ftb_Htr" id="26750889" name="Half-Time Result">
+						<choice id="194559487" name="%1%" odd="3.00"/>
+						<choice id="194559492" name="%2%" odd="3.70"/>
+						<choice id="194559497" name="Draw" odd="1.92"/>
+					</bet>
+					<bet code="Ftb_Csc" id="26750936" name="Correct Score">
+						<choice id="194559929" name="1 - 0" odd="6.00"/>
+						<choice id="194559933" name="2 - 0" odd="9.50"/>
+						<choice id="194559937" name="2 - 1" odd="9.50"/>
+						<choice id="194559941" name="3 - 0" odd="22.00"/>
+						<choice id="194559945" name="3 - 1" odd="22.00"/>
+						<choice id="194559949" name="3 - 2" odd="34.00"/>
+						<choice id="194559953" name="4 - 0" odd="55.00"/>
+						<choice id="194559957" name="4 - 1" odd="55.00"/>
+						<choice id="194559961" name="4 - 2" odd="80.00"/>
+						<choice id="194559965" name="4 - 3" odd="125.00"/>
+						<choice id="194559969" name="5 - 0" odd="101.00"/>
+						<choice id="194559973" name="5 - 1" odd="101.00"/>
+						<choice id="194559977" name="5 - 2" odd="126.00"/>
+						<choice id="194559981" name="5 - 3" odd="250.00"/>
+						<choice id="194559985" name="5 - 4" odd="250.00"/>
+						<choice id="194559989" name="6 - 0" odd="250.00"/>
+						<choice id="194559993" name="6 - 1" odd="250.00"/>
+						<choice id="194559997" name="6 - 2" odd="250.00"/>
+						<choice id="194560001" name="6 - 3" odd="250.00"/>
+						<choice id="194560005" name="7 - 0" odd="250.00"/>
+						<choice id="194560009" name="7 - 1" odd="250.00"/>
+						<choice id="194560013" name="8 - 0" odd="250.00"/>
+						<choice id="194560017" name="8 - 1" odd="250.00"/>
+						<choice id="194560021" name="9 - 0" odd="250.00"/>
+						<choice id="194560029" name="0 - 0" odd="6.50"/>
+						<choice id="194560033" name="1 - 1" odd="6.00"/>
+						<choice id="194560037" name="2 - 2" odd="16.00"/>
+						<choice id="194560041" name="3 - 3" odd="60.00"/>
+						<choice id="194560045" name="4 - 4" odd="201.00"/>
+						<choice id="194560049" name="5 - 5" odd="250.00"/>
+						<choice id="194560053" name="0 - 1" odd="7.25"/>
+						<choice id="194560057" name="0 - 2" odd="12.50"/>
+						<choice id="194560061" name="1 - 2" odd="11.00"/>
+						<choice id="194560065" name="0 - 3" odd="31.00"/>
+						<choice id="194560069" name="1 - 3" odd="28.00"/>
+						<choice id="194560073" name="2 - 3" odd="36.00"/>
+						<choice id="194560077" name="0 - 4" odd="81.00"/>
+						<choice id="194560081" name="1 - 4" odd="61.00"/>
+						<choice id="194560085" name="2 - 4" odd="90.00"/>
+						<choice id="194560089" name="3 - 4" odd="125.00"/>
+						<choice id="194560093" name="0 - 5" odd="151.00"/>
+						<choice id="194560097" name="1 - 5" odd="126.00"/>
+						<choice id="194560101" name="2 - 5" odd="175.00"/>
+						<choice id="194560105" name="3 - 5" odd="250.00"/>
+						<choice id="194560109" name="4 - 5" odd="250.00"/>
+						<choice id="194560113" name="0 - 6" odd="250.00"/>
+						<choice id="194560117" name="1 - 6" odd="250.00"/>
+						<choice id="194560121" name="2 - 6" odd="250.00"/>
+						<choice id="194560125" name="3 - 6" odd="250.00"/>
+						<choice id="194560129" name="0 - 7" odd="250.00"/>
+						<choice id="194560133" name="1 - 7" odd="250.00"/>
+						<choice id="194560137" name="0 - 8" odd="250.00"/>
+						<choice id="194560141" name="1 - 8" odd="250.00"/>
+						<choice id="194560145" name="0 - 9" odd="250.00"/>
+					</bet>
+					<bet code="Ftb_Tgl2" id="26750945" name="Number of Goals">
+						<choice id="194559763" name="0" odd="6.75"/>
+						<choice id="194559768" name="1" odd="3.50"/>
+						<choice id="194559773" name="2" odd="3.30"/>
+						<choice id="194559778" name="3" odd="4.60"/>
+						<choice id="194559783" name="4" odd="8.00"/>
+						<choice id="194559788" name="5+" odd="12.00"/>
+					</bet>
+					<bet code="Ftb_Hcs" id="26750954" name="Half-Time Correct Score">
+						<choice id="194559853" name="1 - 0" odd="4.50"/>
+						<choice id="194559857" name="2 - 0" odd="13.00"/>
+						<choice id="194559861" name="2 - 1" odd="25.00"/>
+						<choice id="194559865" name="3 - 0" odd="50.00"/>
+						<choice id="194559869" name="3 - 1" odd="76.00"/>
+						<choice id="194559873" name="3 - 2" odd="125.00"/>
+						<choice id="194559877" name="4 - 0" odd="125.00"/>
+						<choice id="194559881" name="4 - 1" odd="200.00"/>
+						<choice id="194559885" name="0 - 0" odd="2.50"/>
+						<choice id="194559889" name="1 - 1" odd="8.00"/>
+						<choice id="194559893" name="2 - 2" odd="55.00"/>
+						<choice id="194559897" name="0 - 1" odd="5.25"/>
+						<choice id="194559901" name="0 - 2" odd="18.00"/>
+						<choice id="194559905" name="1 - 2" odd="27.00"/>
+						<choice id="194559909" name="0 - 3" odd="60.00"/>
+						<choice id="194559913" name="1 - 3" odd="90.00"/>
+						<choice id="194559917" name="2 - 3" odd="126.00"/>
+						<choice id="194559921" name="0 - 4" odd="175.00"/>
+						<choice id="194559925" name="1 - 4" odd="201.00"/>
+					</bet>
+					<bet code="Ftb_10" id="26750959" name="Over/Under">
+						<choice id="194559793" name="Over 0.5" odd="1.11"/>
+						<choice id="194559798" name="Under 0.5" odd="5.75"/>
+						<choice id="194559803" name="Over 1.5" odd="1.52"/>
+						<choice id="194559808" name="Under 1.5" odd="2.45"/>
+						<choice id="194559813" name="Over 2.5" odd="2.60"/>
+						<choice id="194559818" name="Under 2.5" odd="1.48"/>
+						<choice id="194559823" name="Over 3.5" odd="5.00"/>
+						<choice id="194559828" name="Under 3.5" odd="1.16"/>
+						<choice id="194559833" name="Over 4.5" odd="9.00"/>
+						<choice id="194559838" name="Under 4.5" odd="1.04"/>
+					</bet>
+					<bet code="Ftb_Dbc" id="26750981" name="Double Chance">
+						<choice id="194560687" name="%1% or Draw" odd="1.35"/>
+						<choice id="194560692" name="%1% or %2%" odd="1.38"/>
+						<choice id="194560697" name="Draw or %2%" odd="1.55"/>
+					</bet>
+					<bet code="Ftb_Mr3" id="26751010" name="Match Result">
+						<choice id="194560449" name="%1%" odd="2.35"/>
+						<choice id="194560454" name="Draw" odd="2.90"/>
+						<choice id="194560459" name="%2%" odd="3.10"/>
+					</bet>
+					<bet code="Ftb_Htf" id="26751024" name="Half-Time / Full-Time">
+						<choice id="194560482" name="%1% / %1%" odd="3.90"/>
+						<choice id="194560487" name="%1% / Draw" odd="13.00"/>
+						<choice id="194560492" name="%1% / %2%" odd="23.00"/>
+						<choice id="194560497" name="Draw / %1%" odd="5.60"/>
+						<choice id="194560502" name="Draw / Draw" odd="4.10"/>
+						<choice id="194560507" name="Draw / %2%" odd="6.75"/>
+						<choice id="194560512" name="%2% / %1%" odd="21.00"/>
+						<choice id="194560517" name="%2% / Draw" odd="12.50"/>
+						<choice id="194560522" name="%2% / %2%" odd="5.10"/>
+					</bet>
+					<bet code="Ftb_Fts" id="26751048" name="First Team To Score">
+						<choice id="194560527" name="%1%" odd="1.95"/>
+						<choice id="194560532" name="%2%" odd="2.30"/>
+						<choice id="194560537" name="No Goal" odd="6.25"/>
+					</bet>
+				</bets>
+			</match>
+			<match id="1169905" live_id="" name="Caen - Lorient" start_date="2016-08-13T19:00:00" streaming="0">
+				<bets>
+					<bet code="Ftb_23" id="26752246" name="Handicap">
+						<choice id="194569780" name="%1% -3" odd="20.00"/>
+						<choice id="194569785" name="Draw (%1% -3)" odd="11.50"/>
+						<choice id="194569790" name="%2% +3" odd="1.03"/>
+						<choice id="194569795" name="%1% -2" odd="9.50"/>
+						<choice id="194569800" name="Draw (%1% -2)" odd="6.00"/>
+						<choice id="194569805" name="%2% +2" odd="1.20"/>
+						<choice id="194569810" name="%1% -1" odd="4.10"/>
+						<choice id="194569815" name="Draw (%1% -1)" odd="3.60"/>
+						<choice id="194569820" name="%2% +1" odd="1.68"/>
+						<choice id="194569826" name="%1% +1" odd="1.28"/>
+						<choice id="194569830" name="Draw (%1% +1)" odd="4.80"/>
+						<choice id="194569835" name="%2% -1" odd="7.75"/>
+						<choice id="194569840" name="%1% +2" odd="1.06"/>
+						<choice id="194569845" name="Draw (%1% +2)" odd="9.50"/>
+						<choice id="194569850" name="%2% -2" odd="18.00"/>
+					</bet>
+					<bet code="Ftb_Tgl" id="26752260" name="Total Goals">
+						<choice id="194570015" name="0 - 1" odd="2.80"/>
+						<choice id="194570020" name="2 - 3" odd="1.95"/>
+						<choice id="194570025" name="4+" odd="4.20"/>
+					</bet>
+					<bet code="Ftb_Htr" id="26752275" name="Half-Time Result">
+						<choice id="194569960" name="%1%" odd="2.75"/>
+						<choice id="194569965" name="%2%" odd="3.80"/>
+						<choice id="194569970" name="Draw" odd="2.05"/>
+					</bet>
+					<bet code="Ftb_Tgl2" id="26752323" name="Number of Goals">
+						<choice id="194570236" name="0" odd="8.25"/>
+						<choice id="194570241" name="1" odd="3.90"/>
+						<choice id="194570246" name="2" odd="3.40"/>
+						<choice id="194570251" name="3" odd="4.25"/>
+						<choice id="194570256" name="4" odd="7.00"/>
+						<choice id="194570261" name="5+" odd="9.00"/>
+					</bet>
+					<bet code="Ftb_Csc" id="26752331" name="Correct Score">
+						<choice id="194570402" name="1 - 0" odd="6.25"/>
+						<choice id="194570406" name="2 - 0" odd="8.75"/>
+						<choice id="194570410" name="2 - 1" odd="8.50"/>
+						<choice id="194570414" name="3 - 0" odd="17.00"/>
+						<choice id="194570418" name="3 - 1" odd="17.00"/>
+						<choice id="194570422" name="3 - 2" odd="29.00"/>
+						<choice id="194570426" name="4 - 0" odd="36.00"/>
+						<choice id="194570430" name="4 - 1" odd="36.00"/>
+						<choice id="194570434" name="4 - 2" odd="55.00"/>
+						<choice id="194570438" name="4 - 3" odd="101.00"/>
+						<choice id="194570442" name="5 - 0" odd="90.00"/>
+						<choice id="194570446" name="5 - 1" odd="90.00"/>
+						<choice id="194570450" name="5 - 2" odd="101.00"/>
+						<choice id="194570454" name="5 - 3" odd="175.00"/>
+						<choice id="194570458" name="5 - 4" odd="250.00"/>
+						<choice id="194570462" name="6 - 0" odd="151.00"/>
+						<choice id="194570466" name="6 - 1" odd="151.00"/>
+						<choice id="194570470" name="6 - 2" odd="201.00"/>
+						<choice id="194570474" name="6 - 3" odd="250.00"/>
+						<choice id="194570478" name="7 - 0" odd="250.00"/>
+						<choice id="194570482" name="7 - 1" odd="250.00"/>
+						<choice id="194570486" name="8 - 0" odd="250.00"/>
+						<choice id="194570490" name="8 - 1" odd="250.00"/>
+						<choice id="194570494" name="9 - 0" odd="250.00"/>
+						<choice id="194570498" name="10 - 0" odd="250.00"/>
+						<choice id="194570502" name="0 - 0" odd="7.75"/>
+						<choice id="194570506" name="1 - 1" odd="6.25"/>
+						<choice id="194570510" name="2 - 2" odd="14.50"/>
+						<choice id="194570514" name="3 - 3" odd="51.00"/>
+						<choice id="194570518" name="4 - 4" odd="175.00"/>
+						<choice id="194570522" name="5 - 5" odd="250.00"/>
+						<choice id="194570526" name="0 - 1" odd="8.25"/>
+						<choice id="194570530" name="0 - 2" odd="14.50"/>
+						<choice id="194570534" name="1 - 2" odd="11.00"/>
+						<choice id="194570538" name="0 - 3" odd="34.00"/>
+						<choice id="194570542" name="1 - 3" odd="28.00"/>
+						<choice id="194570546" name="2 - 3" odd="34.00"/>
+						<choice id="194570550" name="0 - 4" odd="81.00"/>
+						<choice id="194570554" name="1 - 4" odd="61.00"/>
+						<choice id="194570558" name="2 - 4" odd="81.00"/>
+						<choice id="194570562" name="3 - 4" odd="101.00"/>
+						<choice id="194570566" name="0 - 5" odd="175.00"/>
+						<choice id="194570570" name="1 - 5" odd="125.00"/>
+						<choice id="194570574" name="2 - 5" odd="175.00"/>
+						<choice id="194570578" name="3 - 5" odd="250.00"/>
+						<choice id="194570582" name="4 - 5" odd="250.00"/>
+						<choice id="194570586" name="0 - 6" odd="250.00"/>
+						<choice id="194570590" name="1 - 6" odd="250.00"/>
+						<choice id="194570594" name="2 - 6" odd="250.00"/>
+						<choice id="194570598" name="3 - 6" odd="250.00"/>
+						<choice id="194570602" name="0 - 7" odd="250.00"/>
+						<choice id="194570606" name="1 - 7" odd="250.00"/>
+						<choice id="194570610" name="0 - 8" odd="250.00"/>
+						<choice id="194570614" name="1 - 8" odd="250.00"/>
+						<choice id="194570618" name="0 - 9" odd="250.00"/>
+					</bet>
+					<bet code="Ftb_Hcs" id="26752340" name="Half-Time Correct Score">
+						<choice id="194570326" name="1 - 0" odd="4.20"/>
+						<choice id="194570330" name="2 - 0" odd="11.00"/>
+						<choice id="194570334" name="2 - 1" odd="21.00"/>
+						<choice id="194570338" name="3 - 0" odd="36.00"/>
+						<choice id="194570342" name="3 - 1" odd="55.00"/>
+						<choice id="194570346" name="3 - 2" odd="125.00"/>
+						<choice id="194570350" name="4 - 0" odd="101.00"/>
+						<choice id="194570354" name="4 - 1" odd="126.00"/>
+						<choice id="194570358" name="0 - 0" odd="2.70"/>
+						<choice id="194570362" name="1 - 1" odd="7.75"/>
+						<choice id="194570366" name="2 - 2" odd="51.00"/>
+						<choice id="194570370" name="0 - 1" odd="5.50"/>
+						<choice id="194570374" name="0 - 2" odd="19.00"/>
+						<choice id="194570378" name="1 - 2" odd="26.00"/>
+						<choice id="194570382" name="0 - 3" odd="60.00"/>
+						<choice id="194570386" name="1 - 3" odd="90.00"/>
+						<choice id="194570390" name="2 - 3" odd="125.00"/>
+						<choice id="194570394" name="0 - 4" odd="175.00"/>
+						<choice id="194570398" name="1 - 4" odd="201.00"/>
+					</bet>
+					<bet code="Ftb_10" id="26752345" name="Over/Under">
+						<choice id="194570266" name="Over 0.5" odd="1.08"/>
+						<choice id="194570271" name="Under 0.5" odd="7.00"/>
+						<choice id="194570276" name="Over 1.5" odd="1.40"/>
+						<choice id="194570281" name="Under 1.5" odd="2.85"/>
+						<choice id="194570286" name="Over 2.5" odd="2.25"/>
+						<choice id="194570291" name="Under 2.5" odd="1.60"/>
+						<choice id="194570296" name="Over 3.5" odd="4.00"/>
+						<choice id="194570301" name="Under 3.5" odd="1.22"/>
+						<choice id="194570306" name="Over 4.5" odd="8.00"/>
+						<choice id="194570311" name="Under 4.5" odd="1.07"/>
+						<choice id="194570316" name="Over 5.5" odd="12.50"/>
+						<choice id="194570321" name="Under 5.5" odd="1.01"/>
+					</bet>
+					<bet code="Ftb_Dbc" id="26752367" name="Double Chance">
+						<choice id="194571160" name="%1% or Draw" odd="1.30"/>
+						<choice id="194571165" name="%1% or %2%" odd="1.35"/>
+						<choice id="194571170" name="Draw or %2%" odd="1.70"/>
+					</bet>
+					<bet code="Ftb_Mr3" id="26752396" name="Match Result">
+						<choice id="194570922" name="%1%" odd="2.10"/>
+						<choice id="194570927" name="Draw" odd="3.20"/>
+						<choice id="194570932" name="%2%" odd="3.40"/>
+					</bet>
+					<bet code="Ftb_Htf" id="26752415" name="Half-Time / Full-Time">
+						<choice id="194570955" name="%1% / %1%" odd="3.40"/>
+						<choice id="194570960" name="%1% / Draw" odd="12.50"/>
+						<choice id="194570965" name="%1% / %2%" odd="23.00"/>
+						<choice id="194570970" name="Draw / %1%" odd="5.25"/>
+						<choice id="194570975" name="Draw / Draw" odd="4.60"/>
+						<choice id="194570980" name="Draw / %2%" odd="7.25"/>
+						<choice id="194570985" name="%2% / %1%" odd="20.00"/>
+						<choice id="194570990" name="%2% / Draw" odd="12.50"/>
+						<choice id="194570995" name="%2% / %2%" odd="5.60"/>
+					</bet>
+					<bet code="Ftb_Fts" id="26752434" name="First Team To Score">
+						<choice id="194571000" name="%1%" odd="1.75"/>
+						<choice id="194571005" name="%2%" odd="2.40"/>
+						<choice id="194571010" name="No Goal" odd="7.50"/>
+					</bet>
+				</bets>
+			</match>
+			<match id="1169897" live_id="" name="Nancy - Lyon" start_date="2016-08-14T14:00:00" streaming="0">
+				<bets>
+					<bet code="Ftb_23" id="26750662" name="Handicap">
+						<choice id="194557827" name="%1% -2" odd="17.00"/>
+						<choice id="194557832" name="Draw (%1% -2)" odd="9.50"/>
+						<choice id="194557837" name="%2% +2" odd="1.06"/>
+						<choice id="194557842" name="%1% -1" odd="7.25"/>
+						<choice id="194557847" name="Draw (%1% -1)" odd="4.60"/>
+						<choice id="194557852" name="%2% +1" odd="1.33"/>
+						<choice id="194557858" name="%1% +1" odd="1.60"/>
+						<choice id="194557862" name="Draw (%1% +1)" odd="3.60"/>
+						<choice id="194557867" name="%2% -1" odd="4.60"/>
+						<choice id="194557872" name="%1% +2" odd="1.16"/>
+						<choice id="194557877" name="Draw (%1% +2)" odd="6.50"/>
+						<choice id="194557882" name="%2% -2" odd="10.50"/>
+						<choice id="194557887" name="%1% +3" odd="1.02"/>
+						<choice id="194557892" name="Draw (%1% +3)" odd="12.00"/>
+						<choice id="194557897" name="%2% -3" odd="22.00"/>
+					</bet>
+					<bet code="Ftb_Tgl" id="26750676" name="Total Goals">
+						<choice id="194558047" name="0 - 1" odd="2.60"/>
+						<choice id="194558052" name="2 - 3" odd="1.95"/>
+						<choice id="194558057" name="4+" odd="4.60"/>
+					</bet>
+					<bet code="Ftb_Htr" id="26750686" name="Half-Time Result">
+						<choice id="194557992" name="%1%" odd="3.75"/>
+						<choice id="194557997" name="%2%" odd="2.85"/>
+						<choice id="194558002" name="Draw" odd="2.00"/>
+					</bet>
+					<bet code="Ftb_Csc" id="26750734" name="Correct Score">
+						<choice id="194558434" name="1 - 0" odd="7.75"/>
+						<choice id="194558438" name="2 - 0" odd="13.00"/>
+						<choice id="194558442" name="2 - 1" odd="11.00"/>
+						<choice id="194558446" name="3 - 0" odd="32.00"/>
+						<choice id="194558450" name="3 - 1" odd="27.00"/>
+						<choice id="194558454" name="3 - 2" odd="35.00"/>
+						<choice id="194558458" name="4 - 0" odd="81.00"/>
+						<choice id="194558462" name="4 - 1" odd="60.00"/>
+						<choice id="194558466" name="4 - 2" odd="90.00"/>
+						<choice id="194558470" name="4 - 3" odd="125.00"/>
+						<choice id="194558474" name="5 - 0" odd="151.00"/>
+						<choice id="194558478" name="5 - 1" odd="125.00"/>
+						<choice id="194558482" name="5 - 2" odd="175.00"/>
+						<choice id="194558486" name="5 - 3" odd="250.00"/>
+						<choice id="194558490" name="5 - 4" odd="250.00"/>
+						<choice id="194558494" name="6 - 0" odd="250.00"/>
+						<choice id="194558498" name="6 - 1" odd="250.00"/>
+						<choice id="194558502" name="6 - 2" odd="250.00"/>
+						<choice id="194558506" name="6 - 3" odd="250.00"/>
+						<choice id="194558510" name="7 - 0" odd="250.00"/>
+						<choice id="194558514" name="7 - 1" odd="250.00"/>
+						<choice id="194558518" name="8 - 0" odd="250.00"/>
+						<choice id="194558522" name="8 - 1" odd="250.00"/>
+						<choice id="194558526" name="9 - 0" odd="250.00"/>
+						<choice id="194558534" name="0 - 0" odd="7.25"/>
+						<choice id="194558538" name="1 - 1" odd="6.00"/>
+						<choice id="194558542" name="2 - 2" odd="15.00"/>
+						<choice id="194558546" name="3 - 3" odd="55.00"/>
+						<choice id="194558550" name="4 - 4" odd="200.00"/>
+						<choice id="194558554" name="5 - 5" odd="250.00"/>
+						<choice id="194558558" name="0 - 1" odd="6.25"/>
+						<choice id="194558562" name="0 - 2" odd="9.00"/>
+						<choice id="194558566" name="1 - 2" odd="9.00"/>
+						<choice id="194558570" name="0 - 3" odd="19.00"/>
+						<choice id="194558574" name="1 - 3" odd="19.00"/>
+						<choice id="194558578" name="2 - 3" odd="30.00"/>
+						<choice id="194558582" name="0 - 4" odd="40.00"/>
+						<choice id="194558586" name="1 - 4" odd="40.00"/>
+						<choice id="194558590" name="2 - 4" odd="60.00"/>
+						<choice id="194558594" name="3 - 4" odd="101.00"/>
+						<choice id="194558598" name="0 - 5" odd="96.00"/>
+						<choice id="194558602" name="1 - 5" odd="96.00"/>
+						<choice id="194558606" name="2 - 5" odd="125.00"/>
+						<choice id="194558610" name="3 - 5" odd="200.00"/>
+						<choice id="194558614" name="4 - 5" odd="250.00"/>
+						<choice id="194558618" name="0 - 6" odd="200.00"/>
+						<choice id="194558622" name="1 - 6" odd="200.00"/>
+						<choice id="194558626" name="2 - 6" odd="250.00"/>
+						<choice id="194558630" name="3 - 6" odd="250.00"/>
+						<choice id="194558634" name="0 - 7" odd="250.00"/>
+						<choice id="194558638" name="1 - 7" odd="250.00"/>
+						<choice id="194558642" name="0 - 8" odd="250.00"/>
+						<choice id="194558646" name="1 - 8" odd="250.00"/>
+						<choice id="194558650" name="0 - 9" odd="250.00"/>
+						<choice id="194558654" name="0 - 10" odd="250.00"/>
+					</bet>
+					<bet code="Ftb_Tgl2" id="26750747" name="Number of Goals">
+						<choice id="194558268" name="0" odd="7.50"/>
+						<choice id="194558273" name="1" odd="3.75"/>
+						<choice id="194558278" name="2" odd="3.30"/>
+						<choice id="194558283" name="3" odd="4.40"/>
+						<choice id="194558288" name="4" odd="7.25"/>
+						<choice id="194558293" name="5+" odd="10.00"/>
+					</bet>
+					<bet code="Ftb_Hcs" id="26750756" name="Half-Time Correct Score">
+						<choice id="194558358" name="1 - 0" odd="5.40"/>
+						<choice id="194558362" name="2 - 0" odd="18.00"/>
+						<choice id="194558366" name="2 - 1" odd="27.00"/>
+						<choice id="194558370" name="3 - 0" odd="60.00"/>
+						<choice id="194558374" name="3 - 1" odd="90.00"/>
+						<choice id="194558378" name="3 - 2" odd="125.00"/>
+						<choice id="194558382" name="4 - 0" odd="175.00"/>
+						<choice id="194558386" name="4 - 1" odd="201.00"/>
+						<choice id="194558390" name="0 - 0" odd="2.60"/>
+						<choice id="194558394" name="1 - 1" odd="8.00"/>
+						<choice id="194558398" name="2 - 2" odd="55.00"/>
+						<choice id="194558402" name="0 - 1" odd="4.30"/>
+						<choice id="194558406" name="0 - 2" odd="12.00"/>
+						<choice id="194558410" name="1 - 2" odd="22.00"/>
+						<choice id="194558414" name="0 - 3" odd="40.00"/>
+						<choice id="194558418" name="1 - 3" odd="60.00"/>
+						<choice id="194558422" name="2 - 3" odd="125.00"/>
+						<choice id="194558426" name="0 - 4" odd="101.00"/>
+						<choice id="194558430" name="1 - 4" odd="151.00"/>
+					</bet>
+					<bet code="Ftb_10" id="26750761" name="Over/Under">
+						<choice id="194558298" name="Over 0.5" odd="1.09"/>
+						<choice id="194558303" name="Under 0.5" odd="6.75"/>
+						<choice id="194558308" name="Over 1.5" odd="1.45"/>
+						<choice id="194558313" name="Under 1.5" odd="2.70"/>
+						<choice id="194558318" name="Over 2.5" odd="2.35"/>
+						<choice id="194558323" name="Under 2.5" odd="1.55"/>
+						<choice id="194558328" name="Over 3.5" odd="4.30"/>
+						<choice id="194558333" name="Under 3.5" odd="1.20"/>
+						<choice id="194558338" name="Over 4.5" odd="8.50"/>
+						<choice id="194558343" name="Under 4.5" odd="1.06"/>
+					</bet>
+					<bet code="Ftb_Dbc" id="26750778" name="Double Chance">
+						<choice id="194559192" name="%1% or Draw" odd="1.62"/>
+						<choice id="194559197" name="%1% or %2%" odd="1.35"/>
+						<choice id="194559202" name="Draw or %2%" odd="1.35"/>
+					</bet>
+					<bet code="Ftb_Mr3" id="26750812" name="Match Result">
+						<choice id="194558954" name="%1%" odd="3.20"/>
+						<choice id="194558959" name="Draw" odd="3.10"/>
+						<choice id="194558964" name="%2%" odd="2.20"/>
+					</bet>
+					<bet code="Ftb_Htf" id="26750826" name="Half-Time / Full-Time">
+						<choice id="194558987" name="%1% / %1%" odd="5.25"/>
+						<choice id="194558992" name="%1% / Draw" odd="12.50"/>
+						<choice id="194558997" name="%1% / %2%" odd="20.00"/>
+						<choice id="194559002" name="Draw / %1%" odd="7.00"/>
+						<choice id="194559007" name="Draw / Draw" odd="4.40"/>
+						<choice id="194559012" name="Draw / %2%" odd="5.40"/>
+						<choice id="194559017" name="%2% / %1%" odd="23.00"/>
+						<choice id="194559022" name="%2% / Draw" odd="12.50"/>
+						<choice id="194559027" name="%2% / %2%" odd="3.60"/>
+					</bet>
+					<bet code="Ftb_Fts" id="26750850" name="First Team To Score">
+						<choice id="194559032" name="%1%" odd="2.30"/>
+						<choice id="194559037" name="%2%" odd="1.85"/>
+						<choice id="194559042" name="No Goal" odd="7.00"/>
+					</bet>
+				</bets>
+			</match>
+			<match id="1169902" live_id="" name="Nice - Rennes" start_date="2016-08-14T16:00:00" streaming="0">
+				<bets>
+					<bet code="Ftb_23" id="26751652" name="Handicap">
+						<choice id="194565295" name="%1% -3" odd="23.00"/>
+						<choice id="194565300" name="Draw (%1% -3)" odd="13.00"/>
+						<choice id="194565305" name="%2% +3" odd="1.02"/>
+						<choice id="194565310" name="%1% -2" odd="11.00"/>
+						<choice id="194565315" name="Draw (%1% -2)" odd="6.50"/>
+						<choice id="194565320" name="%2% +2" odd="1.15"/>
+						<choice id="194565325" name="%1% -1" odd="4.75"/>
+						<choice id="194565330" name="Draw (%1% -1)" odd="3.70"/>
+						<choice id="194565335" name="%2% +1" odd="1.58"/>
+						<choice id="194565341" name="%1% +1" odd="1.33"/>
+						<choice id="194565345" name="Draw (%1% +1)" odd="4.50"/>
+						<choice id="194565350" name="%2% -1" odd="7.25"/>
+						<choice id="194565355" name="%1% +2" odd="1.07"/>
+						<choice id="194565360" name="Draw (%1% +2)" odd="9.00"/>
+						<choice id="194565365" name="%2% -2" odd="17.00"/>
+					</bet>
+					<bet code="Ftb_Tgl" id="26751666" name="Total Goals">
+						<choice id="194565530" name="0 - 1" odd="2.60"/>
+						<choice id="194565535" name="2 - 3" odd="1.95"/>
+						<choice id="194565540" name="4+" odd="4.75"/>
+					</bet>
+					<bet code="Ftb_Htr" id="26751676" name="Half-Time Result">
+						<choice id="194565475" name="%1%" odd="2.90"/>
+						<choice id="194565480" name="%2%" odd="3.70"/>
+						<choice id="194565485" name="Draw" odd="2.00"/>
+					</bet>
+					<bet code="Ftb_Tgl2" id="26751725" name="Number of Goals">
+						<choice id="194565751" name="0" odd="7.50"/>
+						<choice id="194565756" name="1" odd="3.70"/>
+						<choice id="194565761" name="2" odd="3.30"/>
+						<choice id="194565766" name="3" odd="4.40"/>
+						<choice id="194565771" name="4" odd="7.50"/>
+						<choice id="194565776" name="5+" odd="10.50"/>
+					</bet>
+					<bet code="Ftb_Csc" id="26751733" name="Correct Score">
+						<choice id="194565917" name="1 - 0" odd="6.25"/>
+						<choice id="194565921" name="2 - 0" odd="9.50"/>
+						<choice id="194565925" name="2 - 1" odd="9.00"/>
+						<choice id="194565929" name="3 - 0" odd="20.00"/>
+						<choice id="194565933" name="3 - 1" odd="20.00"/>
+						<choice id="194565937" name="3 - 2" odd="31.00"/>
+						<choice id="194565941" name="4 - 0" odd="45.00"/>
+						<choice id="194565945" name="4 - 1" odd="41.00"/>
+						<choice id="194565949" name="4 - 2" odd="61.00"/>
+						<choice id="194565953" name="4 - 3" odd="101.00"/>
+						<choice id="194565957" name="5 - 0" odd="100.00"/>
+						<choice id="194565961" name="5 - 1" odd="100.00"/>
+						<choice id="194565965" name="5 - 2" odd="125.00"/>
+						<choice id="194565969" name="5 - 3" odd="201.00"/>
+						<choice id="194565973" name="5 - 4" odd="250.00"/>
+						<choice id="194565977" name="6 - 0" odd="200.00"/>
+						<choice id="194565981" name="6 - 1" odd="200.00"/>
+						<choice id="194565985" name="6 - 2" odd="250.00"/>
+						<choice id="194565989" name="6 - 3" odd="250.00"/>
+						<choice id="194565993" name="7 - 0" odd="250.00"/>
+						<choice id="194565997" name="7 - 1" odd="250.00"/>
+						<choice id="194566001" name="8 - 0" odd="250.00"/>
+						<choice id="194566005" name="8 - 1" odd="250.00"/>
+						<choice id="194566009" name="9 - 0" odd="250.00"/>
+						<choice id="194566013" name="10 - 0" odd="250.00"/>
+						<choice id="194566017" name="0 - 0" odd="7.25"/>
+						<choice id="194566021" name="1 - 1" odd="6.00"/>
+						<choice id="194566025" name="2 - 2" odd="15.00"/>
+						<choice id="194566029" name="3 - 3" odd="56.00"/>
+						<choice id="194566033" name="4 - 4" odd="200.00"/>
+						<choice id="194566037" name="5 - 5" odd="250.00"/>
+						<choice id="194566041" name="0 - 1" odd="7.50"/>
+						<choice id="194566045" name="0 - 2" odd="13.00"/>
+						<choice id="194566049" name="1 - 2" odd="11.00"/>
+						<choice id="194566053" name="0 - 3" odd="31.00"/>
+						<choice id="194566057" name="1 - 3" odd="27.00"/>
+						<choice id="194566061" name="2 - 3" odd="35.00"/>
+						<choice id="194566065" name="0 - 4" odd="76.00"/>
+						<choice id="194566069" name="1 - 4" odd="60.00"/>
+						<choice id="194566073" name="2 - 4" odd="90.00"/>
+						<choice id="194566077" name="3 - 4" odd="125.00"/>
+						<choice id="194566081" name="0 - 5" odd="150.00"/>
+						<choice id="194566085" name="1 - 5" odd="125.00"/>
+						<choice id="194566089" name="2 - 5" odd="175.00"/>
+						<choice id="194566093" name="3 - 5" odd="250.00"/>
+						<choice id="194566097" name="4 - 5" odd="250.00"/>
+						<choice id="194566101" name="0 - 6" odd="250.00"/>
+						<choice id="194566105" name="1 - 6" odd="250.00"/>
+						<choice id="194566109" name="2 - 6" odd="250.00"/>
+						<choice id="194566113" name="3 - 6" odd="250.00"/>
+						<choice id="194566117" name="0 - 7" odd="250.00"/>
+						<choice id="194566121" name="1 - 7" odd="250.00"/>
+						<choice id="194566125" name="0 - 8" odd="250.00"/>
+						<choice id="194566129" name="1 - 8" odd="250.00"/>
+						<choice id="194566133" name="0 - 9" odd="250.00"/>
+					</bet>
+					<bet code="Ftb_Hcs" id="26751746" name="Half-Time Correct Score">
+						<choice id="194565841" name="1 - 0" odd="4.40"/>
+						<choice id="194565845" name="2 - 0" odd="12.00"/>
+						<choice id="194565849" name="2 - 1" odd="23.00"/>
+						<choice id="194565853" name="3 - 0" odd="40.00"/>
+						<choice id="194565857" name="3 - 1" odd="65.00"/>
+						<choice id="194565861" name="3 - 2" odd="125.00"/>
+						<choice id="194565865" name="4 - 0" odd="125.00"/>
+						<choice id="194565869" name="4 - 1" odd="175.00"/>
+						<choice id="194565873" name="0 - 0" odd="2.55"/>
+						<choice id="194565877" name="1 - 1" odd="8.00"/>
+						<choice id="194565881" name="2 - 2" odd="55.00"/>
+						<choice id="194565885" name="0 - 1" odd="5.25"/>
+						<choice id="194565889" name="0 - 2" odd="17.00"/>
+						<choice id="194565893" name="1 - 2" odd="27.00"/>
+						<choice id="194565897" name="0 - 3" odd="56.00"/>
+						<choice id="194565901" name="1 - 3" odd="90.00"/>
+						<choice id="194565905" name="2 - 3" odd="126.00"/>
+						<choice id="194565909" name="0 - 4" odd="175.00"/>
+						<choice id="194565913" name="1 - 4" odd="201.00"/>
+					</bet>
+					<bet code="Ftb_10" id="26751751" name="Over/Under">
+						<choice id="194565781" name="Over 0.5" odd="1.09"/>
+						<choice id="194565786" name="Under 0.5" odd="6.50"/>
+						<choice id="194565791" name="Over 1.5" odd="1.45"/>
+						<choice id="194565796" name="Under 1.5" odd="2.60"/>
+						<choice id="194565801" name="Over 2.5" odd="2.40"/>
+						<choice id="194565806" name="Under 2.5" odd="1.52"/>
+						<choice id="194565811" name="Over 3.5" odd="4.30"/>
+						<choice id="194565816" name="Under 3.5" odd="1.18"/>
+						<choice id="194565821" name="Over 4.5" odd="8.50"/>
+						<choice id="194565826" name="Under 4.5" odd="1.05"/>
+					</bet>
+					<bet code="Ftb_Dbc" id="26751773" name="Double Chance">
+						<choice id="194566675" name="%1% or Draw" odd="1.35"/>
+						<choice id="194566680" name="%1% or %2%" odd="1.35"/>
+						<choice id="194566685" name="Draw or %2%" odd="1.60"/>
+					</bet>
+					<bet code="Ftb_Mr3" id="26751802" name="Match Result">
+						<choice id="194566437" name="%1%" odd="2.25"/>
+						<choice id="194566442" name="Draw" odd="3.00"/>
+						<choice id="194566447" name="%2%" odd="3.10"/>
+					</bet>
+					<bet code="Ftb_Htf" id="26751816" name="Half-Time / Full-Time">
+						<choice id="194566470" name="%1% / %1%" odd="3.75"/>
+						<choice id="194566475" name="%1% / Draw" odd="12.50"/>
+						<choice id="194566480" name="%1% / %2%" odd="23.00"/>
+						<choice id="194566485" name="Draw / %1%" odd="5.50"/>
+						<choice id="194566490" name="Draw / Draw" odd="4.40"/>
+						<choice id="194566495" name="Draw / %2%" odd="6.75"/>
+						<choice id="194566500" name="%2% / %1%" odd="21.00"/>
+						<choice id="194566505" name="%2% / Draw" odd="12.50"/>
+						<choice id="194566510" name="%2% / %2%" odd="5.25"/>
+					</bet>
+					<bet code="Ftb_Fts" id="26751840" name="First Team To Score">
+						<choice id="194566515" name="%1%" odd="1.88"/>
+						<choice id="194566520" name="%2%" odd="2.30"/>
+						<choice id="194566525" name="No Goal" odd="6.75"/>
+					</bet>
+				</bets>
+			</match>
+			<match id="1169903" live_id="" name="Marseille - Toulouse" start_date="2016-08-14T20:00:00" streaming="0">
+				<bets>
+					<bet code="Ftb_23" id="26751850" name="Handicap">
+						<choice id="194566790" name="%1% -3" odd="18.00"/>
+						<choice id="194566795" name="Draw (%1% -3)" odd="10.50"/>
+						<choice id="194566800" name="%2% +3" odd="1.05"/>
+						<choice id="194566805" name="%1% -2" odd="8.25"/>
+						<choice id="194566810" name="Draw (%1% -2)" odd="5.60"/>
+						<choice id="194566815" name="%2% +2" odd="1.22"/>
+						<choice id="194566820" name="%1% -1" odd="3.70"/>
+						<choice id="194566825" name="Draw (%1% -1)" odd="3.50"/>
+						<choice id="194566830" name="%2% +1" odd="1.75"/>
+						<choice id="194566836" name="%1% +1" odd="1.25"/>
+						<choice id="194566840" name="Draw (%1% +1)" odd="5.25"/>
+						<choice id="194566845" name="%2% -1" odd="8.75"/>
+						<choice id="194566850" name="%1% +2" odd="1.04"/>
+						<choice id="194566855" name="Draw (%1% +2)" odd="11.00"/>
+						<choice id="194566860" name="%2% -2" odd="21.00"/>
+					</bet>
+					<bet code="Ftb_Tgl" id="26751864" name="Total Goals">
+						<choice id="194567025" name="0 - 1" odd="2.90"/>
+						<choice id="194567030" name="2 - 3" odd="1.95"/>
+						<choice id="194567035" name="4+" odd="3.90"/>
+					</bet>
+					<bet code="Ftb_Htr" id="26751879" name="Half-Time Result">
+						<choice id="194566970" name="%1%" odd="2.65"/>
+						<choice id="194566975" name="%2%" odd="4.30"/>
+						<choice id="194566980" name="Draw" odd="2.00"/>
+					</bet>
+					<bet code="Ftb_Csc" id="26751922" name="Correct Score">
+						<choice id="194567412" name="1 - 0" odd="6.25"/>
+						<choice id="194567416" name="2 - 0" odd="8.25"/>
+						<choice id="194567420" name="2 - 1" odd="8.25"/>
+						<choice id="194567424" name="3 - 0" odd="15.00"/>
+						<choice id="194567428" name="3 - 1" odd="15.00"/>
+						<choice id="194567432" name="3 - 2" odd="27.00"/>
+						<choice id="194567436" name="4 - 0" odd="33.00"/>
+						<choice id="194567440" name="4 - 1" odd="33.00"/>
+						<choice id="194567444" name="4 - 2" odd="51.00"/>
+						<choice id="194567448" name="4 - 3" odd="96.00"/>
+						<choice id="194567452" name="5 - 0" odd="75.00"/>
+						<choice id="194567456" name="5 - 1" odd="76.00"/>
+						<choice id="194567460" name="5 - 2" odd="101.00"/>
+						<choice id="194567464" name="5 - 3" odd="175.00"/>
+						<choice id="194567468" name="5 - 4" odd="250.00"/>
+						<choice id="194567472" name="6 - 0" odd="125.00"/>
+						<choice id="194567476" name="6 - 1" odd="125.00"/>
+						<choice id="194567480" name="6 - 2" odd="200.00"/>
+						<choice id="194567484" name="6 - 3" odd="250.00"/>
+						<choice id="194567488" name="7 - 0" odd="250.00"/>
+						<choice id="194567492" name="7 - 1" odd="250.00"/>
+						<choice id="194567496" name="8 - 0" odd="250.00"/>
+						<choice id="194567500" name="8 - 1" odd="250.00"/>
+						<choice id="194567504" name="9 - 0" odd="250.00"/>
+						<choice id="194567508" name="10 - 0" odd="250.00"/>
+						<choice id="194567512" name="0 - 0" odd="8.25"/>
+						<choice id="194567516" name="1 - 1" odd="6.25"/>
+						<choice id="194567520" name="2 - 2" odd="13.50"/>
+						<choice id="194567524" name="3 - 3" odd="51.00"/>
+						<choice id="194567528" name="4 - 4" odd="175.00"/>
+						<choice id="194567532" name="5 - 5" odd="250.00"/>
+						<choice id="194567536" name="0 - 1" odd="9.00"/>
+						<choice id="194567540" name="0 - 2" odd="17.00"/>
+						<choice id="194567544" name="1 - 2" odd="11.50"/>
+						<choice id="194567548" name="0 - 3" odd="40.00"/>
+						<choice id="194567552" name="1 - 3" odd="30.00"/>
+						<choice id="194567556" name="2 - 3" odd="34.00"/>
+						<choice id="194567560" name="0 - 4" odd="95.00"/>
+						<choice id="194567564" name="1 - 4" odd="75.00"/>
+						<choice id="194567568" name="2 - 4" odd="90.00"/>
+						<choice id="194567572" name="3 - 4" odd="101.00"/>
+						<choice id="194567576" name="0 - 5" odd="200.00"/>
+						<choice id="194567580" name="1 - 5" odd="150.00"/>
+						<choice id="194567584" name="2 - 5" odd="175.00"/>
+						<choice id="194567588" name="3 - 5" odd="250.00"/>
+						<choice id="194567592" name="4 - 5" odd="250.00"/>
+						<choice id="194567596" name="0 - 6" odd="250.00"/>
+						<choice id="194567600" name="1 - 6" odd="250.00"/>
+						<choice id="194567604" name="2 - 6" odd="250.00"/>
+						<choice id="194567608" name="3 - 6" odd="250.00"/>
+						<choice id="194567612" name="0 - 7" odd="250.00"/>
+						<choice id="194567616" name="1 - 7" odd="250.00"/>
+						<choice id="194567620" name="0 - 8" odd="250.00"/>
+						<choice id="194567624" name="1 - 8" odd="250.00"/>
+						<choice id="194567628" name="0 - 9" odd="250.00"/>
+					</bet>
+					<bet code="Ftb_Tgl2" id="26751927" name="Number of Goals">
+						<choice id="194567246" name="0" odd="8.50"/>
+						<choice id="194567251" name="1" odd="4.15"/>
+						<choice id="194567256" name="2" odd="3.40"/>
+						<choice id="194567261" name="3" odd="4.20"/>
+						<choice id="194567266" name="4" odd="6.50"/>
+						<choice id="194567271" name="5+" odd="8.25"/>
+					</bet>
+					<bet code="Ftb_Hcs" id="26751944" name="Half-Time Correct Score">
+						<choice id="194567336" name="1 - 0" odd="4.10"/>
+						<choice id="194567340" name="2 - 0" odd="10.50"/>
+						<choice id="194567344" name="2 - 1" odd="21.00"/>
+						<choice id="194567348" name="3 - 0" odd="35.00"/>
+						<choice id="194567352" name="3 - 1" odd="55.00"/>
+						<choice id="194567356" name="3 - 2" odd="125.00"/>
+						<choice id="194567360" name="4 - 0" odd="101.00"/>
+						<choice id="194567364" name="4 - 1" odd="126.00"/>
+						<choice id="194567368" name="0 - 0" odd="2.65"/>
+						<choice id="194567372" name="1 - 1" odd="8.00"/>
+						<choice id="194567376" name="2 - 2" odd="51.00"/>
+						<choice id="194567380" name="0 - 1" odd="6.00"/>
+						<choice id="194567384" name="0 - 2" odd="22.00"/>
+						<choice id="194567388" name="1 - 2" odd="28.00"/>
+						<choice id="194567392" name="0 - 3" odd="81.00"/>
+						<choice id="194567396" name="1 - 3" odd="95.00"/>
+						<choice id="194567400" name="2 - 3" odd="126.00"/>
+						<choice id="194567404" name="0 - 4" odd="201.00"/>
+						<choice id="194567408" name="1 - 4" odd="250.00"/>
+					</bet>
+					<bet code="Ftb_10" id="26751949" name="Over/Under">
+						<choice id="194567276" name="Over 0.5" odd="1.07"/>
+						<choice id="194567281" name="Under 0.5" odd="7.50"/>
+						<choice id="194567286" name="Over 1.5" odd="1.38"/>
+						<choice id="194567291" name="Under 1.5" odd="3.00"/>
+						<choice id="194567296" name="Over 2.5" odd="2.15"/>
+						<choice id="194567301" name="Under 2.5" odd="1.65"/>
+						<choice id="194567306" name="Over 3.5" odd="3.75"/>
+						<choice id="194567311" name="Under 3.5" odd="1.25"/>
+						<choice id="194567316" name="Over 4.5" odd="7.25"/>
+						<choice id="194567321" name="Under 4.5" odd="1.08"/>
+						<choice id="194567326" name="Over 5.5" odd="12.00"/>
+						<choice id="194567331" name="Under 5.5" odd="1.01"/>
+					</bet>
+					<bet code="Ftb_Dbc" id="26751971" name="Double Chance">
+						<choice id="194568170" name="%1% or Draw" odd="1.25"/>
+						<choice id="194568175" name="%1% or %2%" odd="1.35"/>
+						<choice id="194568180" name="Draw or %2%" odd="1.80"/>
+					</bet>
+					<bet code="Ftb_Mr3" id="26752000" name="Match Result">
+						<choice id="194567932" name="%1%" odd="1.95"/>
+						<choice id="194567937" name="Draw" odd="3.20"/>
+						<choice id="194567942" name="%2%" odd="3.75"/>
+					</bet>
+					<bet code="Ftb_Htf" id="26752014" name="Half-Time / Full-Time">
+						<choice id="194567965" name="%1% / %1%" odd="3.25"/>
+						<choice id="194567970" name="%1% / Draw" odd="12.50"/>
+						<choice id="194567975" name="%1% / %2%" odd="23.00"/>
+						<choice id="194567980" name="Draw / %1%" odd="4.80"/>
+						<choice id="194567985" name="Draw / Draw" odd="4.60"/>
+						<choice id="194567990" name="Draw / %2%" odd="7.75"/>
+						<choice id="194567995" name="%2% / %1%" odd="18.00"/>
+						<choice id="194568000" name="%2% / Draw" odd="12.50"/>
+						<choice id="194568005" name="%2% / %2%" odd="6.50"/>
+					</bet>
+					<bet code="Ftb_Fts" id="26752038" name="First Team To Score">
+						<choice id="194568010" name="%1%" odd="1.68"/>
+						<choice id="194568015" name="%2%" odd="2.55"/>
+						<choice id="194568020" name="No Goal" odd="7.75"/>
+					</bet>
+				</bets>
+			</match>
+			<match id="1154320" live_id="" name="Ligue 1 2016/17" start_date="2017-05-20T19:00:00" streaming="0">
+				<bets>
+					<bet code="Ftb_Win" id="26283008" name="Outright Winner">
+						<choice id="190555869" name="Monaco" odd="16.00"/>
+						<choice id="190555874" name="Nancy" odd="1000.00"/>
+						<choice id="190555879" name="Saint-Etienne" odd="100.00"/>
+						<choice id="190555884" name="Dijon" odd="1000.00"/>
+						<choice id="190555889" name="Guingamp" odd="500.00"/>
+						<choice id="190555894" name="Bordeaux" odd="250.00"/>
+						<choice id="190555899" name="Lorient" odd="500.00"/>
+						<choice id="190555904" name="Nantes" odd="250.00"/>
+						<choice id="190555909" name="Rennes" odd="250.00"/>
+						<choice id="190555914" name="Montpellier" odd="500.00"/>
+						<choice id="190555919" name="Nice" odd="150.00"/>
+						<choice id="190555924" name="Lille" odd="100.00"/>
+						<choice id="190555929" name="Lyon" odd="12.00"/>
+						<choice id="190555934" name="Marseille" odd="40.00"/>
+						<choice id="190555939" name="Paris Saint-Germain" odd="1.10"/>
+						<choice id="190555944" name="Bastia" odd="500.00"/>
+						<choice id="190555949" name="Angers" odd="500.00"/>
+						<choice id="190555954" name="Caen" odd="500.00"/>
+						<choice id="198836863" name="Metz" odd="1000.00"/>
+						<choice id="198836868" name="Toulouse" odd="500.00"/>
+					</bet>
+					<bet code="Ftb_Rel" id="26283018" name="Relegation">
+						<choice id="190555995" name="Monaco" odd="500.00"/>
+						<choice id="190556000" name="Nancy" odd="3.25"/>
+						<choice id="190556005" name="Saint-Etienne" odd="50.00"/>
+						<choice id="190556010" name="Dijon" odd="2.50"/>
+						<choice id="190556015" name="Guingamp" odd="4.50"/>
+						<choice id="190556020" name="Bordeaux" odd="25.00"/>
+						<choice id="190556025" name="Lorient" odd="10.00"/>
+						<choice id="190556030" name="Nantes" odd="18.00"/>
+						<choice id="190556035" name="Rennes" odd="40.00"/>
+						<choice id="190556040" name="Montpellier" odd="8.00"/>
+						<choice id="190556045" name="Nice" odd="25.00"/>
+						<choice id="190556050" name="Lille" odd="40.00"/>
+						<choice id="190556055" name="Lyon" odd="250.00"/>
+						<choice id="190556060" name="Marseille" odd="30.00"/>
+						<choice id="190556065" name="Paris Saint-Germain" odd="500.00"/>
+						<choice id="190556214" name="Bastia" odd="6.00"/>
+						<choice id="190556219" name="Angers" odd="3.75"/>
+						<choice id="190556224" name="Caen" odd="7.00"/>
+						<choice id="195878956" name="Metz" odd="2.25"/>
+						<choice id="198836858" name="Toulouse" odd="5.00"/>
+					</bet>
+				</bets>
+			</match>
+		</event>
+	</sport>
+</sports>
