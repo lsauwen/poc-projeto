@@ -1,6 +1,6 @@
 # poc-projeto
 
-para rodar o projeto, basta ter o node 6 instalado
+para rodar o projeto, basta ter o node 6 e git instalados
 
 comando para clonar repositorio:  git clone https://github.com/lsauwen/poc-projeto.git
 
